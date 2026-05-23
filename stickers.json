@@ -1,0 +1,7938 @@
+[
+  {
+    "code": "00",
+    "label": "PANINI LOGO",
+    "section": "PANINI",
+    "type": "intro",
+    "sticker_number": 0,
+    "album_page": null
+  },
+  {
+    "code": "KOR-1",
+    "label": "BADGE",
+    "section": "KOREA REPUBLIC",
+    "type": "emblem",
+    "sticker_number": 1,
+    "album_page": null
+  },
+  {
+    "code": "CAN-1",
+    "label": "BADGE",
+    "section": "CANADA",
+    "type": "emblem",
+    "sticker_number": 1,
+    "album_page": null
+  },
+  {
+    "code": "QAT-1",
+    "label": "BADGE",
+    "section": "QATAR",
+    "type": "emblem",
+    "sticker_number": 1,
+    "album_page": null
+  },
+  {
+    "code": "SCO-1",
+    "label": "BADGE",
+    "section": "SCOTLAND",
+    "type": "emblem",
+    "sticker_number": 1,
+    "album_page": null
+  },
+  {
+    "code": "GER-1",
+    "label": "BADGE",
+    "section": "GERMANY",
+    "type": "emblem",
+    "sticker_number": 1,
+    "album_page": null
+  },
+  {
+    "code": "JPN-1",
+    "label": "BADGE",
+    "section": "JAPAN",
+    "type": "emblem",
+    "sticker_number": 1,
+    "album_page": null
+  },
+  {
+    "code": "IRN-1",
+    "label": "BADGE",
+    "section": "IRAN",
+    "type": "emblem",
+    "sticker_number": 1,
+    "album_page": null
+  },
+  {
+    "code": "URU-1",
+    "label": "BADGE",
+    "section": "URUGUAY",
+    "type": "emblem",
+    "sticker_number": 1,
+    "album_page": null
+  },
+  {
+    "code": "ARG-1",
+    "label": "BADGE",
+    "section": "ARGENTINA",
+    "type": "emblem",
+    "sticker_number": 1,
+    "album_page": null
+  },
+  {
+    "code": "COD-1",
+    "label": "BADGE",
+    "section": "CONGO DR",
+    "type": "emblem",
+    "sticker_number": 1,
+    "album_page": null
+  },
+  {
+    "code": "GHA-1",
+    "label": "BADGE",
+    "section": "GHANA",
+    "type": "emblem",
+    "sticker_number": 1,
+    "album_page": null
+  },
+  {
+    "code": "CZE-1",
+    "label": "BADGE",
+    "section": "CZECHIA",
+    "type": "emblem",
+    "sticker_number": 1,
+    "album_page": null
+  },
+  {
+    "code": "SUI-1",
+    "label": "BADGE",
+    "section": "SWITZERLAND",
+    "type": "emblem",
+    "sticker_number": 1,
+    "album_page": null
+  },
+  {
+    "code": "USA-1",
+    "label": "BADGE",
+    "section": "USA",
+    "type": "emblem",
+    "sticker_number": 1,
+    "album_page": null
+  },
+  {
+    "code": "CUW-1",
+    "label": "BADGE",
+    "section": "CURACAO",
+    "type": "emblem",
+    "sticker_number": 1,
+    "album_page": null
+  },
+  {
+    "code": "SWE-1",
+    "label": "BADGE",
+    "section": "SWEDEN",
+    "type": "emblem",
+    "sticker_number": 1,
+    "album_page": null
+  },
+  {
+    "code": "NZL-1",
+    "label": "BADGE",
+    "section": "NEW ZEALAND",
+    "type": "emblem",
+    "sticker_number": 1,
+    "album_page": null
+  },
+  {
+    "code": "FRA-1",
+    "label": "BADGE",
+    "section": "FRANCE",
+    "type": "emblem",
+    "sticker_number": 1,
+    "album_page": null
+  },
+  {
+    "code": "ALG-1",
+    "label": "BADGE",
+    "section": "ALGERIA",
+    "type": "emblem",
+    "sticker_number": 1,
+    "album_page": null
+  },
+  {
+    "code": "UZB-1",
+    "label": "BADGE",
+    "section": "UZBEKISTAN",
+    "type": "emblem",
+    "sticker_number": 1,
+    "album_page": null
+  },
+  {
+    "code": "PAN-1",
+    "label": "BADGE",
+    "section": "PANAMA",
+    "type": "emblem",
+    "sticker_number": 1,
+    "album_page": null
+  },
+  {
+    "code": "BIH-1",
+    "label": "BADGE",
+    "section": "BOSNIA-HERZEGOVINA",
+    "type": "emblem",
+    "sticker_number": 1,
+    "album_page": null
+  },
+  {
+    "code": "HAI-1",
+    "label": "BADGE",
+    "section": "HAITI",
+    "type": "emblem",
+    "sticker_number": 1,
+    "album_page": null
+  },
+  {
+    "code": "TUR-1",
+    "label": "BADGE",
+    "section": "TURKEY",
+    "type": "emblem",
+    "sticker_number": 1,
+    "album_page": null
+  },
+  {
+    "code": "NED-1",
+    "label": "BADGE",
+    "section": "NETHERLANDS",
+    "type": "emblem",
+    "sticker_number": 1,
+    "album_page": null
+  },
+  {
+    "code": "EGY-1",
+    "label": "BADGE",
+    "section": "EGYPT",
+    "type": "emblem",
+    "sticker_number": 1,
+    "album_page": null
+  },
+  {
+    "code": "KSA-1",
+    "label": "BADGE",
+    "section": "SAUDI ARABIA",
+    "type": "emblem",
+    "sticker_number": 1,
+    "album_page": null
+  },
+  {
+    "code": "NOR-1",
+    "label": "BADGE",
+    "section": "NORWAY",
+    "type": "emblem",
+    "sticker_number": 1,
+    "album_page": null
+  },
+  {
+    "code": "POR-1",
+    "label": "BADGE",
+    "section": "PORTUGAL",
+    "type": "emblem",
+    "sticker_number": 1,
+    "album_page": null
+  },
+  {
+    "code": "CRO-1",
+    "label": "BADGE",
+    "section": "CROATIA",
+    "type": "emblem",
+    "sticker_number": 1,
+    "album_page": null
+  },
+  {
+    "code": "MEX-1",
+    "label": "BADGE",
+    "section": "MEXICO",
+    "type": "emblem",
+    "sticker_number": 1,
+    "album_page": null
+  },
+  {
+    "code": "MAR-1",
+    "label": "BADGE",
+    "section": "MOROCCO",
+    "type": "emblem",
+    "sticker_number": 1,
+    "album_page": null
+  },
+  {
+    "code": "AUS-1",
+    "label": "BADGE",
+    "section": "AUSTRALIA",
+    "type": "emblem",
+    "sticker_number": 1,
+    "album_page": null
+  },
+  {
+    "code": "ECU-1",
+    "label": "BADGE",
+    "section": "ECUADOR",
+    "type": "emblem",
+    "sticker_number": 1,
+    "album_page": null
+  },
+  {
+    "code": "BEL-1",
+    "label": "BADGE",
+    "section": "BELGIUM",
+    "type": "emblem",
+    "sticker_number": 1,
+    "album_page": null
+  },
+  {
+    "code": "CPV-1",
+    "label": "BADGE",
+    "section": "CAPE VERDE",
+    "type": "emblem",
+    "sticker_number": 1,
+    "album_page": null
+  },
+  {
+    "code": "IRQ-1",
+    "label": "BADGE",
+    "section": "IRAQ",
+    "type": "emblem",
+    "sticker_number": 1,
+    "album_page": null
+  },
+  {
+    "code": "JOR-1",
+    "label": "BADGE",
+    "section": "JORDAN",
+    "type": "emblem",
+    "sticker_number": 1,
+    "album_page": null
+  },
+  {
+    "code": "ENG-1",
+    "label": "BADGE",
+    "section": "ENGLAND",
+    "type": "emblem",
+    "sticker_number": 1,
+    "album_page": null
+  },
+  {
+    "code": "RSA-1",
+    "label": "BADGE",
+    "section": "SOUTH AFRICA",
+    "type": "emblem",
+    "sticker_number": 1,
+    "album_page": null
+  },
+  {
+    "code": "BRA-1",
+    "label": "BADGE",
+    "section": "BRAZIL",
+    "type": "emblem",
+    "sticker_number": 1,
+    "album_page": null
+  },
+  {
+    "code": "PAR-1",
+    "label": "BADGE",
+    "section": "PARAGUAY",
+    "type": "emblem",
+    "sticker_number": 1,
+    "album_page": null
+  },
+  {
+    "code": "CIV-1",
+    "label": "BADGE",
+    "section": "IVORY COAST",
+    "type": "emblem",
+    "sticker_number": 1,
+    "album_page": null
+  },
+  {
+    "code": "TUN-1",
+    "label": "BADGE",
+    "section": "TUNISIA",
+    "type": "emblem",
+    "sticker_number": 1,
+    "album_page": null
+  },
+  {
+    "code": "ESP-1",
+    "label": "BADGE",
+    "section": "SPAIN",
+    "type": "emblem",
+    "sticker_number": 1,
+    "album_page": null
+  },
+  {
+    "code": "SEN-1",
+    "label": "BADGE",
+    "section": "SENEGAL",
+    "type": "emblem",
+    "sticker_number": 1,
+    "album_page": null
+  },
+  {
+    "code": "AUT-1",
+    "label": "BADGE",
+    "section": "AUSTRIA",
+    "type": "emblem",
+    "sticker_number": 1,
+    "album_page": null
+  },
+  {
+    "code": "COL-1",
+    "label": "BADGE",
+    "section": "COLOMBIA",
+    "type": "emblem",
+    "sticker_number": 1,
+    "album_page": null
+  },
+  {
+    "code": "KOR-10",
+    "label": "JAESUNG LEE",
+    "section": "KOREA REPUBLIC",
+    "type": "player",
+    "sticker_number": 10,
+    "album_page": null
+  },
+  {
+    "code": "CAN-10",
+    "label": "STEPHEN EUSTÁQUIO",
+    "section": "CANADA",
+    "type": "player",
+    "sticker_number": 10,
+    "album_page": null
+  },
+  {
+    "code": "QAT-10",
+    "label": "KARIM BOUDIAF",
+    "section": "QATAR",
+    "type": "player",
+    "sticker_number": 10,
+    "album_page": null
+  },
+  {
+    "code": "SCO-10",
+    "label": "GRANT HANLEY",
+    "section": "SCOTLAND",
+    "type": "player",
+    "sticker_number": 10,
+    "album_page": null
+  },
+  {
+    "code": "GER-10",
+    "label": "JOSHUA KIMMICH",
+    "section": "GERMANY",
+    "type": "player",
+    "sticker_number": 10,
+    "album_page": null
+  },
+  {
+    "code": "JPN-10",
+    "label": "AO TANAKA",
+    "section": "JAPAN",
+    "type": "player",
+    "sticker_number": 10,
+    "album_page": null
+  },
+  {
+    "code": "IRN-10",
+    "label": "SALEH HARDANI",
+    "section": "IRAN",
+    "type": "player",
+    "sticker_number": 10,
+    "album_page": null
+  },
+  {
+    "code": "URU-10",
+    "label": "FEDERICO VALVERDE",
+    "section": "URUGUAY",
+    "type": "player",
+    "sticker_number": 10,
+    "album_page": null
+  },
+  {
+    "code": "ARG-10",
+    "label": "RODRIGO DE PAUL",
+    "section": "ARGENTINA",
+    "type": "player",
+    "sticker_number": 10,
+    "album_page": null
+  },
+  {
+    "code": "COD-10",
+    "label": "EDO KAYEMBE",
+    "section": "CONGO DR",
+    "type": "player",
+    "sticker_number": 10,
+    "album_page": null
+  },
+  {
+    "code": "GHA-10",
+    "label": "THOMAS PARTEY",
+    "section": "GHANA",
+    "type": "player",
+    "sticker_number": 10,
+    "album_page": null
+  },
+  {
+    "code": "CZE-10",
+    "label": "LUKÁŠ PROVOD",
+    "section": "CZECHIA",
+    "type": "player",
+    "sticker_number": 10,
+    "album_page": null
+  },
+  {
+    "code": "SUI-10",
+    "label": "DENIS ZAKARIA",
+    "section": "SWITZERLAND",
+    "type": "player",
+    "sticker_number": 10,
+    "album_page": null
+  },
+  {
+    "code": "USA-10",
+    "label": "WESTON MCKENNY",
+    "section": "USA",
+    "type": "player",
+    "sticker_number": 10,
+    "album_page": null
+  },
+  {
+    "code": "CUW-10",
+    "label": "GODFRIED ROEMERATOE",
+    "section": "CURACAO",
+    "type": "player",
+    "sticker_number": 10,
+    "album_page": null
+  },
+  {
+    "code": "SWE-10",
+    "label": "JESPER KARLSTRÖM",
+    "section": "SWEDEN",
+    "type": "player",
+    "sticker_number": 10,
+    "album_page": null
+  },
+  {
+    "code": "NZL-10",
+    "label": "JOE BELL",
+    "section": "NEW ZEALAND",
+    "type": "player",
+    "sticker_number": 10,
+    "album_page": null
+  },
+  {
+    "code": "FRA-10",
+    "label": "EDUARDO CAMAVINGA",
+    "section": "FRANCE",
+    "type": "player",
+    "sticker_number": 10,
+    "album_page": null
+  },
+  {
+    "code": "ALG-10",
+    "label": "HICHAM BOUDAOUI",
+    "section": "ALGERIA",
+    "type": "player",
+    "sticker_number": 10,
+    "album_page": null
+  },
+  {
+    "code": "UZB-10",
+    "label": "ODILJON HAMROBEKOV",
+    "section": "UZBEKISTAN",
+    "type": "player",
+    "sticker_number": 10,
+    "album_page": null
+  },
+  {
+    "code": "PAN-10",
+    "label": "CRISTIAN MARTÍN",
+    "section": "PANAMA",
+    "type": "player",
+    "sticker_number": 10,
+    "album_page": null
+  },
+  {
+    "code": "BIH-10",
+    "label": "ARMIN GIGOVIĆ",
+    "section": "BOSNIA-HERZEGOVINA",
+    "type": "player",
+    "sticker_number": 10,
+    "album_page": null
+  },
+  {
+    "code": "HAI-10",
+    "label": "LEVERTON PIERRE",
+    "section": "HAITI",
+    "type": "player",
+    "sticker_number": 10,
+    "album_page": null
+  },
+  {
+    "code": "TUR-10",
+    "label": "ISMAIL YÜKSEK",
+    "section": "TURKEY",
+    "type": "player",
+    "sticker_number": 10,
+    "album_page": null
+  },
+  {
+    "code": "NED-10",
+    "label": "TIJJANI REIJNDERS",
+    "section": "NETHERLANDS",
+    "type": "player",
+    "sticker_number": 10,
+    "album_page": null
+  },
+  {
+    "code": "EGY-10",
+    "label": "MARWAN ATTIA",
+    "section": "EGYPT",
+    "type": "player",
+    "sticker_number": 10,
+    "album_page": null
+  },
+  {
+    "code": "KSA-10",
+    "label": "ZIYAD ALJOHANI",
+    "section": "SAUDI ARABIA",
+    "type": "player",
+    "sticker_number": 10,
+    "album_page": null
+  },
+  {
+    "code": "NOR-10",
+    "label": "MARTIN ØDEGAARD",
+    "section": "NORWAY",
+    "type": "player",
+    "sticker_number": 10,
+    "album_page": null
+  },
+  {
+    "code": "POR-10",
+    "label": "BRUNO FERNANDES",
+    "section": "PORTUGAL",
+    "type": "player",
+    "sticker_number": 10,
+    "album_page": null
+  },
+  {
+    "code": "CRO-10",
+    "label": "MATEO KOVACIC",
+    "section": "CROATIA",
+    "type": "player",
+    "sticker_number": 10,
+    "album_page": null
+  },
+  {
+    "code": "MEX-10",
+    "label": "EDSON ÁLVAREZ",
+    "section": "MEXICO",
+    "type": "player",
+    "sticker_number": 10,
+    "album_page": null
+  },
+  {
+    "code": "MAR-10",
+    "label": "SOFYAN AMRABAT",
+    "section": "MOROCCO",
+    "type": "player",
+    "sticker_number": 10,
+    "album_page": null
+  },
+  {
+    "code": "AUS-10",
+    "label": "MILOS DEGENEK",
+    "section": "AUSTRALIA",
+    "type": "player",
+    "sticker_number": 10,
+    "album_page": null
+  },
+  {
+    "code": "ECU-10",
+    "label": "ALAN FRANCO",
+    "section": "ECUADOR",
+    "type": "player",
+    "sticker_number": 10,
+    "album_page": null
+  },
+  {
+    "code": "BEL-10",
+    "label": "AMADOU ONANA",
+    "section": "BELGIUM",
+    "type": "player",
+    "sticker_number": 10,
+    "album_page": null
+  },
+  {
+    "code": "CPV-10",
+    "label": "KEVIN PINA",
+    "section": "CAPE VERDE",
+    "type": "player",
+    "sticker_number": 10,
+    "album_page": null
+  },
+  {
+    "code": "IRQ-10",
+    "label": "AMIR AL-AMMARI",
+    "section": "IRAQ",
+    "type": "player",
+    "sticker_number": 10,
+    "album_page": null
+  },
+  {
+    "code": "JOR-10",
+    "label": "NIZAR AL-RASHDAN",
+    "section": "JORDAN",
+    "type": "player",
+    "sticker_number": 10,
+    "album_page": null
+  },
+  {
+    "code": "ENG-10",
+    "label": "DECLAN RICE",
+    "section": "ENGLAND",
+    "type": "player",
+    "sticker_number": 10,
+    "album_page": null
+  },
+  {
+    "code": "RSA-10",
+    "label": "NKOSINATHI SIBISI",
+    "section": "SOUTH AFRICA",
+    "type": "player",
+    "sticker_number": 10,
+    "album_page": null
+  },
+  {
+    "code": "BRA-10",
+    "label": "CASEMIEMIRO",
+    "section": "BRAZIL",
+    "type": "player",
+    "sticker_number": 10,
+    "album_page": null
+  },
+  {
+    "code": "PAR-10",
+    "label": "DIEGO GÓMEZ",
+    "section": "PARAGUAY",
+    "type": "player",
+    "sticker_number": 10,
+    "album_page": null
+  },
+  {
+    "code": "CIV-10",
+    "label": "FRANCK KESSIÉ",
+    "section": "IVORY COAST",
+    "type": "player",
+    "sticker_number": 10,
+    "album_page": null
+  },
+  {
+    "code": "TUN-10",
+    "label": "AÏSSA LAÏDOUNI",
+    "section": "TUNISIA",
+    "type": "player",
+    "sticker_number": 10,
+    "album_page": null
+  },
+  {
+    "code": "ESP-10",
+    "label": "RODRI",
+    "section": "SPAIN",
+    "type": "player",
+    "sticker_number": 10,
+    "album_page": null
+  },
+  {
+    "code": "SEN-10",
+    "label": "PAPE MARAR SARR",
+    "section": "SENEGAL",
+    "type": "player",
+    "sticker_number": 10,
+    "album_page": null
+  },
+  {
+    "code": "AUT-10",
+    "label": "XAVER SCHLAGER",
+    "section": "AUSTRIA",
+    "type": "player",
+    "sticker_number": 10,
+    "album_page": null
+  },
+  {
+    "code": "COL-10",
+    "label": "JEFFERSON LERMA",
+    "section": "COLOMBIA",
+    "type": "player",
+    "sticker_number": 10,
+    "album_page": null
+  },
+  {
+    "code": "KOR-11",
+    "label": "INBEOM HWANG",
+    "section": "KOREA REPUBLIC",
+    "type": "player",
+    "sticker_number": 11,
+    "album_page": null
+  },
+  {
+    "code": "CAN-11",
+    "label": "ISMAËL KONÉ",
+    "section": "CANADA",
+    "type": "player",
+    "sticker_number": 11,
+    "album_page": null
+  },
+  {
+    "code": "QAT-11",
+    "label": "ASSIM MADIBO",
+    "section": "QATAR",
+    "type": "player",
+    "sticker_number": 11,
+    "album_page": null
+  },
+  {
+    "code": "SCO-11",
+    "label": "SCOTT MCTOMINAY",
+    "section": "SCOTLAND",
+    "type": "player",
+    "sticker_number": 11,
+    "album_page": null
+  },
+  {
+    "code": "GER-11",
+    "label": "FLORIAN WIRTZ",
+    "section": "GERMANY",
+    "type": "player",
+    "sticker_number": 11,
+    "album_page": null
+  },
+  {
+    "code": "JPN-11",
+    "label": "DAICHI KAMADA",
+    "section": "JAPAN",
+    "type": "player",
+    "sticker_number": 11,
+    "album_page": null
+  },
+  {
+    "code": "IRN-11",
+    "label": "SAEED EZATOLAHI",
+    "section": "IRAN",
+    "type": "player",
+    "sticker_number": 11,
+    "album_page": null
+  },
+  {
+    "code": "URU-11",
+    "label": "GIORGIAN DE ARRASCAETA",
+    "section": "URUGUAY",
+    "type": "player",
+    "sticker_number": 11,
+    "album_page": null
+  },
+  {
+    "code": "ARG-11",
+    "label": "EXEQUIEL PALACIOS",
+    "section": "ARGENTINA",
+    "type": "player",
+    "sticker_number": 11,
+    "album_page": null
+  },
+  {
+    "code": "COD-11",
+    "label": "SAMUEL MOUTOUSSAMY",
+    "section": "CONGO DR",
+    "type": "player",
+    "sticker_number": 11,
+    "album_page": null
+  },
+  {
+    "code": "GHA-11",
+    "label": "SALIS ABDUL SAMED",
+    "section": "GHANA",
+    "type": "player",
+    "sticker_number": 11,
+    "album_page": null
+  },
+  {
+    "code": "CZE-11",
+    "label": "LUKÁŠ ČERV",
+    "section": "CZECHIA",
+    "type": "player",
+    "sticker_number": 11,
+    "album_page": null
+  },
+  {
+    "code": "SUI-11",
+    "label": "REMO FREULER",
+    "section": "SWITZERLAND",
+    "type": "player",
+    "sticker_number": 11,
+    "album_page": null
+  },
+  {
+    "code": "USA-11",
+    "label": "CHRISTIAN ROLDAN",
+    "section": "USA",
+    "type": "player",
+    "sticker_number": 11,
+    "album_page": null
+  },
+  {
+    "code": "CUW-11",
+    "label": "JUNINHO BACUNA",
+    "section": "CURACAO",
+    "type": "player",
+    "sticker_number": 11,
+    "album_page": null
+  },
+  {
+    "code": "SWE-11",
+    "label": "YASIN AYARI",
+    "section": "SWEDEN",
+    "type": "player",
+    "sticker_number": 11,
+    "album_page": null
+  },
+  {
+    "code": "NZL-11",
+    "label": "SARPREET SINGH",
+    "section": "NEW ZEALAND",
+    "type": "player",
+    "sticker_number": 11,
+    "album_page": null
+  },
+  {
+    "code": "FRA-11",
+    "label": "MANU KONÉ",
+    "section": "FRANCE",
+    "type": "player",
+    "sticker_number": 11,
+    "album_page": null
+  },
+  {
+    "code": "ALG-11",
+    "label": "RAMIZ ZERROUKI",
+    "section": "ALGERIA",
+    "type": "player",
+    "sticker_number": 11,
+    "album_page": null
+  },
+  {
+    "code": "UZB-11",
+    "label": "OTABEK SHUKUROV",
+    "section": "UZBEKISTAN",
+    "type": "player",
+    "sticker_number": 11,
+    "album_page": null
+  },
+  {
+    "code": "PAN-11",
+    "label": "ANIBAL GODOY",
+    "section": "PANAMA",
+    "type": "player",
+    "sticker_number": 11,
+    "album_page": null
+  },
+  {
+    "code": "BIH-11",
+    "label": "IVAN ŠUNJIĆ",
+    "section": "BOSNIA-HERZEGOVINA",
+    "type": "player",
+    "sticker_number": 11,
+    "album_page": null
+  },
+  {
+    "code": "HAI-11",
+    "label": "DANLEY JEAN JACQUES",
+    "section": "HAITI",
+    "type": "player",
+    "sticker_number": 11,
+    "album_page": null
+  },
+  {
+    "code": "TUR-11",
+    "label": "HAKAN ÇALHANOĞLU",
+    "section": "TURKEY",
+    "type": "player",
+    "sticker_number": 11,
+    "album_page": null
+  },
+  {
+    "code": "NED-11",
+    "label": "RYAN GRAVENBERCH",
+    "section": "NETHERLANDS",
+    "type": "player",
+    "sticker_number": 11,
+    "album_page": null
+  },
+  {
+    "code": "EGY-11",
+    "label": "ZIZO",
+    "section": "EGYPT",
+    "type": "player",
+    "sticker_number": 11,
+    "album_page": null
+  },
+  {
+    "code": "KSA-11",
+    "label": "ABDULLAH ALKHAIBARI",
+    "section": "SAUDI ARABIA",
+    "type": "player",
+    "sticker_number": 11,
+    "album_page": null
+  },
+  {
+    "code": "NOR-11",
+    "label": "SANDER BERGE",
+    "section": "NORWAY",
+    "type": "player",
+    "sticker_number": 11,
+    "album_page": null
+  },
+  {
+    "code": "POR-11",
+    "label": "RUBÉN NEVES",
+    "section": "PORTUGAL",
+    "type": "player",
+    "sticker_number": 11,
+    "album_page": null
+  },
+  {
+    "code": "CRO-11",
+    "label": "MARTIN BATURINA",
+    "section": "CROATIA",
+    "type": "player",
+    "sticker_number": 11,
+    "album_page": null
+  },
+  {
+    "code": "MEX-11",
+    "label": "ORBELIN PINEDA",
+    "section": "MEXICO",
+    "type": "player",
+    "sticker_number": 11,
+    "album_page": null
+  },
+  {
+    "code": "MAR-11",
+    "label": "AZZEDINE OUNAHI",
+    "section": "MOROCCO",
+    "type": "player",
+    "sticker_number": 11,
+    "album_page": null
+  },
+  {
+    "code": "AUS-11",
+    "label": "JACKSON IRVINE",
+    "section": "AUSTRALIA",
+    "type": "player",
+    "sticker_number": 11,
+    "album_page": null
+  },
+  {
+    "code": "ECU-11",
+    "label": "KENDRY PÁEZ",
+    "section": "ECUADOR",
+    "type": "player",
+    "sticker_number": 11,
+    "album_page": null
+  },
+  {
+    "code": "BEL-11",
+    "label": "NICOLAS RASKIN",
+    "section": "BELGIUM",
+    "type": "player",
+    "sticker_number": 11,
+    "album_page": null
+  },
+  {
+    "code": "CPV-11",
+    "label": "PATRICK ANDRADE",
+    "section": "CAPE VERDE",
+    "type": "player",
+    "sticker_number": 11,
+    "album_page": null
+  },
+  {
+    "code": "IRQ-11",
+    "label": "IBRAHIM BAVESH",
+    "section": "IRAQ",
+    "type": "player",
+    "sticker_number": 11,
+    "album_page": null
+  },
+  {
+    "code": "JOR-11",
+    "label": "NOOR AL-RAWABDER",
+    "section": "JORDAN",
+    "type": "player",
+    "sticker_number": 11,
+    "album_page": null
+  },
+  {
+    "code": "ENG-11",
+    "label": "JUDE BELLINGHAM",
+    "section": "ENGLAND",
+    "type": "player",
+    "sticker_number": 11,
+    "album_page": null
+  },
+  {
+    "code": "RSA-11",
+    "label": "TEBOHO MOKOENA",
+    "section": "SOUTH AFRICA",
+    "type": "player",
+    "sticker_number": 11,
+    "album_page": null
+  },
+  {
+    "code": "BRA-11",
+    "label": "BRUNO GUIMARÃES",
+    "section": "BRAZIL",
+    "type": "player",
+    "sticker_number": 11,
+    "album_page": null
+  },
+  {
+    "code": "PAR-11",
+    "label": "DAMIÁN BOBADILLA",
+    "section": "PARAGUAY",
+    "type": "player",
+    "sticker_number": 11,
+    "album_page": null
+  },
+  {
+    "code": "CIV-11",
+    "label": "SEKO FOFANA",
+    "section": "IVORY COAST",
+    "type": "player",
+    "sticker_number": 11,
+    "album_page": null
+  },
+  {
+    "code": "TUN-11",
+    "label": "FERJANI SASSI",
+    "section": "TUNISIA",
+    "type": "player",
+    "sticker_number": 11,
+    "album_page": null
+  },
+  {
+    "code": "ESP-11",
+    "label": "PEDRI",
+    "section": "SPAIN",
+    "type": "player",
+    "sticker_number": 11,
+    "album_page": null
+  },
+  {
+    "code": "SEN-11",
+    "label": "PAPE GUEYE",
+    "section": "SENEGAL",
+    "type": "player",
+    "sticker_number": 11,
+    "album_page": null
+  },
+  {
+    "code": "AUT-11",
+    "label": "MARCEL SABITZER",
+    "section": "AUSTRIA",
+    "type": "player",
+    "sticker_number": 11,
+    "album_page": null
+  },
+  {
+    "code": "COL-11",
+    "label": "KEVIN CASTAÑO",
+    "section": "COLOMBIA",
+    "type": "player",
+    "sticker_number": 11,
+    "album_page": null
+  },
+  {
+    "code": "KOR-12",
+    "label": "KANGIN LEE",
+    "section": "KOREA REPUBLIC",
+    "type": "player",
+    "sticker_number": 12,
+    "album_page": null
+  },
+  {
+    "code": "CAN-12",
+    "label": "JONATHAN OSORIO",
+    "section": "CANADA",
+    "type": "player",
+    "sticker_number": 12,
+    "album_page": null
+  },
+  {
+    "code": "QAT-12",
+    "label": "HAMED FATEHI",
+    "section": "QATAR",
+    "type": "player",
+    "sticker_number": 12,
+    "album_page": null
+  },
+  {
+    "code": "SCO-12",
+    "label": "BILLY GILMOUR",
+    "section": "SCOTLAND",
+    "type": "player",
+    "sticker_number": 12,
+    "album_page": null
+  },
+  {
+    "code": "GER-12",
+    "label": "FELIX NMECHA",
+    "section": "GERMANY",
+    "type": "player",
+    "sticker_number": 12,
+    "album_page": null
+  },
+  {
+    "code": "JPN-12",
+    "label": "TAKEFUSA KUBO",
+    "section": "JAPAN",
+    "type": "player",
+    "sticker_number": 12,
+    "album_page": null
+  },
+  {
+    "code": "IRN-12",
+    "label": "SAMAN GHODDOS",
+    "section": "IRAN",
+    "type": "player",
+    "sticker_number": 12,
+    "album_page": null
+  },
+  {
+    "code": "URU-12",
+    "label": "RODRIGO BENTANCUR",
+    "section": "URUGUAY",
+    "type": "player",
+    "sticker_number": 12,
+    "album_page": null
+  },
+  {
+    "code": "ARG-12",
+    "label": "LEANDRO PAREDES",
+    "section": "ARGENTINA",
+    "type": "player",
+    "sticker_number": 12,
+    "album_page": null
+  },
+  {
+    "code": "COD-12",
+    "label": "NOAH SADIKI",
+    "section": "CONGO DR",
+    "type": "player",
+    "sticker_number": 12,
+    "album_page": null
+  },
+  {
+    "code": "GHA-12",
+    "label": "KAMALDEEN SULEMANA",
+    "section": "GHANA",
+    "type": "player",
+    "sticker_number": 12,
+    "album_page": null
+  },
+  {
+    "code": "CZE-12",
+    "label": "TOMÁŠ SOUČEK",
+    "section": "CZECHIA",
+    "type": "player",
+    "sticker_number": 12,
+    "album_page": null
+  },
+  {
+    "code": "SUI-12",
+    "label": "FABIAN RIEDER",
+    "section": "SWITZERLAND",
+    "type": "player",
+    "sticker_number": 12,
+    "album_page": null
+  },
+  {
+    "code": "USA-12",
+    "label": "TIMOTHY WEAH",
+    "section": "USA",
+    "type": "player",
+    "sticker_number": 12,
+    "album_page": null
+  },
+  {
+    "code": "CUW-12",
+    "label": "LEANDRO BACUNA",
+    "section": "CURACAO",
+    "type": "player",
+    "sticker_number": 12,
+    "album_page": null
+  },
+  {
+    "code": "SWE-12",
+    "label": "MATTIAS SVANBERG",
+    "section": "SWEDEN",
+    "type": "player",
+    "sticker_number": 12,
+    "album_page": null
+  },
+  {
+    "code": "NZL-12",
+    "label": "RYAN THOMAS",
+    "section": "NEW ZEALAND",
+    "type": "player",
+    "sticker_number": 12,
+    "album_page": null
+  },
+  {
+    "code": "FRA-12",
+    "label": "ADRIEN RABIOT",
+    "section": "FRANCE",
+    "type": "player",
+    "sticker_number": 12,
+    "album_page": null
+  },
+  {
+    "code": "ALG-12",
+    "label": "NABIL BENTALEB",
+    "section": "ALGERIA",
+    "type": "player",
+    "sticker_number": 12,
+    "album_page": null
+  },
+  {
+    "code": "UZB-12",
+    "label": "JAMSHID ISKANDEROV",
+    "section": "UZBEKISTAN",
+    "type": "player",
+    "sticker_number": 12,
+    "album_page": null
+  },
+  {
+    "code": "PAN-12",
+    "label": "ADALBERTO CARRASQUILLA",
+    "section": "PANAMA",
+    "type": "player",
+    "sticker_number": 12,
+    "album_page": null
+  },
+  {
+    "code": "BIH-12",
+    "label": "IVAN BAŠIĆ",
+    "section": "BOSNIA-HERZEGOVINA",
+    "type": "player",
+    "sticker_number": 12,
+    "album_page": null
+  },
+  {
+    "code": "HAI-12",
+    "label": "JEAN-RICNER BELLEGARDE",
+    "section": "HAITI",
+    "type": "player",
+    "sticker_number": 12,
+    "album_page": null
+  },
+  {
+    "code": "TUR-12",
+    "label": "ORKUN KÖKÇÜ",
+    "section": "TURKEY",
+    "type": "player",
+    "sticker_number": 12,
+    "album_page": null
+  },
+  {
+    "code": "NED-12",
+    "label": "TEUN KOOPMEINERS",
+    "section": "NETHERLANDS",
+    "type": "player",
+    "sticker_number": 12,
+    "album_page": null
+  },
+  {
+    "code": "EGY-12",
+    "label": "HAMDY FATHY",
+    "section": "EGYPT",
+    "type": "player",
+    "sticker_number": 12,
+    "album_page": null
+  },
+  {
+    "code": "KSA-12",
+    "label": "NASSER ALDAWSARI",
+    "section": "SAUDI ARABIA",
+    "type": "player",
+    "sticker_number": 12,
+    "album_page": null
+  },
+  {
+    "code": "NOR-12",
+    "label": "ANDREAS SCHJELDERUP",
+    "section": "NORWAY",
+    "type": "player",
+    "sticker_number": 12,
+    "album_page": null
+  },
+  {
+    "code": "POR-12",
+    "label": "VITINHA",
+    "section": "PORTUGAL",
+    "type": "player",
+    "sticker_number": 12,
+    "album_page": null
+  },
+  {
+    "code": "CRO-12",
+    "label": "LOVRO MAJER",
+    "section": "CROATIA",
+    "type": "player",
+    "sticker_number": 12,
+    "album_page": null
+  },
+  {
+    "code": "MEX-12",
+    "label": "MARCEL RUIZ",
+    "section": "MEXICO",
+    "type": "player",
+    "sticker_number": 12,
+    "album_page": null
+  },
+  {
+    "code": "MAR-12",
+    "label": "ELIESSE BEN SEGHIR",
+    "section": "MOROCCO",
+    "type": "player",
+    "sticker_number": 12,
+    "album_page": null
+  },
+  {
+    "code": "AUS-12",
+    "label": "RILEY MCGREE",
+    "section": "AUSTRALIA",
+    "type": "player",
+    "sticker_number": 12,
+    "album_page": null
+  },
+  {
+    "code": "ECU-12",
+    "label": "PEDRO VITE",
+    "section": "ECUADOR",
+    "type": "player",
+    "sticker_number": 12,
+    "album_page": null
+  },
+  {
+    "code": "BEL-12",
+    "label": "ALEXIS SAELEMAEKERS",
+    "section": "BELGIUM",
+    "type": "player",
+    "sticker_number": 12,
+    "album_page": null
+  },
+  {
+    "code": "CPV-12",
+    "label": "JAMIRO MONTEIRO",
+    "section": "CAPE VERDE",
+    "type": "player",
+    "sticker_number": 12,
+    "album_page": null
+  },
+  {
+    "code": "IRQ-12",
+    "label": "ALI JASIM",
+    "section": "IRAQ",
+    "type": "player",
+    "sticker_number": 12,
+    "album_page": null
+  },
+  {
+    "code": "JOR-12",
+    "label": "MOHANNAD ABU TAHA",
+    "section": "JORDAN",
+    "type": "player",
+    "sticker_number": 12,
+    "album_page": null
+  },
+  {
+    "code": "ENG-12",
+    "label": "COLE PALMER",
+    "section": "ENGLAND",
+    "type": "player",
+    "sticker_number": 12,
+    "album_page": null
+  },
+  {
+    "code": "RSA-12",
+    "label": "THALENTE MBATHA",
+    "section": "SOUTH AFRICA",
+    "type": "player",
+    "sticker_number": 12,
+    "album_page": null
+  },
+  {
+    "code": "BRA-12",
+    "label": "LUIZ HENRIQUE",
+    "section": "BRAZIL",
+    "type": "player",
+    "sticker_number": 12,
+    "album_page": null
+  },
+  {
+    "code": "PAR-12",
+    "label": "ANDRÉS CUBAS",
+    "section": "PARAGUAY",
+    "type": "player",
+    "sticker_number": 12,
+    "album_page": null
+  },
+  {
+    "code": "CIV-12",
+    "label": "IBRAHIM SANGARÉ",
+    "section": "IVORY COAST",
+    "type": "player",
+    "sticker_number": 12,
+    "album_page": null
+  },
+  {
+    "code": "TUN-12",
+    "label": "MOHAMED ALI BEN ROMDHANE",
+    "section": "TUNISIA",
+    "type": "player",
+    "sticker_number": 12,
+    "album_page": null
+  },
+  {
+    "code": "ESP-12",
+    "label": "FABIÁN RUIZ",
+    "section": "SPAIN",
+    "type": "player",
+    "sticker_number": 12,
+    "album_page": null
+  },
+  {
+    "code": "SEN-12",
+    "label": "HABIB DIARRA",
+    "section": "SENEGAL",
+    "type": "player",
+    "sticker_number": 12,
+    "album_page": null
+  },
+  {
+    "code": "AUT-12",
+    "label": "KONRAD LAIMER",
+    "section": "AUSTRIA",
+    "type": "player",
+    "sticker_number": 12,
+    "album_page": null
+  },
+  {
+    "code": "COL-12",
+    "label": "RICHARD RÍOS",
+    "section": "COLOMBIA",
+    "type": "player",
+    "sticker_number": 12,
+    "album_page": null
+  },
+  {
+    "code": "KOR-13",
+    "label": "SQUAD",
+    "section": "KOREA REPUBLIC",
+    "type": "squad",
+    "sticker_number": 13,
+    "album_page": null
+  },
+  {
+    "code": "CAN-13",
+    "label": "SQUAD",
+    "section": "CANADA",
+    "type": "squad",
+    "sticker_number": 13,
+    "album_page": null
+  },
+  {
+    "code": "QAT-13",
+    "label": "SQUAD",
+    "section": "QATAR",
+    "type": "squad",
+    "sticker_number": 13,
+    "album_page": null
+  },
+  {
+    "code": "SCO-13",
+    "label": "SQUAD",
+    "section": "SCOTLAND",
+    "type": "squad",
+    "sticker_number": 13,
+    "album_page": null
+  },
+  {
+    "code": "GER-13",
+    "label": "SQUAD",
+    "section": "GERMANY",
+    "type": "squad",
+    "sticker_number": 13,
+    "album_page": null
+  },
+  {
+    "code": "JPN-13",
+    "label": "SQUAD",
+    "section": "JAPAN",
+    "type": "squad",
+    "sticker_number": 13,
+    "album_page": null
+  },
+  {
+    "code": "IRN-13",
+    "label": "SQUAD",
+    "section": "IRAN",
+    "type": "squad",
+    "sticker_number": 13,
+    "album_page": null
+  },
+  {
+    "code": "URU-13",
+    "label": "SQUAD",
+    "section": "URUGUAY",
+    "type": "squad",
+    "sticker_number": 13,
+    "album_page": null
+  },
+  {
+    "code": "ARG-13",
+    "label": "SQUAD",
+    "section": "ARGENTINA",
+    "type": "squad",
+    "sticker_number": 13,
+    "album_page": null
+  },
+  {
+    "code": "COD-13",
+    "label": "SQUAD",
+    "section": "CONGO DR",
+    "type": "squad",
+    "sticker_number": 13,
+    "album_page": null
+  },
+  {
+    "code": "GHA-13",
+    "label": "SQUAD",
+    "section": "GHANA",
+    "type": "squad",
+    "sticker_number": 13,
+    "album_page": null
+  },
+  {
+    "code": "CZE-13",
+    "label": "SQUAD",
+    "section": "CZECHIA",
+    "type": "squad",
+    "sticker_number": 13,
+    "album_page": null
+  },
+  {
+    "code": "SUI-13",
+    "label": "SQUAD",
+    "section": "SWITZERLAND",
+    "type": "squad",
+    "sticker_number": 13,
+    "album_page": null
+  },
+  {
+    "code": "USA-13",
+    "label": "SQUAD",
+    "section": "USA",
+    "type": "squad",
+    "sticker_number": 13,
+    "album_page": null
+  },
+  {
+    "code": "CUW-13",
+    "label": "SQUAD",
+    "section": "CURACAO",
+    "type": "squad",
+    "sticker_number": 13,
+    "album_page": null
+  },
+  {
+    "code": "SWE-13",
+    "label": "SQUAD",
+    "section": "SWEDEN",
+    "type": "squad",
+    "sticker_number": 13,
+    "album_page": null
+  },
+  {
+    "code": "NZL-13",
+    "label": "SQUAD",
+    "section": "NEW ZEALAND",
+    "type": "squad",
+    "sticker_number": 13,
+    "album_page": null
+  },
+  {
+    "code": "FRA-13",
+    "label": "SQUAD",
+    "section": "FRANCE",
+    "type": "squad",
+    "sticker_number": 13,
+    "album_page": null
+  },
+  {
+    "code": "ALG-13",
+    "label": "SQUAD",
+    "section": "ALGERIA",
+    "type": "squad",
+    "sticker_number": 13,
+    "album_page": null
+  },
+  {
+    "code": "UZB-13",
+    "label": "SQUAD",
+    "section": "UZBEKISTAN",
+    "type": "squad",
+    "sticker_number": 13,
+    "album_page": null
+  },
+  {
+    "code": "PAN-13",
+    "label": "SQUAD",
+    "section": "PANAMA",
+    "type": "squad",
+    "sticker_number": 13,
+    "album_page": null
+  },
+  {
+    "code": "BIH-13",
+    "label": "SQUAD",
+    "section": "BOSNIA-HERZEGOVINA",
+    "type": "squad",
+    "sticker_number": 13,
+    "album_page": null
+  },
+  {
+    "code": "HAI-13",
+    "label": "SQUAD",
+    "section": "HAITI",
+    "type": "squad",
+    "sticker_number": 13,
+    "album_page": null
+  },
+  {
+    "code": "TUR-13",
+    "label": "SQUAD",
+    "section": "TURKEY",
+    "type": "squad",
+    "sticker_number": 13,
+    "album_page": null
+  },
+  {
+    "code": "NED-13",
+    "label": "SQUAD",
+    "section": "NETHERLANDS",
+    "type": "squad",
+    "sticker_number": 13,
+    "album_page": null
+  },
+  {
+    "code": "EGY-13",
+    "label": "SQUAD",
+    "section": "EGYPT",
+    "type": "squad",
+    "sticker_number": 13,
+    "album_page": null
+  },
+  {
+    "code": "KSA-13",
+    "label": "SQUAD",
+    "section": "SAUDI ARABIA",
+    "type": "squad",
+    "sticker_number": 13,
+    "album_page": null
+  },
+  {
+    "code": "NOR-13",
+    "label": "SQUAD",
+    "section": "NORWAY",
+    "type": "squad",
+    "sticker_number": 13,
+    "album_page": null
+  },
+  {
+    "code": "POR-13",
+    "label": "SQUAD",
+    "section": "PORTUGAL",
+    "type": "squad",
+    "sticker_number": 13,
+    "album_page": null
+  },
+  {
+    "code": "CRO-13",
+    "label": "SQUAD",
+    "section": "CROATIA",
+    "type": "squad",
+    "sticker_number": 13,
+    "album_page": null
+  },
+  {
+    "code": "MEX-13",
+    "label": "SQUAD",
+    "section": "MEXICO",
+    "type": "squad",
+    "sticker_number": 13,
+    "album_page": null
+  },
+  {
+    "code": "MAR-13",
+    "label": "SQUAD",
+    "section": "MOROCCO",
+    "type": "squad",
+    "sticker_number": 13,
+    "album_page": null
+  },
+  {
+    "code": "AUS-13",
+    "label": "SQUAD",
+    "section": "AUSTRALIA",
+    "type": "squad",
+    "sticker_number": 13,
+    "album_page": null
+  },
+  {
+    "code": "ECU-13",
+    "label": "SQUAD",
+    "section": "ECUADOR",
+    "type": "squad",
+    "sticker_number": 13,
+    "album_page": null
+  },
+  {
+    "code": "BEL-13",
+    "label": "SQUAD",
+    "section": "BELGIUM",
+    "type": "squad",
+    "sticker_number": 13,
+    "album_page": null
+  },
+  {
+    "code": "CPV-13",
+    "label": "SQUAD",
+    "section": "CAPE VERDE",
+    "type": "squad",
+    "sticker_number": 13,
+    "album_page": null
+  },
+  {
+    "code": "IRQ-13",
+    "label": "SQUAD",
+    "section": "IRAQ",
+    "type": "squad",
+    "sticker_number": 13,
+    "album_page": null
+  },
+  {
+    "code": "JOR-13",
+    "label": "SQUAD",
+    "section": "JORDAN",
+    "type": "squad",
+    "sticker_number": 13,
+    "album_page": null
+  },
+  {
+    "code": "ENG-13",
+    "label": "SQUAD",
+    "section": "ENGLAND",
+    "type": "squad",
+    "sticker_number": 13,
+    "album_page": null
+  },
+  {
+    "code": "RSA-13",
+    "label": "SQUAD",
+    "section": "SOUTH AFRICA",
+    "type": "squad",
+    "sticker_number": 13,
+    "album_page": null
+  },
+  {
+    "code": "BRA-13",
+    "label": "SQUAD",
+    "section": "BRAZIL",
+    "type": "squad",
+    "sticker_number": 13,
+    "album_page": null
+  },
+  {
+    "code": "PAR-13",
+    "label": "SQUAD",
+    "section": "PARAGUAY",
+    "type": "squad",
+    "sticker_number": 13,
+    "album_page": null
+  },
+  {
+    "code": "CIV-13",
+    "label": "SQUAD",
+    "section": "IVORY COAST",
+    "type": "squad",
+    "sticker_number": 13,
+    "album_page": null
+  },
+  {
+    "code": "TUN-13",
+    "label": "SQUAD",
+    "section": "TUNISIA",
+    "type": "squad",
+    "sticker_number": 13,
+    "album_page": null
+  },
+  {
+    "code": "ESP-13",
+    "label": "SQUAD",
+    "section": "SPAIN",
+    "type": "squad",
+    "sticker_number": 13,
+    "album_page": null
+  },
+  {
+    "code": "SEN-13",
+    "label": "SQUAD",
+    "section": "SENEGAL",
+    "type": "squad",
+    "sticker_number": 13,
+    "album_page": null
+  },
+  {
+    "code": "AUT-13",
+    "label": "SQUAD",
+    "section": "AUSTRIA",
+    "type": "squad",
+    "sticker_number": 13,
+    "album_page": null
+  },
+  {
+    "code": "COL-13",
+    "label": "SQUAD",
+    "section": "COLOMBIA",
+    "type": "squad",
+    "sticker_number": 13,
+    "album_page": null
+  },
+  {
+    "code": "KOR-14",
+    "label": "SEUNGHO PAIK",
+    "section": "KOREA REPUBLIC",
+    "type": "player",
+    "sticker_number": 14,
+    "album_page": null
+  },
+  {
+    "code": "CAN-14",
+    "label": "JACOB SHAFFELBURG",
+    "section": "CANADA",
+    "type": "player",
+    "sticker_number": 14,
+    "album_page": null
+  },
+  {
+    "code": "QAT-14",
+    "label": "MOHAMMED WAAD",
+    "section": "QATAR",
+    "type": "player",
+    "sticker_number": 14,
+    "album_page": null
+  },
+  {
+    "code": "SCO-14",
+    "label": "LEWIS FERGUSON",
+    "section": "SCOTLAND",
+    "type": "player",
+    "sticker_number": 14,
+    "album_page": null
+  },
+  {
+    "code": "GER-14",
+    "label": "LEON GORETZKA",
+    "section": "GERMANY",
+    "type": "player",
+    "sticker_number": 14,
+    "album_page": null
+  },
+  {
+    "code": "JPN-14",
+    "label": "RITSU DOAN",
+    "section": "JAPAN",
+    "type": "player",
+    "sticker_number": 14,
+    "album_page": null
+  },
+  {
+    "code": "IRN-14",
+    "label": "OMID NOORAFKAN",
+    "section": "IRAN",
+    "type": "player",
+    "sticker_number": 14,
+    "album_page": null
+  },
+  {
+    "code": "URU-14",
+    "label": "MANUEL UGARTE",
+    "section": "URUGUAY",
+    "type": "player",
+    "sticker_number": 14,
+    "album_page": null
+  },
+  {
+    "code": "ARG-14",
+    "label": "NICO PAZ",
+    "section": "ARGENTINA",
+    "type": "player",
+    "sticker_number": 14,
+    "album_page": null
+  },
+  {
+    "code": "COD-14",
+    "label": "THÉO BONGONDA",
+    "section": "CONGO DR",
+    "type": "player",
+    "sticker_number": 14,
+    "album_page": null
+  },
+  {
+    "code": "GHA-14",
+    "label": "MOHAMMED KUDUS",
+    "section": "GHANA",
+    "type": "player",
+    "sticker_number": 14,
+    "album_page": null
+  },
+  {
+    "code": "CZE-14",
+    "label": "PAVEL ŠULC",
+    "section": "CZECHIA",
+    "type": "player",
+    "sticker_number": 14,
+    "album_page": null
+  },
+  {
+    "code": "SUI-14",
+    "label": "ARDON JASHARI",
+    "section": "SWITZERLAND",
+    "type": "player",
+    "sticker_number": 14,
+    "album_page": null
+  },
+  {
+    "code": "USA-14",
+    "label": "DIEGO LUNA",
+    "section": "USA",
+    "type": "player",
+    "sticker_number": 14,
+    "album_page": null
+  },
+  {
+    "code": "CUW-14",
+    "label": "TAHITH CHONG",
+    "section": "CURACAO",
+    "type": "player",
+    "sticker_number": 14,
+    "album_page": null
+  },
+  {
+    "code": "SWE-14",
+    "label": "DANIEL SVENSSON",
+    "section": "SWEDEN",
+    "type": "player",
+    "sticker_number": 14,
+    "album_page": null
+  },
+  {
+    "code": "NZL-14",
+    "label": "MATTHEW GARBETT",
+    "section": "NEW ZEALAND",
+    "type": "player",
+    "sticker_number": 14,
+    "album_page": null
+  },
+  {
+    "code": "FRA-14",
+    "label": "MICHAEL OLISE",
+    "section": "FRANCE",
+    "type": "player",
+    "sticker_number": 14,
+    "album_page": null
+  },
+  {
+    "code": "ALG-14",
+    "label": "FARÈS CHAÏBI",
+    "section": "ALGERIA",
+    "type": "player",
+    "sticker_number": 14,
+    "album_page": null
+  },
+  {
+    "code": "UZB-14",
+    "label": "AZIZBEK TURGUNBOEV",
+    "section": "UZBEKISTAN",
+    "type": "player",
+    "sticker_number": 14,
+    "album_page": null
+  },
+  {
+    "code": "PAN-14",
+    "label": "ÉDGAR BÁRCENAS",
+    "section": "PANAMA",
+    "type": "player",
+    "sticker_number": 14,
+    "album_page": null
+  },
+  {
+    "code": "BIH-14",
+    "label": "DŽENIS BURNIĆ",
+    "section": "BOSNIA-HERZEGOVINA",
+    "type": "player",
+    "sticker_number": 14,
+    "album_page": null
+  },
+  {
+    "code": "HAI-14",
+    "label": "CHRISTOPHER ATTYS",
+    "section": "HAITI",
+    "type": "player",
+    "sticker_number": 14,
+    "album_page": null
+  },
+  {
+    "code": "TUR-14",
+    "label": "ARDA GÜLER",
+    "section": "TURKEY",
+    "type": "player",
+    "sticker_number": 14,
+    "album_page": null
+  },
+  {
+    "code": "NED-14",
+    "label": "FRENKIE DE JONG",
+    "section": "NETHERLANDS",
+    "type": "player",
+    "sticker_number": 14,
+    "album_page": null
+  },
+  {
+    "code": "EGY-14",
+    "label": "MOHANAD LASHEEN",
+    "section": "EGYPT",
+    "type": "player",
+    "sticker_number": 14,
+    "album_page": null
+  },
+  {
+    "code": "KSA-14",
+    "label": "SALEH ABU ALSHAMAT",
+    "section": "SAUDI ARABIA",
+    "type": "player",
+    "sticker_number": 14,
+    "album_page": null
+  },
+  {
+    "code": "NOR-14",
+    "label": "PATRICK BERG",
+    "section": "NORWAY",
+    "type": "player",
+    "sticker_number": 14,
+    "album_page": null
+  },
+  {
+    "code": "POR-14",
+    "label": "JOÃO NEVES",
+    "section": "PORTUGAL",
+    "type": "player",
+    "sticker_number": 14,
+    "album_page": null
+  },
+  {
+    "code": "CRO-14",
+    "label": "MARIO PAŠALIĆ",
+    "section": "CROATIA",
+    "type": "player",
+    "sticker_number": 14,
+    "album_page": null
+  },
+  {
+    "code": "MEX-14",
+    "label": "ÉRICK SÁNCHEZ",
+    "section": "MEXICO",
+    "type": "player",
+    "sticker_number": 14,
+    "album_page": null
+  },
+  {
+    "code": "MAR-14",
+    "label": "BILAL EL KHANNOUSS",
+    "section": "MOROCCO",
+    "type": "player",
+    "sticker_number": 14,
+    "album_page": null
+  },
+  {
+    "code": "AUS-14",
+    "label": "AIDEN O'NEILL",
+    "section": "AUSTRALIA",
+    "type": "player",
+    "sticker_number": 14,
+    "album_page": null
+  },
+  {
+    "code": "ECU-14",
+    "label": "JOHN YEBOAH",
+    "section": "ECUADOR",
+    "type": "player",
+    "sticker_number": 14,
+    "album_page": null
+  },
+  {
+    "code": "BEL-14",
+    "label": "HANS VANAKEN",
+    "section": "BELGIUM",
+    "type": "player",
+    "sticker_number": 14,
+    "album_page": null
+  },
+  {
+    "code": "CPV-14",
+    "label": "DEROY DUARTE",
+    "section": "CAPE VERDE",
+    "type": "player",
+    "sticker_number": 14,
+    "album_page": null
+  },
+  {
+    "code": "IRQ-14",
+    "label": "YOUSSEF AMYN",
+    "section": "IRAQ",
+    "type": "player",
+    "sticker_number": 14,
+    "album_page": null
+  },
+  {
+    "code": "JOR-14",
+    "label": "AMER JAMOUS",
+    "section": "JORDAN",
+    "type": "player",
+    "sticker_number": 14,
+    "album_page": null
+  },
+  {
+    "code": "ENG-14",
+    "label": "MORGAN ROGERS",
+    "section": "ENGLAND",
+    "type": "player",
+    "sticker_number": 14,
+    "album_page": null
+  },
+  {
+    "code": "RSA-14",
+    "label": "BATHUSI AUBAAS",
+    "section": "SOUTH AFRICA",
+    "type": "player",
+    "sticker_number": 14,
+    "album_page": null
+  },
+  {
+    "code": "BRA-14",
+    "label": "VINICIUS JÚNIOR",
+    "section": "BRAZIL",
+    "type": "player",
+    "sticker_number": 14,
+    "album_page": null
+  },
+  {
+    "code": "PAR-14",
+    "label": "MATÍAS GALARZA FONDA",
+    "section": "PARAGUAY",
+    "type": "player",
+    "sticker_number": 14,
+    "album_page": null
+  },
+  {
+    "code": "CIV-14",
+    "label": "JEAN-PHILIPPE GBAMIN",
+    "section": "IVORY COAST",
+    "type": "player",
+    "sticker_number": 14,
+    "album_page": null
+  },
+  {
+    "code": "TUN-14",
+    "label": "HANNIBAL MEJBRI",
+    "section": "TUNISIA",
+    "type": "player",
+    "sticker_number": 14,
+    "album_page": null
+  },
+  {
+    "code": "ESP-14",
+    "label": "MIKEL MERINO",
+    "section": "SPAIN",
+    "type": "player",
+    "sticker_number": 14,
+    "album_page": null
+  },
+  {
+    "code": "SEN-14",
+    "label": "LAMINE CAMARA",
+    "section": "SENEGAL",
+    "type": "player",
+    "sticker_number": 14,
+    "album_page": null
+  },
+  {
+    "code": "AUT-14",
+    "label": "FLORIAN GRILLITSCH",
+    "section": "AUSTRIA",
+    "type": "player",
+    "sticker_number": 14,
+    "album_page": null
+  },
+  {
+    "code": "COL-14",
+    "label": "JAMES RODRÍGUEZ",
+    "section": "COLOMBIA",
+    "type": "player",
+    "sticker_number": 14,
+    "album_page": null
+  },
+  {
+    "code": "KOR-15",
+    "label": "JENS CASTROP",
+    "section": "KOREA REPUBLIC",
+    "type": "player",
+    "sticker_number": 15,
+    "album_page": null
+  },
+  {
+    "code": "CAN-15",
+    "label": "MATHIEU CHOINIÈRE",
+    "section": "CANADA",
+    "type": "player",
+    "sticker_number": 15,
+    "album_page": null
+  },
+  {
+    "code": "QAT-15",
+    "label": "ABDULAZIZ HATEM",
+    "section": "QATAR",
+    "type": "player",
+    "sticker_number": 15,
+    "album_page": null
+  },
+  {
+    "code": "SCO-15",
+    "label": "RYAN CHRISTIE",
+    "section": "SCOTLAND",
+    "type": "player",
+    "sticker_number": 15,
+    "album_page": null
+  },
+  {
+    "code": "GER-15",
+    "label": "JAMAL MUSIALA",
+    "section": "GERMANY",
+    "type": "player",
+    "sticker_number": 15,
+    "album_page": null
+  },
+  {
+    "code": "JPN-15",
+    "label": "KEITO NAKAMURA",
+    "section": "JAPAN",
+    "type": "player",
+    "sticker_number": 15,
+    "album_page": null
+  },
+  {
+    "code": "IRN-15",
+    "label": "ROOZBEH CHESHMI",
+    "section": "IRAN",
+    "type": "player",
+    "sticker_number": 15,
+    "album_page": null
+  },
+  {
+    "code": "URU-15",
+    "label": "NICOLÁS DE LA CRUZ",
+    "section": "URUGUAY",
+    "type": "player",
+    "sticker_number": 15,
+    "album_page": null
+  },
+  {
+    "code": "ARG-15",
+    "label": "FRANCO MASTANTUONO",
+    "section": "ARGENTINA",
+    "type": "player",
+    "sticker_number": 15,
+    "album_page": null
+  },
+  {
+    "code": "COD-15",
+    "label": "MESCHACK ELIA",
+    "section": "CONGO DR",
+    "type": "player",
+    "sticker_number": 15,
+    "album_page": null
+  },
+  {
+    "code": "GHA-15",
+    "label": "IÑAKI WILLIAMS",
+    "section": "GHANA",
+    "type": "player",
+    "sticker_number": 15,
+    "album_page": null
+  },
+  {
+    "code": "CZE-15",
+    "label": "MATĚJ VYDRA",
+    "section": "CZECHIA",
+    "type": "player",
+    "sticker_number": 15,
+    "album_page": null
+  },
+  {
+    "code": "SUI-15",
+    "label": "JOHAN MANZAMBI",
+    "section": "SWITZERLAND",
+    "type": "player",
+    "sticker_number": 15,
+    "album_page": null
+  },
+  {
+    "code": "USA-15",
+    "label": "MALIK TILLMAN",
+    "section": "USA",
+    "type": "player",
+    "sticker_number": 15,
+    "album_page": null
+  },
+  {
+    "code": "CUW-15",
+    "label": "KENJI GORRÉ",
+    "section": "CURACAO",
+    "type": "player",
+    "sticker_number": 15,
+    "album_page": null
+  },
+  {
+    "code": "SWE-15",
+    "label": "KEN SEMA",
+    "section": "SWEDEN",
+    "type": "player",
+    "sticker_number": 15,
+    "album_page": null
+  },
+  {
+    "code": "NZL-15",
+    "label": "MARKO STAMENIĆ",
+    "section": "NEW ZEALAND",
+    "type": "player",
+    "sticker_number": 15,
+    "album_page": null
+  },
+  {
+    "code": "FRA-15",
+    "label": "OUSMANE DEMBÉLÉ",
+    "section": "FRANCE",
+    "type": "player",
+    "sticker_number": 15,
+    "album_page": null
+  },
+  {
+    "code": "ALG-15",
+    "label": "RIYAD MAHREZ",
+    "section": "ALGERIA",
+    "type": "player",
+    "sticker_number": 15,
+    "album_page": null
+  },
+  {
+    "code": "UZB-15",
+    "label": "KHOJIMAT ERKINOV",
+    "section": "UZBEKISTAN",
+    "type": "player",
+    "sticker_number": 15,
+    "album_page": null
+  },
+  {
+    "code": "PAN-15",
+    "label": "CARLOS HARVEY",
+    "section": "PANAMA",
+    "type": "player",
+    "sticker_number": 15,
+    "album_page": null
+  },
+  {
+    "code": "BIH-15",
+    "label": "ESMIR BAJRAKTAREVIC",
+    "section": "BOSNIA-HERZEGOVINA",
+    "type": "player",
+    "sticker_number": 15,
+    "album_page": null
+  },
+  {
+    "code": "HAI-15",
+    "label": "DERRICK ETIENNE JR.",
+    "section": "HAITI",
+    "type": "player",
+    "sticker_number": 15,
+    "album_page": null
+  },
+  {
+    "code": "TUR-15",
+    "label": "IRFAN CAN KAHVECI",
+    "section": "TURKEY",
+    "type": "player",
+    "sticker_number": 15,
+    "album_page": null
+  },
+  {
+    "code": "NED-15",
+    "label": "XAVI SIMONS",
+    "section": "NETHERLANDS",
+    "type": "player",
+    "sticker_number": 15,
+    "album_page": null
+  },
+  {
+    "code": "EGY-15",
+    "label": "EMAM ASHOUR",
+    "section": "EGYPT",
+    "type": "player",
+    "sticker_number": 15,
+    "album_page": null
+  },
+  {
+    "code": "KSA-15",
+    "label": "MARWAN ALSAHAFI",
+    "section": "SAUDI ARABIA",
+    "type": "player",
+    "sticker_number": 15,
+    "album_page": null
+  },
+  {
+    "code": "NOR-15",
+    "label": "ERLING HAALAND",
+    "section": "NORWAY",
+    "type": "player",
+    "sticker_number": 15,
+    "album_page": null
+  },
+  {
+    "code": "POR-15",
+    "label": "CRISTIANO RONALDO",
+    "section": "PORTUGAL",
+    "type": "player",
+    "sticker_number": 15,
+    "album_page": null
+  },
+  {
+    "code": "CRO-15",
+    "label": "PETAR SUČIĆ",
+    "section": "CROATIA",
+    "type": "player",
+    "sticker_number": 15,
+    "album_page": null
+  },
+  {
+    "code": "MEX-15",
+    "label": "HIRVING LOZANO",
+    "section": "MEXICO",
+    "type": "player",
+    "sticker_number": 15,
+    "album_page": null
+  },
+  {
+    "code": "MAR-15",
+    "label": "ISMAEL SAIBARI",
+    "section": "MOROCCO",
+    "type": "player",
+    "sticker_number": 15,
+    "album_page": null
+  },
+  {
+    "code": "AUS-15",
+    "label": "CONNOR METCALFE",
+    "section": "AUSTRALIA",
+    "type": "player",
+    "sticker_number": 15,
+    "album_page": null
+  },
+  {
+    "code": "ECU-15",
+    "label": "LEONARDO CAMPANA",
+    "section": "ECUADOR",
+    "type": "player",
+    "sticker_number": 15,
+    "album_page": null
+  },
+  {
+    "code": "BEL-15",
+    "label": "KEVIN DE BRUYNE",
+    "section": "BELGIUM",
+    "type": "player",
+    "sticker_number": 15,
+    "album_page": null
+  },
+  {
+    "code": "CPV-15",
+    "label": "GARRY RODRIGUES",
+    "section": "CAPE VERDE",
+    "type": "player",
+    "sticker_number": 15,
+    "album_page": null
+  },
+  {
+    "code": "IRQ-15",
+    "label": "AIMAR SHER",
+    "section": "IRAQ",
+    "type": "player",
+    "sticker_number": 15,
+    "album_page": null
+  },
+  {
+    "code": "JOR-15",
+    "label": "MOUSA AL-TAAMARI",
+    "section": "JORDAN",
+    "type": "player",
+    "sticker_number": 15,
+    "album_page": null
+  },
+  {
+    "code": "ENG-15",
+    "label": "ANTHONY GORDON",
+    "section": "ENGLAND",
+    "type": "player",
+    "sticker_number": 15,
+    "album_page": null
+  },
+  {
+    "code": "RSA-15",
+    "label": "YAYA SITHOLE",
+    "section": "SOUTH AFRICA",
+    "type": "player",
+    "sticker_number": 15,
+    "album_page": null
+  },
+  {
+    "code": "BRA-15",
+    "label": "RODRYGO",
+    "section": "BRAZIL",
+    "type": "player",
+    "sticker_number": 15,
+    "album_page": null
+  },
+  {
+    "code": "PAR-15",
+    "label": "JULIO ENCISO",
+    "section": "PARAGUAY",
+    "type": "player",
+    "sticker_number": 15,
+    "album_page": null
+  },
+  {
+    "code": "CIV-15",
+    "label": "AMAD DIALLO",
+    "section": "IVORY COAST",
+    "type": "player",
+    "sticker_number": 15,
+    "album_page": null
+  },
+  {
+    "code": "TUN-15",
+    "label": "ELIAS ACHOURI",
+    "section": "TUNISIA",
+    "type": "player",
+    "sticker_number": 15,
+    "album_page": null
+  },
+  {
+    "code": "ESP-15",
+    "label": "LAMINE YAMAL",
+    "section": "SPAIN",
+    "type": "player",
+    "sticker_number": 15,
+    "album_page": null
+  },
+  {
+    "code": "SEN-15",
+    "label": "SADIO MANÉ",
+    "section": "SENEGAL",
+    "type": "player",
+    "sticker_number": 15,
+    "album_page": null
+  },
+  {
+    "code": "AUT-15",
+    "label": "NICOLAS SEIWALD",
+    "section": "AUSTRIA",
+    "type": "player",
+    "sticker_number": 15,
+    "album_page": null
+  },
+  {
+    "code": "COL-15",
+    "label": "JUAN FERNANDO QUINTERO",
+    "section": "COLOMBIA",
+    "type": "player",
+    "sticker_number": 15,
+    "album_page": null
+  },
+  {
+    "code": "KOR-16",
+    "label": "DONGGYEONG LEE",
+    "section": "KOREA REPUBLIC",
+    "type": "player",
+    "sticker_number": 16,
+    "album_page": null
+  },
+  {
+    "code": "CAN-16",
+    "label": "NIKO SIGUR",
+    "section": "CANADA",
+    "type": "player",
+    "sticker_number": 16,
+    "album_page": null
+  },
+  {
+    "code": "QAT-16",
+    "label": "HASSAN AL-HYDOS",
+    "section": "QATAR",
+    "type": "player",
+    "sticker_number": 16,
+    "album_page": null
+  },
+  {
+    "code": "SCO-16",
+    "label": "KENNY MCLEAN",
+    "section": "SCOTLAND",
+    "type": "player",
+    "sticker_number": 16,
+    "album_page": null
+  },
+  {
+    "code": "GER-16",
+    "label": "SERGE GNABRY",
+    "section": "GERMANY",
+    "type": "player",
+    "sticker_number": 16,
+    "album_page": null
+  },
+  {
+    "code": "JPN-16",
+    "label": "TAKUMI MINAMINO",
+    "section": "JAPAN",
+    "type": "player",
+    "sticker_number": 16,
+    "album_page": null
+  },
+  {
+    "code": "IRN-16",
+    "label": "MOHAMMAD MOHEBI",
+    "section": "IRAN",
+    "type": "player",
+    "sticker_number": 16,
+    "album_page": null
+  },
+  {
+    "code": "URU-16",
+    "label": "MAXI ARAÚJO",
+    "section": "URUGUAY",
+    "type": "player",
+    "sticker_number": 16,
+    "album_page": null
+  },
+  {
+    "code": "ARG-16",
+    "label": "NICO GONZÁLEZ",
+    "section": "ARGENTINA",
+    "type": "player",
+    "sticker_number": 16,
+    "album_page": null
+  },
+  {
+    "code": "COD-16",
+    "label": "YOANE WISSA",
+    "section": "CONGO DR",
+    "type": "player",
+    "sticker_number": 16,
+    "album_page": null
+  },
+  {
+    "code": "GHA-16",
+    "label": "JORDAN AYEW",
+    "section": "GHANA",
+    "type": "player",
+    "sticker_number": 16,
+    "album_page": null
+  },
+  {
+    "code": "CZE-16",
+    "label": "VASIL KUŠEJ",
+    "section": "CZECHIA",
+    "type": "player",
+    "sticker_number": 16,
+    "album_page": null
+  },
+  {
+    "code": "SUI-16",
+    "label": "MICHEL AEBISCHER",
+    "section": "SWITZERLAND",
+    "type": "player",
+    "sticker_number": 16,
+    "album_page": null
+  },
+  {
+    "code": "USA-16",
+    "label": "CHRISTIAN PULISIC",
+    "section": "USA",
+    "type": "player",
+    "sticker_number": 16,
+    "album_page": null
+  },
+  {
+    "code": "CUW-16",
+    "label": "JEARL MARGARITHA",
+    "section": "CURACAO",
+    "type": "player",
+    "sticker_number": 16,
+    "album_page": null
+  },
+  {
+    "code": "SWE-16",
+    "label": "ROONY BARDGHJI",
+    "section": "SWEDEN",
+    "type": "player",
+    "sticker_number": 16,
+    "album_page": null
+  },
+  {
+    "code": "NZL-16",
+    "label": "BEN OLD",
+    "section": "NEW ZEALAND",
+    "type": "player",
+    "sticker_number": 16,
+    "album_page": null
+  },
+  {
+    "code": "FRA-16",
+    "label": "BRADLEY BARCOLA",
+    "section": "FRANCE",
+    "type": "player",
+    "sticker_number": 16,
+    "album_page": null
+  },
+  {
+    "code": "ALG-16",
+    "label": "SAÏD BENRAHMA",
+    "section": "ALGERIA",
+    "type": "player",
+    "sticker_number": 16,
+    "album_page": null
+  },
+  {
+    "code": "UZB-16",
+    "label": "ELDOR SHOMURODOV",
+    "section": "UZBEKISTAN",
+    "type": "player",
+    "sticker_number": 16,
+    "album_page": null
+  },
+  {
+    "code": "PAN-16",
+    "label": "ISMAEL DÍAZ",
+    "section": "PANAMA",
+    "type": "player",
+    "sticker_number": 16,
+    "album_page": null
+  },
+  {
+    "code": "BIH-16",
+    "label": "AMAR MEMIĆ",
+    "section": "BOSNIA-HERZEGOVINA",
+    "type": "player",
+    "sticker_number": 16,
+    "album_page": null
+  },
+  {
+    "code": "HAI-16",
+    "label": "JOSUÉ CASIMIR",
+    "section": "HAITI",
+    "type": "player",
+    "sticker_number": 16,
+    "album_page": null
+  },
+  {
+    "code": "TUR-16",
+    "label": "YUNUS AKGÜN",
+    "section": "TURKEY",
+    "type": "player",
+    "sticker_number": 16,
+    "album_page": null
+  },
+  {
+    "code": "NED-16",
+    "label": "JUSTIN KLUIVERT",
+    "section": "NETHERLANDS",
+    "type": "player",
+    "sticker_number": 16,
+    "album_page": null
+  },
+  {
+    "code": "EGY-16",
+    "label": "OSAMA FAISAL",
+    "section": "EGYPT",
+    "type": "player",
+    "sticker_number": 16,
+    "album_page": null
+  },
+  {
+    "code": "KSA-16",
+    "label": "SALEM ALDAWSARI",
+    "section": "SAUDI ARABIA",
+    "type": "player",
+    "sticker_number": 16,
+    "album_page": null
+  },
+  {
+    "code": "NOR-16",
+    "label": "ALEXANDER SØRLOTH",
+    "section": "NORWAY",
+    "type": "player",
+    "sticker_number": 16,
+    "album_page": null
+  },
+  {
+    "code": "POR-16",
+    "label": "FRANCISCO TRINCÃO",
+    "section": "PORTUGAL",
+    "type": "player",
+    "sticker_number": 16,
+    "album_page": null
+  },
+  {
+    "code": "CRO-16",
+    "label": "IVAN PERIŠIĆ",
+    "section": "CROATIA",
+    "type": "player",
+    "sticker_number": 16,
+    "album_page": null
+  },
+  {
+    "code": "MEX-16",
+    "label": "SANTIAGO GIMÉNEZ",
+    "section": "MEXICO",
+    "type": "player",
+    "sticker_number": 16,
+    "album_page": null
+  },
+  {
+    "code": "MAR-16",
+    "label": "YOUSSEF EN-NESYRI",
+    "section": "MOROCCO",
+    "type": "player",
+    "sticker_number": 16,
+    "album_page": null
+  },
+  {
+    "code": "AUS-16",
+    "label": "PATRICK YAZBEK",
+    "section": "AUSTRALIA",
+    "type": "player",
+    "sticker_number": 16,
+    "album_page": null
+  },
+  {
+    "code": "ECU-16",
+    "label": "GONZALO PLATA",
+    "section": "ECUADOR",
+    "type": "player",
+    "sticker_number": 16,
+    "album_page": null
+  },
+  {
+    "code": "BEL-16",
+    "label": "JËRËRMY DOKU",
+    "section": "BELGIUM",
+    "type": "player",
+    "sticker_number": 16,
+    "album_page": null
+  },
+  {
+    "code": "CPV-16",
+    "label": "JOVANE CABRAL",
+    "section": "CAPE VERDE",
+    "type": "player",
+    "sticker_number": 16,
+    "album_page": null
+  },
+  {
+    "code": "IRQ-16",
+    "label": "MARKO FARJI",
+    "section": "IRAQ",
+    "type": "player",
+    "sticker_number": 16,
+    "album_page": null
+  },
+  {
+    "code": "JOR-16",
+    "label": "YAZAN AL-NAIMAT",
+    "section": "JORDAN",
+    "type": "player",
+    "sticker_number": 16,
+    "album_page": null
+  },
+  {
+    "code": "ENG-16",
+    "label": "PHIL FODEN",
+    "section": "ENGLAND",
+    "type": "player",
+    "sticker_number": 16,
+    "album_page": null
+  },
+  {
+    "code": "RSA-16",
+    "label": "SIPHO MBULE",
+    "section": "SOUTH AFRICA",
+    "type": "player",
+    "sticker_number": 16,
+    "album_page": null
+  },
+  {
+    "code": "BRA-16",
+    "label": "JOÃO PEDRO",
+    "section": "BRAZIL",
+    "type": "player",
+    "sticker_number": 16,
+    "album_page": null
+  },
+  {
+    "code": "PAR-16",
+    "label": "ALEJANDRO ROMERO GAMARRA",
+    "section": "PARAGUAY",
+    "type": "player",
+    "sticker_number": 16,
+    "album_page": null
+  },
+  {
+    "code": "CIV-16",
+    "label": "SÉBASTIEN HALLER",
+    "section": "IVORY COAST",
+    "type": "player",
+    "sticker_number": 16,
+    "album_page": null
+  },
+  {
+    "code": "TUN-16",
+    "label": "ELIAS SAAD",
+    "section": "TUNISIA",
+    "type": "player",
+    "sticker_number": 16,
+    "album_page": null
+  },
+  {
+    "code": "ESP-16",
+    "label": "DANI OLMO",
+    "section": "SPAIN",
+    "type": "player",
+    "sticker_number": 16,
+    "album_page": null
+  },
+  {
+    "code": "SEN-16",
+    "label": "ISMAÏLA SARR",
+    "section": "SENEGAL",
+    "type": "player",
+    "sticker_number": 16,
+    "album_page": null
+  },
+  {
+    "code": "AUT-16",
+    "label": "ROMANO SCHMID",
+    "section": "AUSTRIA",
+    "type": "player",
+    "sticker_number": 16,
+    "album_page": null
+  },
+  {
+    "code": "COL-16",
+    "label": "JORGE CARRASCAL",
+    "section": "COLOMBIA",
+    "type": "player",
+    "sticker_number": 16,
+    "album_page": null
+  },
+  {
+    "code": "KOR-17",
+    "label": "GUESUNG CHO",
+    "section": "KOREA REPUBLIC",
+    "type": "player",
+    "sticker_number": 17,
+    "album_page": null
+  },
+  {
+    "code": "CAN-17",
+    "label": "TAJON BUCHANAN",
+    "section": "CANADA",
+    "type": "player",
+    "sticker_number": 17,
+    "album_page": null
+  },
+  {
+    "code": "QAT-17",
+    "label": "EDMILSON JUNIOR",
+    "section": "QATAR",
+    "type": "player",
+    "sticker_number": 17,
+    "album_page": null
+  },
+  {
+    "code": "SCO-17",
+    "label": "JOHN MCGINN",
+    "section": "SCOTLAND",
+    "type": "player",
+    "sticker_number": 17,
+    "album_page": null
+  },
+  {
+    "code": "GER-17",
+    "label": "KAI HAVERTZ",
+    "section": "GERMANY",
+    "type": "player",
+    "sticker_number": 17,
+    "album_page": null
+  },
+  {
+    "code": "JPN-17",
+    "label": "SHUTO MACHINO",
+    "section": "JAPAN",
+    "type": "player",
+    "sticker_number": 17,
+    "album_page": null
+  },
+  {
+    "code": "IRN-17",
+    "label": "SARDAR AZMOUN",
+    "section": "IRAN",
+    "type": "player",
+    "sticker_number": 17,
+    "album_page": null
+  },
+  {
+    "code": "URU-17",
+    "label": "DARWIN NÚÑEZ",
+    "section": "URUGUAY",
+    "type": "player",
+    "sticker_number": 17,
+    "album_page": null
+  },
+  {
+    "code": "ARG-17",
+    "label": "LIONEL MESSI",
+    "section": "ARGENTINA",
+    "type": "player",
+    "sticker_number": 17,
+    "album_page": null
+  },
+  {
+    "code": "COD-17",
+    "label": "BRIAN CIPENGA",
+    "section": "CONGO DR",
+    "type": "player",
+    "sticker_number": 17,
+    "album_page": null
+  },
+  {
+    "code": "GHA-17",
+    "label": "ANDRÉ AYEW",
+    "section": "GHANA",
+    "type": "player",
+    "sticker_number": 17,
+    "album_page": null
+  },
+  {
+    "code": "CZE-17",
+    "label": "TOMÁŠ CHORÝ",
+    "section": "CZECHIA",
+    "type": "player",
+    "sticker_number": 17,
+    "album_page": null
+  },
+  {
+    "code": "SUI-17",
+    "label": "BREEL EMBOLO",
+    "section": "SWITZERLAND",
+    "type": "player",
+    "sticker_number": 17,
+    "album_page": null
+  },
+  {
+    "code": "USA-17",
+    "label": "BRENDEN AARONSON",
+    "section": "USA",
+    "type": "player",
+    "sticker_number": 17,
+    "album_page": null
+  },
+  {
+    "code": "CUW-17",
+    "label": "JÜRGEN LOCADIA",
+    "section": "CURACAO",
+    "type": "player",
+    "sticker_number": 17,
+    "album_page": null
+  },
+  {
+    "code": "SWE-17",
+    "label": "DEJAN KULUSEVSKI",
+    "section": "SWEDEN",
+    "type": "player",
+    "sticker_number": 17,
+    "album_page": null
+  },
+  {
+    "code": "NZL-17",
+    "label": "CHRIS WOOD",
+    "section": "NEW ZEALAND",
+    "type": "player",
+    "sticker_number": 17,
+    "album_page": null
+  },
+  {
+    "code": "FRA-17",
+    "label": "DÉSIRÉ DOUÉ",
+    "section": "FRANCE",
+    "type": "player",
+    "sticker_number": 17,
+    "album_page": null
+  },
+  {
+    "code": "ALG-17",
+    "label": "ANIS HADJ MOUSSA",
+    "section": "ALGERIA",
+    "type": "player",
+    "sticker_number": 17,
+    "album_page": null
+  },
+  {
+    "code": "UZB-17",
+    "label": "OSTON URUNOV",
+    "section": "UZBEKISTAN",
+    "type": "player",
+    "sticker_number": 17,
+    "album_page": null
+  },
+  {
+    "code": "PAN-17",
+    "label": "JOSÉ FAJARDO",
+    "section": "PANAMA",
+    "type": "player",
+    "sticker_number": 17,
+    "album_page": null
+  },
+  {
+    "code": "BIH-17",
+    "label": "ERMEDIN DEMIROVIĆ",
+    "section": "BOSNIA-HERZEGOVINA",
+    "type": "player",
+    "sticker_number": 17,
+    "album_page": null
+  },
+  {
+    "code": "HAI-17",
+    "label": "RUBEN PROVIDENCE",
+    "section": "HAITI",
+    "type": "player",
+    "sticker_number": 17,
+    "album_page": null
+  },
+  {
+    "code": "TUR-17",
+    "label": "CAN UZUN",
+    "section": "TURKEY",
+    "type": "player",
+    "sticker_number": 17,
+    "album_page": null
+  },
+  {
+    "code": "NED-17",
+    "label": "MEMPHIS DEPAY",
+    "section": "NETHERLANDS",
+    "type": "player",
+    "sticker_number": 17,
+    "album_page": null
+  },
+  {
+    "code": "EGY-17",
+    "label": "MOHAMED SALAH",
+    "section": "EGYPT",
+    "type": "player",
+    "sticker_number": 17,
+    "album_page": null
+  },
+  {
+    "code": "KSA-17",
+    "label": "ABDULRAHMAN ALOBUD",
+    "section": "SAUDI ARABIA",
+    "type": "player",
+    "sticker_number": 17,
+    "album_page": null
+  },
+  {
+    "code": "NOR-17",
+    "label": "ARON DØNNUM",
+    "section": "NORWAY",
+    "type": "player",
+    "sticker_number": 17,
+    "album_page": null
+  },
+  {
+    "code": "POR-17",
+    "label": "JOÃO FELIX",
+    "section": "PORTUGAL",
+    "type": "player",
+    "sticker_number": 17,
+    "album_page": null
+  },
+  {
+    "code": "CRO-17",
+    "label": "MARCO PAŠALIĆ",
+    "section": "CROATIA",
+    "type": "player",
+    "sticker_number": 17,
+    "album_page": null
+  },
+  {
+    "code": "MEX-17",
+    "label": "RAÚL JIMÉNEZ",
+    "section": "MEXICO",
+    "type": "player",
+    "sticker_number": 17,
+    "album_page": null
+  },
+  {
+    "code": "MAR-17",
+    "label": "ABDE EZZALZOULI",
+    "section": "MOROCCO",
+    "type": "player",
+    "sticker_number": 17,
+    "album_page": null
+  },
+  {
+    "code": "AUS-17",
+    "label": "CRAIG GOODWIN",
+    "section": "AUSTRALIA",
+    "type": "player",
+    "sticker_number": 17,
+    "album_page": null
+  },
+  {
+    "code": "ECU-17",
+    "label": "NILSON ANGULO",
+    "section": "ECUADOR",
+    "type": "player",
+    "sticker_number": 17,
+    "album_page": null
+  },
+  {
+    "code": "BEL-17",
+    "label": "CHARLES DE KETELAERE",
+    "section": "BELGIUM",
+    "type": "player",
+    "sticker_number": 17,
+    "album_page": null
+  },
+  {
+    "code": "CPV-17",
+    "label": "RYAN MENDES",
+    "section": "CAPE VERDE",
+    "type": "player",
+    "sticker_number": 17,
+    "album_page": null
+  },
+  {
+    "code": "IRQ-17",
+    "label": "OSAMA RASHID",
+    "section": "IRAQ",
+    "type": "player",
+    "sticker_number": 17,
+    "album_page": null
+  },
+  {
+    "code": "JOR-17",
+    "label": "MAHMOUD AL-MARDI",
+    "section": "JORDAN",
+    "type": "player",
+    "sticker_number": 17,
+    "album_page": null
+  },
+  {
+    "code": "ENG-17",
+    "label": "BUKAYO SAKA",
+    "section": "ENGLAND",
+    "type": "player",
+    "sticker_number": 17,
+    "album_page": null
+  },
+  {
+    "code": "RSA-17",
+    "label": "LYLE FOSTER",
+    "section": "SOUTH AFRICA",
+    "type": "player",
+    "sticker_number": 17,
+    "album_page": null
+  },
+  {
+    "code": "BRA-17",
+    "label": "MATHEUS CUNHA",
+    "section": "BRAZIL",
+    "type": "player",
+    "sticker_number": 17,
+    "album_page": null
+  },
+  {
+    "code": "PAR-17",
+    "label": "MIGUEL ALMIRÓN",
+    "section": "PARAGUAY",
+    "type": "player",
+    "sticker_number": 17,
+    "album_page": null
+  },
+  {
+    "code": "CIV-17",
+    "label": "SIMON ADINGRA",
+    "section": "IVORY COAST",
+    "type": "player",
+    "sticker_number": 17,
+    "album_page": null
+  },
+  {
+    "code": "TUN-17",
+    "label": "HAZEM MASTOURI",
+    "section": "TUNISIA",
+    "type": "player",
+    "sticker_number": 17,
+    "album_page": null
+  },
+  {
+    "code": "ESP-17",
+    "label": "NICO WILLIAMS",
+    "section": "SPAIN",
+    "type": "player",
+    "sticker_number": 17,
+    "album_page": null
+  },
+  {
+    "code": "SEN-17",
+    "label": "BOULAYE DIA",
+    "section": "SENEGAL",
+    "type": "player",
+    "sticker_number": 17,
+    "album_page": null
+  },
+  {
+    "code": "AUT-17",
+    "label": "PATRICK WIMMER",
+    "section": "AUSTRIA",
+    "type": "player",
+    "sticker_number": 17,
+    "album_page": null
+  },
+  {
+    "code": "COL-17",
+    "label": "JHON ARIAS",
+    "section": "COLOMBIA",
+    "type": "player",
+    "sticker_number": 17,
+    "album_page": null
+  },
+  {
+    "code": "KOR-18",
+    "label": "HEUNGMIN SON",
+    "section": "KOREA REPUBLIC",
+    "type": "player",
+    "sticker_number": 18,
+    "album_page": null
+  },
+  {
+    "code": "CAN-18",
+    "label": "LIAM MILLAR",
+    "section": "CANADA",
+    "type": "player",
+    "sticker_number": 18,
+    "album_page": null
+  },
+  {
+    "code": "QAT-18",
+    "label": "AKRAM HASSAN AFIF",
+    "section": "QATAR",
+    "type": "player",
+    "sticker_number": 18,
+    "album_page": null
+  },
+  {
+    "code": "SCO-18",
+    "label": "LYNDON DYKES",
+    "section": "SCOTLAND",
+    "type": "player",
+    "sticker_number": 18,
+    "album_page": null
+  },
+  {
+    "code": "GER-18",
+    "label": "LEROY SANÉ",
+    "section": "GERMANY",
+    "type": "player",
+    "sticker_number": 18,
+    "album_page": null
+  },
+  {
+    "code": "JPN-18",
+    "label": "JUNYA ITO",
+    "section": "JAPAN",
+    "type": "player",
+    "sticker_number": 18,
+    "album_page": null
+  },
+  {
+    "code": "IRN-18",
+    "label": "MEHDI TAREMI",
+    "section": "IRAN",
+    "type": "player",
+    "sticker_number": 18,
+    "album_page": null
+  },
+  {
+    "code": "URU-18",
+    "label": "FEDERICO VIÑAS",
+    "section": "URUGUAY",
+    "type": "player",
+    "sticker_number": 18,
+    "album_page": null
+  },
+  {
+    "code": "ARG-18",
+    "label": "LAUTARO MARTÍNEZ",
+    "section": "ARGENTINA",
+    "type": "player",
+    "sticker_number": 18,
+    "album_page": null
+  },
+  {
+    "code": "COD-18",
+    "label": "FISTON MAYELE",
+    "section": "CONGO DR",
+    "type": "player",
+    "sticker_number": 18,
+    "album_page": null
+  },
+  {
+    "code": "GHA-18",
+    "label": "JOSEPH PAINTSIL",
+    "section": "GHANA",
+    "type": "player",
+    "sticker_number": 18,
+    "album_page": null
+  },
+  {
+    "code": "CZE-18",
+    "label": "VÁCLAV ČERNÝ",
+    "section": "CZECHIA",
+    "type": "player",
+    "sticker_number": 18,
+    "album_page": null
+  },
+  {
+    "code": "SUI-18",
+    "label": "RUBÉN VATGAS",
+    "section": "SWITZERLAND",
+    "type": "player",
+    "sticker_number": 18,
+    "album_page": null
+  },
+  {
+    "code": "USA-18",
+    "label": "RICARDO PEPI",
+    "section": "USA",
+    "type": "player",
+    "sticker_number": 18,
+    "album_page": null
+  },
+  {
+    "code": "CUW-18",
+    "label": "JEREMY ANTONISSE",
+    "section": "CURACAO",
+    "type": "player",
+    "sticker_number": 18,
+    "album_page": null
+  },
+  {
+    "code": "SWE-18",
+    "label": "ANTHONY ELANGA",
+    "section": "SWEDEN",
+    "type": "player",
+    "sticker_number": 18,
+    "album_page": null
+  },
+  {
+    "code": "NZL-18",
+    "label": "ELIJAH JUST",
+    "section": "NEW ZEALAND",
+    "type": "player",
+    "sticker_number": 18,
+    "album_page": null
+  },
+  {
+    "code": "FRA-18",
+    "label": "KINGSLEY COMAN",
+    "section": "FRANCE",
+    "type": "player",
+    "sticker_number": 18,
+    "album_page": null
+  },
+  {
+    "code": "ALG-18",
+    "label": "AMINE GOUIRI",
+    "section": "ALGERIA",
+    "type": "player",
+    "sticker_number": 18,
+    "album_page": null
+  },
+  {
+    "code": "UZB-18",
+    "label": "JALOLIDOIN MASHARIPOV",
+    "section": "UZBEKISTAN",
+    "type": "player",
+    "sticker_number": 18,
+    "album_page": null
+  },
+  {
+    "code": "PAN-18",
+    "label": "CECILIO WATERMAN",
+    "section": "PANAMA",
+    "type": "player",
+    "sticker_number": 18,
+    "album_page": null
+  },
+  {
+    "code": "BIH-18",
+    "label": "EDIN DŽEKO",
+    "section": "BOSNIA-HERZEGOVINA",
+    "type": "player",
+    "sticker_number": 18,
+    "album_page": null
+  },
+  {
+    "code": "HAI-18",
+    "label": "DUCKENS NAZON",
+    "section": "HAITI",
+    "type": "player",
+    "sticker_number": 18,
+    "album_page": null
+  },
+  {
+    "code": "TUR-18",
+    "label": "BARIŞ ALPER YILMAZ",
+    "section": "TURKEY",
+    "type": "player",
+    "sticker_number": 18,
+    "album_page": null
+  },
+  {
+    "code": "NED-18",
+    "label": "DONYEL MALEN",
+    "section": "NETHERLANDS",
+    "type": "player",
+    "sticker_number": 18,
+    "album_page": null
+  },
+  {
+    "code": "EGY-18",
+    "label": "MOSTAFA MOHAMED",
+    "section": "EGYPT",
+    "type": "player",
+    "sticker_number": 18,
+    "album_page": null
+  },
+  {
+    "code": "KSA-18",
+    "label": "FERAS ALBRIKAN",
+    "section": "SAUDI ARABIA",
+    "type": "player",
+    "sticker_number": 18,
+    "album_page": null
+  },
+  {
+    "code": "NOR-18",
+    "label": "JØRGEN STRAND LARSEN",
+    "section": "NORWAY",
+    "type": "player",
+    "sticker_number": 18,
+    "album_page": null
+  },
+  {
+    "code": "POR-18",
+    "label": "GONÇALO RAMOS",
+    "section": "PORTUGAL",
+    "type": "player",
+    "sticker_number": 18,
+    "album_page": null
+  },
+  {
+    "code": "CRO-18",
+    "label": "ANTE BUDIMIR",
+    "section": "CROATIA",
+    "type": "player",
+    "sticker_number": 18,
+    "album_page": null
+  },
+  {
+    "code": "MEX-18",
+    "label": "ALEXIS VEGA",
+    "section": "MEXICO",
+    "type": "player",
+    "sticker_number": 18,
+    "album_page": null
+  },
+  {
+    "code": "MAR-18",
+    "label": "SOUFIANE RAHIMI",
+    "section": "MOROCCO",
+    "type": "player",
+    "sticker_number": 18,
+    "album_page": null
+  },
+  {
+    "code": "AUS-18",
+    "label": "KUSINI YENGI",
+    "section": "AUSTRALIA",
+    "type": "player",
+    "sticker_number": 18,
+    "album_page": null
+  },
+  {
+    "code": "ECU-18",
+    "label": "ALAN MINDA",
+    "section": "ECUADOR",
+    "type": "player",
+    "sticker_number": 18,
+    "album_page": null
+  },
+  {
+    "code": "BEL-18",
+    "label": "LEANDRO TROSSARD",
+    "section": "BELGIUM",
+    "type": "player",
+    "sticker_number": 18,
+    "album_page": null
+  },
+  {
+    "code": "CPV-18",
+    "label": "DAILON LIVRAMENTO",
+    "section": "CAPE VERDE",
+    "type": "player",
+    "sticker_number": 18,
+    "album_page": null
+  },
+  {
+    "code": "IRQ-18",
+    "label": "ALI AL-HAMADI",
+    "section": "IRAQ",
+    "type": "player",
+    "sticker_number": 18,
+    "album_page": null
+  },
+  {
+    "code": "JOR-18",
+    "label": "ALI OLWAN",
+    "section": "JORDAN",
+    "type": "player",
+    "sticker_number": 18,
+    "album_page": null
+  },
+  {
+    "code": "ENG-18",
+    "label": "HARRY KANE",
+    "section": "ENGLAND",
+    "type": "player",
+    "sticker_number": 18,
+    "album_page": null
+  },
+  {
+    "code": "RSA-18",
+    "label": "IQRAAM RAYNERS",
+    "section": "SOUTH AFRICA",
+    "type": "player",
+    "sticker_number": 18,
+    "album_page": null
+  },
+  {
+    "code": "BRA-18",
+    "label": "GABRIEL MARTINELLI",
+    "section": "BRAZIL",
+    "type": "player",
+    "sticker_number": 18,
+    "album_page": null
+  },
+  {
+    "code": "PAR-18",
+    "label": "RAMÓN SOSA",
+    "section": "PARAGUAY",
+    "type": "player",
+    "sticker_number": 18,
+    "album_page": null
+  },
+  {
+    "code": "CIV-18",
+    "label": "YAN DIOMANDE",
+    "section": "IVORY COAST",
+    "type": "player",
+    "sticker_number": 18,
+    "album_page": null
+  },
+  {
+    "code": "TUN-18",
+    "label": "ISMAËL GHARBI",
+    "section": "TUNISIA",
+    "type": "player",
+    "sticker_number": 18,
+    "album_page": null
+  },
+  {
+    "code": "ESP-18",
+    "label": "FERRAN TORRES",
+    "section": "SPAIN",
+    "type": "player",
+    "sticker_number": 18,
+    "album_page": null
+  },
+  {
+    "code": "SEN-18",
+    "label": "ILIMAN NDIAYE",
+    "section": "SENEGAL",
+    "type": "player",
+    "sticker_number": 18,
+    "album_page": null
+  },
+  {
+    "code": "AUT-18",
+    "label": "CHRISTOPH BAUMGARTNER",
+    "section": "AUSTRIA",
+    "type": "player",
+    "sticker_number": 18,
+    "album_page": null
+  },
+  {
+    "code": "COL-18",
+    "label": "JHON CÓRDOVA",
+    "section": "COLOMBIA",
+    "type": "player",
+    "sticker_number": 18,
+    "album_page": null
+  },
+  {
+    "code": "KOR-19",
+    "label": "HEECHAN HWANG",
+    "section": "KOREA REPUBLIC",
+    "type": "player",
+    "sticker_number": 19,
+    "album_page": null
+  },
+  {
+    "code": "CAN-19",
+    "label": "DYLE LARIN",
+    "section": "CANADA",
+    "type": "player",
+    "sticker_number": 19,
+    "album_page": null
+  },
+  {
+    "code": "QAT-19",
+    "label": "AHMED AL-GANEHI",
+    "section": "QATAR",
+    "type": "player",
+    "sticker_number": 19,
+    "album_page": null
+  },
+  {
+    "code": "SCO-19",
+    "label": "CHÉ ADAMS",
+    "section": "SCOTLAND",
+    "type": "player",
+    "sticker_number": 19,
+    "album_page": null
+  },
+  {
+    "code": "GER-19",
+    "label": "KARIM ADEYEMI",
+    "section": "GERMANY",
+    "type": "player",
+    "sticker_number": 19,
+    "album_page": null
+  },
+  {
+    "code": "JPN-19",
+    "label": "KOKI OGAWA",
+    "section": "JAPAN",
+    "type": "player",
+    "sticker_number": 19,
+    "album_page": null
+  },
+  {
+    "code": "IRN-19",
+    "label": "ALIREZA JAHANBAKHSH",
+    "section": "IRAN",
+    "type": "player",
+    "sticker_number": 19,
+    "album_page": null
+  },
+  {
+    "code": "URU-19",
+    "label": "RODRIGO AGUIRRE",
+    "section": "URUGUAY",
+    "type": "player",
+    "sticker_number": 19,
+    "album_page": null
+  },
+  {
+    "code": "ARG-19",
+    "label": "JULIÁN ÁLVAREZ",
+    "section": "ARGENTINA",
+    "type": "player",
+    "sticker_number": 19,
+    "album_page": null
+  },
+  {
+    "code": "COD-19",
+    "label": "CÉDRIC BAKAMBU",
+    "section": "CONGO DR",
+    "type": "player",
+    "sticker_number": 19,
+    "album_page": null
+  },
+  {
+    "code": "GHA-19",
+    "label": "OSMAN BUKARI",
+    "section": "GHANA",
+    "type": "player",
+    "sticker_number": 19,
+    "album_page": null
+  },
+  {
+    "code": "CZE-19",
+    "label": "ADAM HLOŽEK",
+    "section": "CZECHIA",
+    "type": "player",
+    "sticker_number": 19,
+    "album_page": null
+  },
+  {
+    "code": "SUI-19",
+    "label": "DAN NDOYE",
+    "section": "SWITZERLAND",
+    "type": "player",
+    "sticker_number": 19,
+    "album_page": null
+  },
+  {
+    "code": "USA-19",
+    "label": "HAJI WRIGHT",
+    "section": "USA",
+    "type": "player",
+    "sticker_number": 19,
+    "album_page": null
+  },
+  {
+    "code": "CUW-19",
+    "label": "GERVANE KASTANEER",
+    "section": "CURACAO",
+    "type": "player",
+    "sticker_number": 19,
+    "album_page": null
+  },
+  {
+    "code": "SWE-19",
+    "label": "ALEXANDER ISAK",
+    "section": "SWEDEN",
+    "type": "player",
+    "sticker_number": 19,
+    "album_page": null
+  },
+  {
+    "code": "NZL-19",
+    "label": "CALLUM MCCOWATT",
+    "section": "NEW ZEALAND",
+    "type": "player",
+    "sticker_number": 19,
+    "album_page": null
+  },
+  {
+    "code": "FRA-19",
+    "label": "HUGO EKITIKÉ",
+    "section": "FRANCE",
+    "type": "player",
+    "sticker_number": 19,
+    "album_page": null
+  },
+  {
+    "code": "ALG-19",
+    "label": "BAGHDAD BOUNEDJAH",
+    "section": "ALGERIA",
+    "type": "player",
+    "sticker_number": 19,
+    "album_page": null
+  },
+  {
+    "code": "UZB-19",
+    "label": "IGOR SERGEEV",
+    "section": "UZBEKISTAN",
+    "type": "player",
+    "sticker_number": 19,
+    "album_page": null
+  },
+  {
+    "code": "PAN-19",
+    "label": "JOSÉ LUIS RODRÍGUEZ",
+    "section": "PANAMA",
+    "type": "player",
+    "sticker_number": 19,
+    "album_page": null
+  },
+  {
+    "code": "BIH-19",
+    "label": "SAMED BAŽDAR",
+    "section": "BOSNIA-HERZEGOVINA",
+    "type": "player",
+    "sticker_number": 19,
+    "album_page": null
+  },
+  {
+    "code": "HAI-19",
+    "label": "LOUICIUS DEEDSON",
+    "section": "HAITI",
+    "type": "player",
+    "sticker_number": 19,
+    "album_page": null
+  },
+  {
+    "code": "TUR-19",
+    "label": "KEREM AKTÜRKOĞLU",
+    "section": "TURKEY",
+    "type": "player",
+    "sticker_number": 19,
+    "album_page": null
+  },
+  {
+    "code": "NED-19",
+    "label": "WOUT WEGHORST",
+    "section": "NETHERLANDS",
+    "type": "player",
+    "sticker_number": 19,
+    "album_page": null
+  },
+  {
+    "code": "EGY-19",
+    "label": "TREZEGUET",
+    "section": "EGYPT",
+    "type": "player",
+    "sticker_number": 19,
+    "album_page": null
+  },
+  {
+    "code": "KSA-19",
+    "label": "SALEH ALSHEHRI",
+    "section": "SAUDI ARABIA",
+    "type": "player",
+    "sticker_number": 19,
+    "album_page": null
+  },
+  {
+    "code": "NOR-19",
+    "label": "ANTONIO MUSA",
+    "section": "NORWAY",
+    "type": "player",
+    "sticker_number": 19,
+    "album_page": null
+  },
+  {
+    "code": "POR-19",
+    "label": "PEDRO NETO",
+    "section": "PORTUGAL",
+    "type": "player",
+    "sticker_number": 19,
+    "album_page": null
+  },
+  {
+    "code": "CRO-19",
+    "label": "ANDREJ KRAMARIĆ",
+    "section": "CROATIA",
+    "type": "player",
+    "sticker_number": 19,
+    "album_page": null
+  },
+  {
+    "code": "MEX-19",
+    "label": "ROBERTO ALVARADO",
+    "section": "MEXICO",
+    "type": "player",
+    "sticker_number": 19,
+    "album_page": null
+  },
+  {
+    "code": "MAR-19",
+    "label": "BRAHIM DÍAZ",
+    "section": "MOROCCO",
+    "type": "player",
+    "sticker_number": 19,
+    "album_page": null
+  },
+  {
+    "code": "AUS-19",
+    "label": "NESTORY IRANKUNDA",
+    "section": "AUSTRALIA",
+    "type": "player",
+    "sticker_number": 19,
+    "album_page": null
+  },
+  {
+    "code": "ECU-19",
+    "label": "KEVIN RODRÍGUEZ",
+    "section": "ECUADOR",
+    "type": "player",
+    "sticker_number": 19,
+    "album_page": null
+  },
+  {
+    "code": "BEL-19",
+    "label": "LOÏS OPENDA",
+    "section": "BELGIUM",
+    "type": "player",
+    "sticker_number": 19,
+    "album_page": null
+  },
+  {
+    "code": "CPV-19",
+    "label": "WILLY SEMEDO",
+    "section": "CAPE VERDE",
+    "type": "player",
+    "sticker_number": 19,
+    "album_page": null
+  },
+  {
+    "code": "IRQ-19",
+    "label": "AYMEN HUSSEIN",
+    "section": "IRAQ",
+    "type": "player",
+    "sticker_number": 19,
+    "album_page": null
+  },
+  {
+    "code": "JOR-19",
+    "label": "MOHAMMAD ABU ZRAYQ",
+    "section": "JORDAN",
+    "type": "player",
+    "sticker_number": 19,
+    "album_page": null
+  },
+  {
+    "code": "ENG-19",
+    "label": "MARCUS RASHFORD",
+    "section": "ENGLAND",
+    "type": "player",
+    "sticker_number": 19,
+    "album_page": null
+  },
+  {
+    "code": "RSA-19",
+    "label": "MOHAU NKOTA",
+    "section": "SOUTH AFRICA",
+    "type": "player",
+    "sticker_number": 19,
+    "album_page": null
+  },
+  {
+    "code": "BRA-19",
+    "label": "RAPHINHA",
+    "section": "BRAZIL",
+    "type": "player",
+    "sticker_number": 19,
+    "album_page": null
+  },
+  {
+    "code": "PAR-19",
+    "label": "ÁNGEL ROMERO",
+    "section": "PARAGUAY",
+    "type": "player",
+    "sticker_number": 19,
+    "album_page": null
+  },
+  {
+    "code": "CIV-19",
+    "label": "EVANN GUESSAND",
+    "section": "IVORY COAST",
+    "type": "player",
+    "sticker_number": 19,
+    "album_page": null
+  },
+  {
+    "code": "TUN-19",
+    "label": "SAYFALLAH LTAIEF",
+    "section": "TUNISIA",
+    "type": "player",
+    "sticker_number": 19,
+    "album_page": null
+  },
+  {
+    "code": "ESP-19",
+    "label": "ÁLVARO MORATA",
+    "section": "SPAIN",
+    "type": "player",
+    "sticker_number": 19,
+    "album_page": null
+  },
+  {
+    "code": "SEN-19",
+    "label": "NICOLAS JACKSON",
+    "section": "SENEGAL",
+    "type": "player",
+    "sticker_number": 19,
+    "album_page": null
+  },
+  {
+    "code": "AUT-19",
+    "label": "MICHAEL GREGORITSCH",
+    "section": "AUSTRIA",
+    "type": "player",
+    "sticker_number": 19,
+    "album_page": null
+  },
+  {
+    "code": "COL-19",
+    "label": "LUIS SUÁREZ",
+    "section": "COLOMBIA",
+    "type": "player",
+    "sticker_number": 19,
+    "album_page": null
+  },
+  {
+    "code": "KOR-2",
+    "label": "HYEONWOO JO",
+    "section": "KOREA REPUBLIC",
+    "type": "player",
+    "sticker_number": 2,
+    "album_page": null
+  },
+  {
+    "code": "CAN-2",
+    "label": "DAYNE ST. CLAIR",
+    "section": "CANADA",
+    "type": "player",
+    "sticker_number": 2,
+    "album_page": null
+  },
+  {
+    "code": "QAT-2",
+    "label": "MESHAAL BARSHAM",
+    "section": "QATAR",
+    "type": "player",
+    "sticker_number": 2,
+    "album_page": null
+  },
+  {
+    "code": "SCO-2",
+    "label": "ANGUS GUNN",
+    "section": "SCOTLAND",
+    "type": "player",
+    "sticker_number": 2,
+    "album_page": null
+  },
+  {
+    "code": "GER-2",
+    "label": "MARC-ANDRÉ TER STEGEN",
+    "section": "GERMANY",
+    "type": "player",
+    "sticker_number": 2,
+    "album_page": null
+  },
+  {
+    "code": "JPN-2",
+    "label": "ZION SUZUKI",
+    "section": "JAPAN",
+    "type": "player",
+    "sticker_number": 2,
+    "album_page": null
+  },
+  {
+    "code": "IRN-2",
+    "label": "ALIREZA BEIRANVAND",
+    "section": "IRAN",
+    "type": "player",
+    "sticker_number": 2,
+    "album_page": null
+  },
+  {
+    "code": "URU-2",
+    "label": "SERGIO ROCHET",
+    "section": "URUGUAY",
+    "type": "player",
+    "sticker_number": 2,
+    "album_page": null
+  },
+  {
+    "code": "ARG-2",
+    "label": "EMILIANO MARTÍNEZ",
+    "section": "ARGENTINA",
+    "type": "player",
+    "sticker_number": 2,
+    "album_page": null
+  },
+  {
+    "code": "COD-2",
+    "label": "LIONEL MPASI",
+    "section": "CONGO DR",
+    "type": "player",
+    "sticker_number": 2,
+    "album_page": null
+  },
+  {
+    "code": "GHA-2",
+    "label": "LAWRENCE ATI ZIGI",
+    "section": "GHANA",
+    "type": "player",
+    "sticker_number": 2,
+    "album_page": null
+  },
+  {
+    "code": "CZE-2",
+    "label": "MATĚJ KOVÁŘ",
+    "section": "CZECHIA",
+    "type": "player",
+    "sticker_number": 2,
+    "album_page": null
+  },
+  {
+    "code": "SUI-2",
+    "label": "GREGOR KOBEL",
+    "section": "SWITZERLAND",
+    "type": "player",
+    "sticker_number": 2,
+    "album_page": null
+  },
+  {
+    "code": "USA-2",
+    "label": "MATT FREESE",
+    "section": "USA",
+    "type": "player",
+    "sticker_number": 2,
+    "album_page": null
+  },
+  {
+    "code": "CUW-2",
+    "label": "ELOY ROOM",
+    "section": "CURACAO",
+    "type": "player",
+    "sticker_number": 2,
+    "album_page": null
+  },
+  {
+    "code": "SWE-2",
+    "label": "VIKTOR JOHANSSON",
+    "section": "SWEDEN",
+    "type": "player",
+    "sticker_number": 2,
+    "album_page": null
+  },
+  {
+    "code": "NZL-2",
+    "label": "MAX CROCOMBE",
+    "section": "NEW ZEALAND",
+    "type": "player",
+    "sticker_number": 2,
+    "album_page": null
+  },
+  {
+    "code": "FRA-2",
+    "label": "MIKE MAIGNAN",
+    "section": "FRANCE",
+    "type": "player",
+    "sticker_number": 2,
+    "album_page": null
+  },
+  {
+    "code": "ALG-2",
+    "label": "ALEXIS GUENDOUZ",
+    "section": "ALGERIA",
+    "type": "player",
+    "sticker_number": 2,
+    "album_page": null
+  },
+  {
+    "code": "UZB-2",
+    "label": "UTKIR YUSUPOV",
+    "section": "UZBEKISTAN",
+    "type": "player",
+    "sticker_number": 2,
+    "album_page": null
+  },
+  {
+    "code": "PAN-2",
+    "label": "ORLANDO MOSQUERA",
+    "section": "PANAMA",
+    "type": "player",
+    "sticker_number": 2,
+    "album_page": null
+  },
+  {
+    "code": "BIH-2",
+    "label": "NIKOLA VASILJ",
+    "section": "BOSNIA-HERZEGOVINA",
+    "type": "player",
+    "sticker_number": 2,
+    "album_page": null
+  },
+  {
+    "code": "HAI-2",
+    "label": "JOHNY PLACIDE",
+    "section": "HAITI",
+    "type": "player",
+    "sticker_number": 2,
+    "album_page": null
+  },
+  {
+    "code": "TUR-2",
+    "label": "UĞURCAN ÇAKIR",
+    "section": "TURKEY",
+    "type": "player",
+    "sticker_number": 2,
+    "album_page": null
+  },
+  {
+    "code": "NED-2",
+    "label": "BART VERBRUGGEN",
+    "section": "NETHERLANDS",
+    "type": "player",
+    "sticker_number": 2,
+    "album_page": null
+  },
+  {
+    "code": "EGY-2",
+    "label": "MOHAMED ELSHENAWY",
+    "section": "EGYPT",
+    "type": "player",
+    "sticker_number": 2,
+    "album_page": null
+  },
+  {
+    "code": "KSA-2",
+    "label": "NAWAF ALAQIDI",
+    "section": "SAUDI ARABIA",
+    "type": "player",
+    "sticker_number": 2,
+    "album_page": null
+  },
+  {
+    "code": "NOR-2",
+    "label": "ØRJAN NYLAND",
+    "section": "NORWAY",
+    "type": "player",
+    "sticker_number": 2,
+    "album_page": null
+  },
+  {
+    "code": "POR-2",
+    "label": "DIOGO COSTA",
+    "section": "PORTUGAL",
+    "type": "player",
+    "sticker_number": 2,
+    "album_page": null
+  },
+  {
+    "code": "CRO-2",
+    "label": "DOMINIK LIVAKOVIĆ",
+    "section": "CROATIA",
+    "type": "player",
+    "sticker_number": 2,
+    "album_page": null
+  },
+  {
+    "code": "MEX-2",
+    "label": "LUIS MALAGÓN",
+    "section": "MEXICO",
+    "type": "player",
+    "sticker_number": 2,
+    "album_page": null
+  },
+  {
+    "code": "MAR-2",
+    "label": "YASSINE BOUNOU",
+    "section": "MOROCCO",
+    "type": "player",
+    "sticker_number": 2,
+    "album_page": null
+  },
+  {
+    "code": "AUS-2",
+    "label": "MATHEW RYAN",
+    "section": "AUSTRALIA",
+    "type": "player",
+    "sticker_number": 2,
+    "album_page": null
+  },
+  {
+    "code": "ECU-2",
+    "label": "HERNÁN GALÍNDEZ",
+    "section": "ECUADOR",
+    "type": "player",
+    "sticker_number": 2,
+    "album_page": null
+  },
+  {
+    "code": "BEL-2",
+    "label": "THIBAUT COURTOIS",
+    "section": "BELGIUM",
+    "type": "player",
+    "sticker_number": 2,
+    "album_page": null
+  },
+  {
+    "code": "CPV-2",
+    "label": "VOZINHA",
+    "section": "CAPE VERDE",
+    "type": "player",
+    "sticker_number": 2,
+    "album_page": null
+  },
+  {
+    "code": "IRQ-2",
+    "label": "JALAL HASSAN",
+    "section": "IRAQ",
+    "type": "player",
+    "sticker_number": 2,
+    "album_page": null
+  },
+  {
+    "code": "JOR-2",
+    "label": "YAZEED ABULAILA",
+    "section": "JORDAN",
+    "type": "player",
+    "sticker_number": 2,
+    "album_page": null
+  },
+  {
+    "code": "ENG-2",
+    "label": "JORDAN PICKFORD",
+    "section": "ENGLAND",
+    "type": "player",
+    "sticker_number": 2,
+    "album_page": null
+  },
+  {
+    "code": "RSA-2",
+    "label": "RONWEN WILLIAMS",
+    "section": "SOUTH AFRICA",
+    "type": "player",
+    "sticker_number": 2,
+    "album_page": null
+  },
+  {
+    "code": "BRA-2",
+    "label": "ALISSON",
+    "section": "BRAZIL",
+    "type": "player",
+    "sticker_number": 2,
+    "album_page": null
+  },
+  {
+    "code": "PAR-2",
+    "label": "ROBERTO FERNÁNDEZ",
+    "section": "PARAGUAY",
+    "type": "player",
+    "sticker_number": 2,
+    "album_page": null
+  },
+  {
+    "code": "CIV-2",
+    "label": "YAHIA FOFANA",
+    "section": "IVORY COAST",
+    "type": "player",
+    "sticker_number": 2,
+    "album_page": null
+  },
+  {
+    "code": "TUN-2",
+    "label": "BECHIR BEN SAÏD",
+    "section": "TUNISIA",
+    "type": "player",
+    "sticker_number": 2,
+    "album_page": null
+  },
+  {
+    "code": "ESP-2",
+    "label": "UNAI SIMÓN",
+    "section": "SPAIN",
+    "type": "player",
+    "sticker_number": 2,
+    "album_page": null
+  },
+  {
+    "code": "SEN-2",
+    "label": "EDUARDO MENDY",
+    "section": "SENEGAL",
+    "type": "player",
+    "sticker_number": 2,
+    "album_page": null
+  },
+  {
+    "code": "AUT-2",
+    "label": "ALEXANDER SCHLAGER",
+    "section": "AUSTRIA",
+    "type": "player",
+    "sticker_number": 2,
+    "album_page": null
+  },
+  {
+    "code": "COL-2",
+    "label": "CAMILO VARGAS",
+    "section": "COLOMBIA",
+    "type": "player",
+    "sticker_number": 2,
+    "album_page": null
+  },
+  {
+    "code": "KOR-20",
+    "label": "HYEONGYU OH",
+    "section": "KOREA REPUBLIC",
+    "type": "player",
+    "sticker_number": 20,
+    "album_page": null
+  },
+  {
+    "code": "CAN-20",
+    "label": "JONATHAN DAVID",
+    "section": "CANADA",
+    "type": "player",
+    "sticker_number": 20,
+    "album_page": null
+  },
+  {
+    "code": "QAT-20",
+    "label": "ALMOEZ ALI",
+    "section": "QATAR",
+    "type": "player",
+    "sticker_number": 20,
+    "album_page": null
+  },
+  {
+    "code": "SCO-20",
+    "label": "BEN GANNON-DOAK",
+    "section": "SCOTLAND",
+    "type": "player",
+    "sticker_number": 20,
+    "album_page": null
+  },
+  {
+    "code": "GER-20",
+    "label": "NICK WOLTEMADE",
+    "section": "GERMANY",
+    "type": "player",
+    "sticker_number": 20,
+    "album_page": null
+  },
+  {
+    "code": "JPN-20",
+    "label": "AYASE UEDA",
+    "section": "JAPAN",
+    "type": "player",
+    "sticker_number": 20,
+    "album_page": null
+  },
+  {
+    "code": "IRN-20",
+    "label": "ALI GHOLIZADEH",
+    "section": "IRAN",
+    "type": "player",
+    "sticker_number": 20,
+    "album_page": null
+  },
+  {
+    "code": "URU-20",
+    "label": "FACUNDO PELLISTRI",
+    "section": "URUGUAY",
+    "type": "player",
+    "sticker_number": 20,
+    "album_page": null
+  },
+  {
+    "code": "ARG-20",
+    "label": "GIULIANO SIMEONE",
+    "section": "ARGENTINA",
+    "type": "player",
+    "sticker_number": 20,
+    "album_page": null
+  },
+  {
+    "code": "COD-20",
+    "label": "NATHANAÉL MBUKU",
+    "section": "CONGO DR",
+    "type": "player",
+    "sticker_number": 20,
+    "album_page": null
+  },
+  {
+    "code": "GHA-20",
+    "label": "ANTOINE SEMENYO",
+    "section": "GHANA",
+    "type": "player",
+    "sticker_number": 20,
+    "album_page": null
+  },
+  {
+    "code": "CZE-20",
+    "label": "PATRIK SCHICK",
+    "section": "CZECHIA",
+    "type": "player",
+    "sticker_number": 20,
+    "album_page": null
+  },
+  {
+    "code": "SUI-20",
+    "label": "ZEKI AMDOUNI",
+    "section": "SWITZERLAND",
+    "type": "player",
+    "sticker_number": 20,
+    "album_page": null
+  },
+  {
+    "code": "USA-20",
+    "label": "FOLARIN BALOGUN",
+    "section": "USA",
+    "type": "player",
+    "sticker_number": 20,
+    "album_page": null
+  },
+  {
+    "code": "CUW-20",
+    "label": "SONTJE HANSEN",
+    "section": "CURACAO",
+    "type": "player",
+    "sticker_number": 20,
+    "album_page": null
+  },
+  {
+    "code": "SWE-20",
+    "label": "VIKTOR GVÖKERES",
+    "section": "SWEDEN",
+    "type": "player",
+    "sticker_number": 20,
+    "album_page": null
+  },
+  {
+    "code": "NZL-20",
+    "label": "KOSTA BARBAROUSES",
+    "section": "NEW ZEALAND",
+    "type": "player",
+    "sticker_number": 20,
+    "album_page": null
+  },
+  {
+    "code": "FRA-20",
+    "label": "KYLIAN MBAPPÉ",
+    "section": "FRANCE",
+    "type": "player",
+    "sticker_number": 20,
+    "album_page": null
+  },
+  {
+    "code": "ALG-20",
+    "label": "MOHAMMED AMOURA",
+    "section": "ALGERIA",
+    "type": "player",
+    "sticker_number": 20,
+    "album_page": null
+  },
+  {
+    "code": "UZB-20",
+    "label": "ABBOSBEK FAYZULLAEV",
+    "section": "UZBEKISTAN",
+    "type": "player",
+    "sticker_number": 20,
+    "album_page": null
+  },
+  {
+    "code": "PAN-20",
+    "label": "ALBERTO QUINTERO",
+    "section": "PANAMA",
+    "type": "player",
+    "sticker_number": 20,
+    "album_page": null
+  },
+  {
+    "code": "BIH-20",
+    "label": "HARIS TABAKOVIĆ",
+    "section": "BOSNIA-HERZEGOVINA",
+    "type": "player",
+    "sticker_number": 20,
+    "album_page": null
+  },
+  {
+    "code": "HAI-20",
+    "label": "FRANTZDY PIERROT",
+    "section": "HAITI",
+    "type": "player",
+    "sticker_number": 20,
+    "album_page": null
+  },
+  {
+    "code": "TUR-20",
+    "label": "KENAN YILDIZ",
+    "section": "TURKEY",
+    "type": "player",
+    "sticker_number": 20,
+    "album_page": null
+  },
+  {
+    "code": "NED-20",
+    "label": "CODY GAKPO",
+    "section": "NETHERLANDS",
+    "type": "player",
+    "sticker_number": 20,
+    "album_page": null
+  },
+  {
+    "code": "EGY-20",
+    "label": "OMAR MARSMOUSH",
+    "section": "EGYPT",
+    "type": "player",
+    "sticker_number": 20,
+    "album_page": null
+  },
+  {
+    "code": "KSA-20",
+    "label": "ABDULLAH ALHAMDAN",
+    "section": "SAUDI ARABIA",
+    "type": "player",
+    "sticker_number": 20,
+    "album_page": null
+  },
+  {
+    "code": "NOR-20",
+    "label": "OSCAR BOBB",
+    "section": "NORWAY",
+    "type": "player",
+    "sticker_number": 20,
+    "album_page": null
+  },
+  {
+    "code": "POR-20",
+    "label": "RAFAEL LEÃO",
+    "section": "PORTUGAL",
+    "type": "player",
+    "sticker_number": 20,
+    "album_page": null
+  },
+  {
+    "code": "CRO-20",
+    "label": "FRANJO IVANOVIĆ",
+    "section": "CROATIA",
+    "type": "player",
+    "sticker_number": 20,
+    "album_page": null
+  },
+  {
+    "code": "MEX-20",
+    "label": "CÉSAR HUERTA",
+    "section": "MEXICO",
+    "type": "player",
+    "sticker_number": 20,
+    "album_page": null
+  },
+  {
+    "code": "MAR-20",
+    "label": "AYOUB EL KAABI",
+    "section": "MOROCCO",
+    "type": "player",
+    "sticker_number": 20,
+    "album_page": null
+  },
+  {
+    "code": "AUS-20",
+    "label": "MOHAMED TOURÉ",
+    "section": "AUSTRALIA",
+    "type": "player",
+    "sticker_number": 20,
+    "album_page": null
+  },
+  {
+    "code": "ECU-20",
+    "label": "ENNER VALENCIA",
+    "section": "ECUADOR",
+    "type": "player",
+    "sticker_number": 20,
+    "album_page": null
+  },
+  {
+    "code": "BEL-20",
+    "label": "ROMELU LUKAKU",
+    "section": "BELGIUM",
+    "type": "player",
+    "sticker_number": 20,
+    "album_page": null
+  },
+  {
+    "code": "CPV-20",
+    "label": "BEB",
+    "section": "CAPE VERDE",
+    "type": "player",
+    "sticker_number": 20,
+    "album_page": null
+  },
+  {
+    "code": "IRQ-20",
+    "label": "MOHANAD ALI",
+    "section": "IRAQ",
+    "type": "player",
+    "sticker_number": 20,
+    "album_page": null
+  },
+  {
+    "code": "JOR-20",
+    "label": "IBRAHIM SABRA",
+    "section": "JORDAN",
+    "type": "player",
+    "sticker_number": 20,
+    "album_page": null
+  },
+  {
+    "code": "ENG-20",
+    "label": "OLLIE WATKINS",
+    "section": "ENGLAND",
+    "type": "player",
+    "sticker_number": 20,
+    "album_page": null
+  },
+  {
+    "code": "RSA-20",
+    "label": "OSWIN APPOLLIS",
+    "section": "SOUTH AFRICA",
+    "type": "player",
+    "sticker_number": 20,
+    "album_page": null
+  },
+  {
+    "code": "BRA-20",
+    "label": "ESTÉVÃO",
+    "section": "BRAZIL",
+    "type": "player",
+    "sticker_number": 20,
+    "album_page": null
+  },
+  {
+    "code": "PAR-20",
+    "label": "ANTONIO SANABRIA",
+    "section": "PARAGUAY",
+    "type": "player",
+    "sticker_number": 20,
+    "album_page": null
+  },
+  {
+    "code": "CIV-20",
+    "label": "OUMAR DIAKITÉ",
+    "section": "IVORY COAST",
+    "type": "player",
+    "sticker_number": 20,
+    "album_page": null
+  },
+  {
+    "code": "TUN-20",
+    "label": "NAÏM SLITI",
+    "section": "TUNISIA",
+    "type": "player",
+    "sticker_number": 20,
+    "album_page": null
+  },
+  {
+    "code": "ESP-20",
+    "label": "MIKEL OYARZABAL",
+    "section": "SPAIN",
+    "type": "player",
+    "sticker_number": 20,
+    "album_page": null
+  },
+  {
+    "code": "SEN-20",
+    "label": "KRÉPIN DIATTA",
+    "section": "SENEGAL",
+    "type": "player",
+    "sticker_number": 20,
+    "album_page": null
+  },
+  {
+    "code": "AUT-20",
+    "label": "MARKO ARNAUTOVIĆ",
+    "section": "AUSTRIA",
+    "type": "player",
+    "sticker_number": 20,
+    "album_page": null
+  },
+  {
+    "code": "COL-20",
+    "label": "LUIS DÍAZ",
+    "section": "COLOMBIA",
+    "type": "player",
+    "sticker_number": 20,
+    "album_page": null
+  },
+  {
+    "code": "KOR-3",
+    "label": "SEUNGGYU KIM",
+    "section": "KOREA REPUBLIC",
+    "type": "player",
+    "sticker_number": 3,
+    "album_page": null
+  },
+  {
+    "code": "CAN-3",
+    "label": "ALPHONSO DAVIES",
+    "section": "CANADA",
+    "type": "player",
+    "sticker_number": 3,
+    "album_page": null
+  },
+  {
+    "code": "QAT-3",
+    "label": "SULTAN ALBRAKE",
+    "section": "QATAR",
+    "type": "player",
+    "sticker_number": 3,
+    "album_page": null
+  },
+  {
+    "code": "SCO-3",
+    "label": "JACK HENDRY",
+    "section": "SCOTLAND",
+    "type": "player",
+    "sticker_number": 3,
+    "album_page": null
+  },
+  {
+    "code": "GER-3",
+    "label": "JONATHAN TAH",
+    "section": "GERMANY",
+    "type": "player",
+    "sticker_number": 3,
+    "album_page": null
+  },
+  {
+    "code": "JPN-3",
+    "label": "HENRY HEROKI MOCHIZUKI",
+    "section": "JAPAN",
+    "type": "player",
+    "sticker_number": 3,
+    "album_page": null
+  },
+  {
+    "code": "IRN-3",
+    "label": "MORTEZA POURALIGANJI",
+    "section": "IRAN",
+    "type": "player",
+    "sticker_number": 3,
+    "album_page": null
+  },
+  {
+    "code": "URU-3",
+    "label": "SANTIAGO MELE",
+    "section": "URUGUAY",
+    "type": "player",
+    "sticker_number": 3,
+    "album_page": null
+  },
+  {
+    "code": "ARG-3",
+    "label": "NAHUEL MOLINA",
+    "section": "ARGENTINA",
+    "type": "player",
+    "sticker_number": 3,
+    "album_page": null
+  },
+  {
+    "code": "COD-3",
+    "label": "AARON WAN-BISSAKA",
+    "section": "CONGO DR",
+    "type": "player",
+    "sticker_number": 3,
+    "album_page": null
+  },
+  {
+    "code": "GHA-3",
+    "label": "TARIQ LAMPTEY",
+    "section": "GHANA",
+    "type": "player",
+    "sticker_number": 3,
+    "album_page": null
+  },
+  {
+    "code": "CZE-3",
+    "label": "JINDŘICH STANĚK",
+    "section": "CZECHIA",
+    "type": "player",
+    "sticker_number": 3,
+    "album_page": null
+  },
+  {
+    "code": "SUI-3",
+    "label": "YVON MVOGO",
+    "section": "SWITZERLAND",
+    "type": "player",
+    "sticker_number": 3,
+    "album_page": null
+  },
+  {
+    "code": "USA-3",
+    "label": "CHRIS RICHARDS",
+    "section": "USA",
+    "type": "player",
+    "sticker_number": 3,
+    "album_page": null
+  },
+  {
+    "code": "CUW-3",
+    "label": "ARMANDO OBISPO",
+    "section": "CURACAO",
+    "type": "player",
+    "sticker_number": 3,
+    "album_page": null
+  },
+  {
+    "code": "SWE-3",
+    "label": "ISAK HIEN",
+    "section": "SWEDEN",
+    "type": "player",
+    "sticker_number": 3,
+    "album_page": null
+  },
+  {
+    "code": "NZL-3",
+    "label": "ALEX PAULSEN",
+    "section": "NEW ZEALAND",
+    "type": "player",
+    "sticker_number": 3,
+    "album_page": null
+  },
+  {
+    "code": "FRA-3",
+    "label": "THEO HERNÁNDEZ",
+    "section": "FRANCE",
+    "type": "player",
+    "sticker_number": 3,
+    "album_page": null
+  },
+  {
+    "code": "ALG-3",
+    "label": "RAMY BENSEBAINI",
+    "section": "ALGERIA",
+    "type": "player",
+    "sticker_number": 3,
+    "album_page": null
+  },
+  {
+    "code": "UZB-3",
+    "label": "FARRUKH SAYFIEV",
+    "section": "UZBEKISTAN",
+    "type": "player",
+    "sticker_number": 3,
+    "album_page": null
+  },
+  {
+    "code": "PAN-3",
+    "label": "LUIS MEJÍA",
+    "section": "PANAMA",
+    "type": "player",
+    "sticker_number": 3,
+    "album_page": null
+  },
+  {
+    "code": "BIH-3",
+    "label": "AMAR DEDIĆ",
+    "section": "BOSNIA-HERZEGOVINA",
+    "type": "player",
+    "sticker_number": 3,
+    "album_page": null
+  },
+  {
+    "code": "HAI-3",
+    "label": "CARLENS ARCUS",
+    "section": "HAITI",
+    "type": "player",
+    "sticker_number": 3,
+    "album_page": null
+  },
+  {
+    "code": "TUR-3",
+    "label": "MERT MÜLDÜR",
+    "section": "TURKEY",
+    "type": "player",
+    "sticker_number": 3,
+    "album_page": null
+  },
+  {
+    "code": "NED-3",
+    "label": "VIRGIL VAN DIJK",
+    "section": "NETHERLANDS",
+    "type": "player",
+    "sticker_number": 3,
+    "album_page": null
+  },
+  {
+    "code": "EGY-3",
+    "label": "MOHAMED HANY",
+    "section": "EGYPT",
+    "type": "player",
+    "sticker_number": 3,
+    "album_page": null
+  },
+  {
+    "code": "KSA-3",
+    "label": "ANDULRAHMAN ALSANBI",
+    "section": "SAUDI ARABIA",
+    "type": "player",
+    "sticker_number": 3,
+    "album_page": null
+  },
+  {
+    "code": "NOR-3",
+    "label": "JULIAN RYERSON",
+    "section": "NORWAY",
+    "type": "player",
+    "sticker_number": 3,
+    "album_page": null
+  },
+  {
+    "code": "POR-3",
+    "label": "JOSÉ SÁ",
+    "section": "PORTUGAL",
+    "type": "player",
+    "sticker_number": 3,
+    "album_page": null
+  },
+  {
+    "code": "CRO-3",
+    "label": "DUJE CALETA-CAR",
+    "section": "CROATIA",
+    "type": "player",
+    "sticker_number": 3,
+    "album_page": null
+  },
+  {
+    "code": "MEX-3",
+    "label": "JOHAN VÁSQUEZ",
+    "section": "MEXICO",
+    "type": "player",
+    "sticker_number": 3,
+    "album_page": null
+  },
+  {
+    "code": "MAR-3",
+    "label": "MUNIR EL KAJOUI",
+    "section": "MOROCCO",
+    "type": "player",
+    "sticker_number": 3,
+    "album_page": null
+  },
+  {
+    "code": "AUS-3",
+    "label": "JOE GAUCI",
+    "section": "AUSTRALIA",
+    "type": "player",
+    "sticker_number": 3,
+    "album_page": null
+  },
+  {
+    "code": "ECU-3",
+    "label": "GONZALO VALLE",
+    "section": "ECUADOR",
+    "type": "player",
+    "sticker_number": 3,
+    "album_page": null
+  },
+  {
+    "code": "BEL-3",
+    "label": "ARTHUR THEATE",
+    "section": "BELGIUM",
+    "type": "player",
+    "sticker_number": 3,
+    "album_page": null
+  },
+  {
+    "code": "CPV-3",
+    "label": "LOGAN COSTA",
+    "section": "CAPE VERDE",
+    "type": "player",
+    "sticker_number": 3,
+    "album_page": null
+  },
+  {
+    "code": "IRQ-3",
+    "label": "REBIN SULAKA",
+    "section": "IRAQ",
+    "type": "player",
+    "sticker_number": 3,
+    "album_page": null
+  },
+  {
+    "code": "JOR-3",
+    "label": "IHSAN HADDAD",
+    "section": "JORDAN",
+    "type": "player",
+    "sticker_number": 3,
+    "album_page": null
+  },
+  {
+    "code": "ENG-3",
+    "label": "JOHN STONES",
+    "section": "ENGLAND",
+    "type": "player",
+    "sticker_number": 3,
+    "album_page": null
+  },
+  {
+    "code": "RSA-3",
+    "label": "SIPHO CHAINE",
+    "section": "SOUTH AFRICA",
+    "type": "player",
+    "sticker_number": 3,
+    "album_page": null
+  },
+  {
+    "code": "BRA-3",
+    "label": "BENTO",
+    "section": "BRAZIL",
+    "type": "player",
+    "sticker_number": 3,
+    "album_page": null
+  },
+  {
+    "code": "PAR-3",
+    "label": "ORLANDO GILL",
+    "section": "PARAGUAY",
+    "type": "player",
+    "sticker_number": 3,
+    "album_page": null
+  },
+  {
+    "code": "CIV-3",
+    "label": "GHISLAIN KONAN",
+    "section": "IVORY COAST",
+    "type": "player",
+    "sticker_number": 3,
+    "album_page": null
+  },
+  {
+    "code": "TUN-3",
+    "label": "AYMEN DAHMEN",
+    "section": "TUNISIA",
+    "type": "player",
+    "sticker_number": 3,
+    "album_page": null
+  },
+  {
+    "code": "ESP-3",
+    "label": "ROBIN LE NORMAND",
+    "section": "SPAIN",
+    "type": "player",
+    "sticker_number": 3,
+    "album_page": null
+  },
+  {
+    "code": "SEN-3",
+    "label": "YEHVANN DIOUF",
+    "section": "SENEGAL",
+    "type": "player",
+    "sticker_number": 3,
+    "album_page": null
+  },
+  {
+    "code": "AUT-3",
+    "label": "PATRICK PENTZ",
+    "section": "AUSTRIA",
+    "type": "player",
+    "sticker_number": 3,
+    "album_page": null
+  },
+  {
+    "code": "COL-3",
+    "label": "DAVID OSPINA",
+    "section": "COLOMBIA",
+    "type": "player",
+    "sticker_number": 3,
+    "album_page": null
+  },
+  {
+    "code": "KOR-4",
+    "label": "MINJAE KIM",
+    "section": "KOREA REPUBLIC",
+    "type": "player",
+    "sticker_number": 4,
+    "album_page": null
+  },
+  {
+    "code": "CAN-4",
+    "label": "ALISTAIR JOHNSTON",
+    "section": "CANADA",
+    "type": "player",
+    "sticker_number": 4,
+    "album_page": null
+  },
+  {
+    "code": "QAT-4",
+    "label": "LUCAS MENDES",
+    "section": "QATAR",
+    "type": "player",
+    "sticker_number": 4,
+    "album_page": null
+  },
+  {
+    "code": "SCO-4",
+    "label": "KIERAN TIERNEY",
+    "section": "SCOTLAND",
+    "type": "player",
+    "sticker_number": 4,
+    "album_page": null
+  },
+  {
+    "code": "GER-4",
+    "label": "DAVID RAUM",
+    "section": "GERMANY",
+    "type": "player",
+    "sticker_number": 4,
+    "album_page": null
+  },
+  {
+    "code": "JPN-4",
+    "label": "AYUMU SEKO",
+    "section": "JAPAN",
+    "type": "player",
+    "sticker_number": 4,
+    "album_page": null
+  },
+  {
+    "code": "IRN-4",
+    "label": "EHSAN HAJSAFI",
+    "section": "IRAN",
+    "type": "player",
+    "sticker_number": 4,
+    "album_page": null
+  },
+  {
+    "code": "URU-4",
+    "label": "RONALD ARAÚJO",
+    "section": "URUGUAY",
+    "type": "player",
+    "sticker_number": 4,
+    "album_page": null
+  },
+  {
+    "code": "ARG-4",
+    "label": "CRISTIAN ROMERO",
+    "section": "ARGENTINA",
+    "type": "player",
+    "sticker_number": 4,
+    "album_page": null
+  },
+  {
+    "code": "COD-4",
+    "label": "AXEL TUANZEBE",
+    "section": "CONGO DR",
+    "type": "player",
+    "sticker_number": 4,
+    "album_page": null
+  },
+  {
+    "code": "GHA-4",
+    "label": "MOHAMMED SALISU",
+    "section": "GHANA",
+    "type": "player",
+    "sticker_number": 4,
+    "album_page": null
+  },
+  {
+    "code": "CZE-4",
+    "label": "LADISLAV KREJČÍ",
+    "section": "CZECHIA",
+    "type": "player",
+    "sticker_number": 4,
+    "album_page": null
+  },
+  {
+    "code": "SUI-4",
+    "label": "MANUEL AKANJI",
+    "section": "SWITZERLAND",
+    "type": "player",
+    "sticker_number": 4,
+    "album_page": null
+  },
+  {
+    "code": "USA-4",
+    "label": "TIM REAM",
+    "section": "USA",
+    "type": "player",
+    "sticker_number": 4,
+    "album_page": null
+  },
+  {
+    "code": "CUW-4",
+    "label": "SHEREL FLORANUS",
+    "section": "CURACAO",
+    "type": "player",
+    "sticker_number": 4,
+    "album_page": null
+  },
+  {
+    "code": "SWE-4",
+    "label": "GABRIEL DUDMUNDSSON",
+    "section": "SWEDEN",
+    "type": "player",
+    "sticker_number": 4,
+    "album_page": null
+  },
+  {
+    "code": "NZL-4",
+    "label": "MICHAEL BOXALL",
+    "section": "NEW ZEALAND",
+    "type": "player",
+    "sticker_number": 4,
+    "album_page": null
+  },
+  {
+    "code": "FRA-4",
+    "label": "WILLIAM SALIBA",
+    "section": "FRANCE",
+    "type": "player",
+    "sticker_number": 4,
+    "album_page": null
+  },
+  {
+    "code": "ALG-4",
+    "label": "YOUCEF ATAL",
+    "section": "ALGERIA",
+    "type": "player",
+    "sticker_number": 4,
+    "album_page": null
+  },
+  {
+    "code": "UZB-4",
+    "label": "SHERZOD NASRULLAEV",
+    "section": "UZBEKISTAN",
+    "type": "player",
+    "sticker_number": 4,
+    "album_page": null
+  },
+  {
+    "code": "PAN-4",
+    "label": "FIDEL ESCOBAR",
+    "section": "PANAMA",
+    "type": "player",
+    "sticker_number": 4,
+    "album_page": null
+  },
+  {
+    "code": "BIH-4",
+    "label": "SEAD KOLAŠINAC",
+    "section": "BOSNIA-HERZEGOVINA",
+    "type": "player",
+    "sticker_number": 4,
+    "album_page": null
+  },
+  {
+    "code": "HAI-4",
+    "label": "MARTIN EXPÉRIENCE",
+    "section": "HAITI",
+    "type": "player",
+    "sticker_number": 4,
+    "album_page": null
+  },
+  {
+    "code": "TUR-4",
+    "label": "ZEKI ÇELIK",
+    "section": "TURKEY",
+    "type": "player",
+    "sticker_number": 4,
+    "album_page": null
+  },
+  {
+    "code": "NED-4",
+    "label": "MICKY VAN DE VEN",
+    "section": "NETHERLANDS",
+    "type": "player",
+    "sticker_number": 4,
+    "album_page": null
+  },
+  {
+    "code": "EGY-4",
+    "label": "MOHAMED HAMDY",
+    "section": "EGYPT",
+    "type": "player",
+    "sticker_number": 4,
+    "album_page": null
+  },
+  {
+    "code": "KSA-4",
+    "label": "SAUD ABDULHAMID",
+    "section": "SAUDI ARABIA",
+    "type": "player",
+    "sticker_number": 4,
+    "album_page": null
+  },
+  {
+    "code": "NOR-4",
+    "label": "LEO ØSTIGÅRD",
+    "section": "NORWAY",
+    "type": "player",
+    "sticker_number": 4,
+    "album_page": null
+  },
+  {
+    "code": "POR-4",
+    "label": "RUBÉN DIAS",
+    "section": "PORTUGAL",
+    "type": "player",
+    "sticker_number": 4,
+    "album_page": null
+  },
+  {
+    "code": "CRO-4",
+    "label": "JOŠKO GVARDIOL",
+    "section": "CROATIA",
+    "type": "player",
+    "sticker_number": 4,
+    "album_page": null
+  },
+  {
+    "code": "MEX-4",
+    "label": "JORGE SÁNCHEZ",
+    "section": "MEXICO",
+    "type": "player",
+    "sticker_number": 4,
+    "album_page": null
+  },
+  {
+    "code": "MAR-4",
+    "label": "ACHRAF HAKIMI",
+    "section": "MOROCCO",
+    "type": "player",
+    "sticker_number": 4,
+    "album_page": null
+  },
+  {
+    "code": "AUS-4",
+    "label": "HARRY SOUTTAR",
+    "section": "AUSTRALIA",
+    "type": "player",
+    "sticker_number": 4,
+    "album_page": null
+  },
+  {
+    "code": "ECU-4",
+    "label": "PIERO HINCAPIÉ",
+    "section": "ECUADOR",
+    "type": "player",
+    "sticker_number": 4,
+    "album_page": null
+  },
+  {
+    "code": "BEL-4",
+    "label": "TIMOTHY CASTAGNE",
+    "section": "BELGIUM",
+    "type": "player",
+    "sticker_number": 4,
+    "album_page": null
+  },
+  {
+    "code": "CPV-4",
+    "label": "PICO",
+    "section": "CAPE VERDE",
+    "type": "player",
+    "sticker_number": 4,
+    "album_page": null
+  },
+  {
+    "code": "IRQ-4",
+    "label": "HUSSEIN ALI",
+    "section": "IRAQ",
+    "type": "player",
+    "sticker_number": 4,
+    "album_page": null
+  },
+  {
+    "code": "JOR-4",
+    "label": "MOHAMMAD ABU HASHISH",
+    "section": "JORDAN",
+    "type": "player",
+    "sticker_number": 4,
+    "album_page": null
+  },
+  {
+    "code": "ENG-4",
+    "label": "MARC GUÉHI",
+    "section": "ENGLAND",
+    "type": "player",
+    "sticker_number": 4,
+    "album_page": null
+  },
+  {
+    "code": "RSA-4",
+    "label": "AUBREY MODIBA",
+    "section": "SOUTH AFRICA",
+    "type": "player",
+    "sticker_number": 4,
+    "album_page": null
+  },
+  {
+    "code": "BRA-4",
+    "label": "MARQUINHOS",
+    "section": "BRAZIL",
+    "type": "player",
+    "sticker_number": 4,
+    "album_page": null
+  },
+  {
+    "code": "PAR-4",
+    "label": "DIEGO GÓMEZ",
+    "section": "PARAGUAY",
+    "type": "player",
+    "sticker_number": 4,
+    "album_page": null
+  },
+  {
+    "code": "CIV-4",
+    "label": "WILFRIED SINGO",
+    "section": "IVORY COAST",
+    "type": "player",
+    "sticker_number": 4,
+    "album_page": null
+  },
+  {
+    "code": "TUN-4",
+    "label": "VAN VALERY",
+    "section": "TUNISIA",
+    "type": "player",
+    "sticker_number": 4,
+    "album_page": null
+  },
+  {
+    "code": "ESP-4",
+    "label": "AYMERIC LAPORTE",
+    "section": "SPAIN",
+    "type": "player",
+    "sticker_number": 4,
+    "album_page": null
+  },
+  {
+    "code": "SEN-4",
+    "label": "MOUSSA NIAKHATÉ",
+    "section": "SENEGAL",
+    "type": "player",
+    "sticker_number": 4,
+    "album_page": null
+  },
+  {
+    "code": "AUT-4",
+    "label": "DAVID ALABA",
+    "section": "AUSTRIA",
+    "type": "player",
+    "sticker_number": 4,
+    "album_page": null
+  },
+  {
+    "code": "COL-4",
+    "label": "DÁVINSON SÁNCHEZ",
+    "section": "COLOMBIA",
+    "type": "player",
+    "sticker_number": 4,
+    "album_page": null
+  },
+  {
+    "code": "KOR-5",
+    "label": "YUMIN CHO",
+    "section": "KOREA REPUBLIC",
+    "type": "player",
+    "sticker_number": 5,
+    "album_page": null
+  },
+  {
+    "code": "CAN-5",
+    "label": "SAMUEL ADEKUGBE",
+    "section": "CANADA",
+    "type": "player",
+    "sticker_number": 5,
+    "album_page": null
+  },
+  {
+    "code": "QAT-5",
+    "label": "HOMAM AHMED",
+    "section": "QATAR",
+    "type": "player",
+    "sticker_number": 5,
+    "album_page": null
+  },
+  {
+    "code": "SCO-5",
+    "label": "AARON HICKEY",
+    "section": "SCOTLAND",
+    "type": "player",
+    "sticker_number": 5,
+    "album_page": null
+  },
+  {
+    "code": "GER-5",
+    "label": "NICO SCHLOTTERBECK",
+    "section": "GERMANY",
+    "type": "player",
+    "sticker_number": 5,
+    "album_page": null
+  },
+  {
+    "code": "JPN-5",
+    "label": "JUNNOSUKE SUZUKI",
+    "section": "JAPAN",
+    "type": "player",
+    "sticker_number": 5,
+    "album_page": null
+  },
+  {
+    "code": "IRN-5",
+    "label": "MILAD MOHAMMADI",
+    "section": "IRAN",
+    "type": "player",
+    "sticker_number": 5,
+    "album_page": null
+  },
+  {
+    "code": "URU-5",
+    "label": "JOSÉ MARÍA GIMÉNEZ",
+    "section": "URUGUAY",
+    "type": "player",
+    "sticker_number": 5,
+    "album_page": null
+  },
+  {
+    "code": "ARG-5",
+    "label": "NICOLÁS OTAMENDI",
+    "section": "ARGENTINA",
+    "type": "player",
+    "sticker_number": 5,
+    "album_page": null
+  },
+  {
+    "code": "COD-5",
+    "label": "ARTHUR MASUAKU",
+    "section": "CONGO DR",
+    "type": "player",
+    "sticker_number": 5,
+    "album_page": null
+  },
+  {
+    "code": "GHA-5",
+    "label": "ALIDU SEIDU",
+    "section": "GHANA",
+    "type": "player",
+    "sticker_number": 5,
+    "album_page": null
+  },
+  {
+    "code": "CZE-5",
+    "label": "VLADIMÍR COUFAL",
+    "section": "CZECHIA",
+    "type": "player",
+    "sticker_number": 5,
+    "album_page": null
+  },
+  {
+    "code": "SUI-5",
+    "label": "RICARDO RODRÍGUEZ",
+    "section": "SWITZERLAND",
+    "type": "player",
+    "sticker_number": 5,
+    "album_page": null
+  },
+  {
+    "code": "USA-5",
+    "label": "MARK MCKENZIE",
+    "section": "USA",
+    "type": "player",
+    "sticker_number": 5,
+    "album_page": null
+  },
+  {
+    "code": "CUW-5",
+    "label": "JURIEN GAARI",
+    "section": "CURACAO",
+    "type": "player",
+    "sticker_number": 5,
+    "album_page": null
+  },
+  {
+    "code": "SWE-5",
+    "label": "EMIL HOLM",
+    "section": "SWEDEN",
+    "type": "player",
+    "sticker_number": 5,
+    "album_page": null
+  },
+  {
+    "code": "NZL-5",
+    "label": "LIBERATO CACACE",
+    "section": "NEW ZEALAND",
+    "type": "player",
+    "sticker_number": 5,
+    "album_page": null
+  },
+  {
+    "code": "FRA-5",
+    "label": "JULES KOUNDÉ",
+    "section": "FRANCE",
+    "type": "player",
+    "sticker_number": 5,
+    "album_page": null
+  },
+  {
+    "code": "ALG-5",
+    "label": "RAYAN AÏT-NOURI",
+    "section": "ALGERIA",
+    "type": "player",
+    "sticker_number": 5,
+    "album_page": null
+  },
+  {
+    "code": "UZB-5",
+    "label": "UMAR ESHMURODOV",
+    "section": "UZBEKISTAN",
+    "type": "player",
+    "sticker_number": 5,
+    "album_page": null
+  },
+  {
+    "code": "PAN-5",
+    "label": "ANDRÉS ANDRADE",
+    "section": "PANAMA",
+    "type": "player",
+    "sticker_number": 5,
+    "album_page": null
+  },
+  {
+    "code": "BIH-5",
+    "label": "TARIK MUHAREMOVIĆ",
+    "section": "BOSNIA-HERZEGOVINA",
+    "type": "player",
+    "sticker_number": 5,
+    "album_page": null
+  },
+  {
+    "code": "HAI-5",
+    "label": "JEAN-KÉVIN DUVERNE",
+    "section": "HAITI",
+    "type": "player",
+    "sticker_number": 5,
+    "album_page": null
+  },
+  {
+    "code": "TUR-5",
+    "label": "ABDÜLKEREÍM BARDAKGI",
+    "section": "TURKEY",
+    "type": "player",
+    "sticker_number": 5,
+    "album_page": null
+  },
+  {
+    "code": "NED-5",
+    "label": "JURIEN TIMBER",
+    "section": "NETHERLANDS",
+    "type": "player",
+    "sticker_number": 5,
+    "album_page": null
+  },
+  {
+    "code": "EGY-5",
+    "label": "YASSER EBRAHIM",
+    "section": "EGYPT",
+    "type": "player",
+    "sticker_number": 5,
+    "album_page": null
+  },
+  {
+    "code": "KSA-5",
+    "label": "NAWAF BOUWASHL",
+    "section": "SAUDI ARABIA",
+    "type": "player",
+    "sticker_number": 5,
+    "album_page": null
+  },
+  {
+    "code": "NOR-5",
+    "label": "KRISTOFFER VASSBAKK AJER",
+    "section": "NORWAY",
+    "type": "player",
+    "sticker_number": 5,
+    "album_page": null
+  },
+  {
+    "code": "POR-5",
+    "label": "JOÃO CANCELO",
+    "section": "PORTUGAL",
+    "type": "player",
+    "sticker_number": 5,
+    "album_page": null
+  },
+  {
+    "code": "CRO-5",
+    "label": "JOSIP STANIŠIĆ",
+    "section": "CROATIA",
+    "type": "player",
+    "sticker_number": 5,
+    "album_page": null
+  },
+  {
+    "code": "MEX-5",
+    "label": "CÉSAR MONTES",
+    "section": "MEXICO",
+    "type": "player",
+    "sticker_number": 5,
+    "album_page": null
+  },
+  {
+    "code": "MAR-5",
+    "label": "NOUSSAIR MAZRAOUI",
+    "section": "MOROCCO",
+    "type": "player",
+    "sticker_number": 5,
+    "album_page": null
+  },
+  {
+    "code": "AUS-5",
+    "label": "ALESSANDRO CIRCATI",
+    "section": "AUSTRALIA",
+    "type": "player",
+    "sticker_number": 5,
+    "album_page": null
+  },
+  {
+    "code": "ECU-5",
+    "label": "PERVIS ESTUPIÑÁN",
+    "section": "ECUADOR",
+    "type": "player",
+    "sticker_number": 5,
+    "album_page": null
+  },
+  {
+    "code": "BEL-5",
+    "label": "ZENO DEBAST",
+    "section": "BELGIUM",
+    "type": "player",
+    "sticker_number": 5,
+    "album_page": null
+  },
+  {
+    "code": "CPV-5",
+    "label": "DINEV",
+    "section": "CAPE VERDE",
+    "type": "player",
+    "sticker_number": 5,
+    "album_page": null
+  },
+  {
+    "code": "IRQ-5",
+    "label": "AKAM HASHEM",
+    "section": "IRAQ",
+    "type": "player",
+    "sticker_number": 5,
+    "album_page": null
+  },
+  {
+    "code": "JOR-5",
+    "label": "YAZAN AL-ARAB",
+    "section": "JORDAN",
+    "type": "player",
+    "sticker_number": 5,
+    "album_page": null
+  },
+  {
+    "code": "ENG-5",
+    "label": "EZRI KONSA",
+    "section": "ENGLAND",
+    "type": "player",
+    "sticker_number": 5,
+    "album_page": null
+  },
+  {
+    "code": "RSA-5",
+    "label": "SAMUKELE KABINI",
+    "section": "SOUTH AFRICA",
+    "type": "player",
+    "sticker_number": 5,
+    "album_page": null
+  },
+  {
+    "code": "BRA-5",
+    "label": "ÉDER MILITÃO",
+    "section": "BRAZIL",
+    "type": "player",
+    "sticker_number": 5,
+    "album_page": null
+  },
+  {
+    "code": "PAR-5",
+    "label": "FABIÁN BALBUENA",
+    "section": "PARAGUAY",
+    "type": "player",
+    "sticker_number": 5,
+    "album_page": null
+  },
+  {
+    "code": "CIV-5",
+    "label": "ODILON KOSSOUNOU",
+    "section": "IVORY COAST",
+    "type": "player",
+    "sticker_number": 5,
+    "album_page": null
+  },
+  {
+    "code": "TUN-5",
+    "label": "MONTASSAR TALBI",
+    "section": "TUNISIA",
+    "type": "player",
+    "sticker_number": 5,
+    "album_page": null
+  },
+  {
+    "code": "ESP-5",
+    "label": "DEAN HUIJSEN",
+    "section": "SPAIN",
+    "type": "player",
+    "sticker_number": 5,
+    "album_page": null
+  },
+  {
+    "code": "SEN-5",
+    "label": "ABDOULAYE SEC",
+    "section": "SENEGAL",
+    "type": "player",
+    "sticker_number": 5,
+    "album_page": null
+  },
+  {
+    "code": "AUT-5",
+    "label": "KEVIN DANSO",
+    "section": "AUSTRIA",
+    "type": "player",
+    "sticker_number": 5,
+    "album_page": null
+  },
+  {
+    "code": "COL-5",
+    "label": "YERRY MINA",
+    "section": "COLOMBIA",
+    "type": "player",
+    "sticker_number": 5,
+    "album_page": null
+  },
+  {
+    "code": "KOR-6",
+    "label": "YOUNGWOO SEOL",
+    "section": "KOREA REPUBLIC",
+    "type": "player",
+    "sticker_number": 6,
+    "album_page": null
+  },
+  {
+    "code": "CAN-6",
+    "label": "SAMUEL RICHIE LARVEA",
+    "section": "CANADA",
+    "type": "player",
+    "sticker_number": 6,
+    "album_page": null
+  },
+  {
+    "code": "QAT-6",
+    "label": "BOUALEM KHOUKHI",
+    "section": "QATAR",
+    "type": "player",
+    "sticker_number": 6,
+    "album_page": null
+  },
+  {
+    "code": "SCO-6",
+    "label": "ANDREW ROBERTSON",
+    "section": "SCOTLAND",
+    "type": "player",
+    "sticker_number": 6,
+    "album_page": null
+  },
+  {
+    "code": "GER-6",
+    "label": "ANTONIO RÜDIGER",
+    "section": "GERMANY",
+    "type": "player",
+    "sticker_number": 6,
+    "album_page": null
+  },
+  {
+    "code": "JPN-6",
+    "label": "SHOGO TANIGUCHI",
+    "section": "JAPAN",
+    "type": "player",
+    "sticker_number": 6,
+    "album_page": null
+  },
+  {
+    "code": "IRN-6",
+    "label": "SHOJAE KHALILZADEH",
+    "section": "IRAN",
+    "type": "player",
+    "sticker_number": 6,
+    "album_page": null
+  },
+  {
+    "code": "URU-6",
+    "label": "SEBASTIÁN CÁCERES",
+    "section": "URUGUAY",
+    "type": "player",
+    "sticker_number": 6,
+    "album_page": null
+  },
+  {
+    "code": "ARG-6",
+    "label": "NICOLÁS TAGLIAFICO",
+    "section": "ARGENTINA",
+    "type": "player",
+    "sticker_number": 6,
+    "album_page": null
+  },
+  {
+    "code": "COD-6",
+    "label": "CHANCEL MBEMBA",
+    "section": "CONGO DR",
+    "type": "player",
+    "sticker_number": 6,
+    "album_page": null
+  },
+  {
+    "code": "GHA-6",
+    "label": "ALEXANDERR DJIKU",
+    "section": "GHANA",
+    "type": "player",
+    "sticker_number": 6,
+    "album_page": null
+  },
+  {
+    "code": "CZE-6",
+    "label": "JAROSLAV ZELENÝ",
+    "section": "CZECHIA",
+    "type": "player",
+    "sticker_number": 6,
+    "album_page": null
+  },
+  {
+    "code": "SUI-6",
+    "label": "NICO ELVEDI",
+    "section": "SWITZERLAND",
+    "type": "player",
+    "sticker_number": 6,
+    "album_page": null
+  },
+  {
+    "code": "USA-6",
+    "label": "ALEX FREEMAN",
+    "section": "USA",
+    "type": "player",
+    "sticker_number": 6,
+    "album_page": null
+  },
+  {
+    "code": "CUW-6",
+    "label": "JOSHUA BREMET",
+    "section": "CURACAO",
+    "type": "player",
+    "sticker_number": 6,
+    "album_page": null
+  },
+  {
+    "code": "SWE-6",
+    "label": "VOCTOR NILSSON LINDELÖF",
+    "section": "SWEDEN",
+    "type": "player",
+    "sticker_number": 6,
+    "album_page": null
+  },
+  {
+    "code": "NZL-6",
+    "label": "TIM PAYNE",
+    "section": "NEW ZEALAND",
+    "type": "player",
+    "sticker_number": 6,
+    "album_page": null
+  },
+  {
+    "code": "FRA-6",
+    "label": "IBRAHIMA KONATÉ",
+    "section": "FRANCE",
+    "type": "player",
+    "sticker_number": 6,
+    "album_page": null
+  },
+  {
+    "code": "ALG-6",
+    "label": "MOHAMED AMINE TOUGAI",
+    "section": "ALGERIA",
+    "type": "player",
+    "sticker_number": 6,
+    "album_page": null
+  },
+  {
+    "code": "UZB-6",
+    "label": "HUSNIDDIN ALIQULOV",
+    "section": "UZBEKISTAN",
+    "type": "player",
+    "sticker_number": 6,
+    "album_page": null
+  },
+  {
+    "code": "PAN-6",
+    "label": "MICHAEL AMIR MURILLO",
+    "section": "PANAMA",
+    "type": "player",
+    "sticker_number": 6,
+    "album_page": null
+  },
+  {
+    "code": "BIH-6",
+    "label": "NIHAD MUJAKIĆ",
+    "section": "BOSNIA-HERZEGOVINA",
+    "type": "player",
+    "sticker_number": 6,
+    "album_page": null
+  },
+  {
+    "code": "HAI-6",
+    "label": "RICARDO ADÉ",
+    "section": "HAITI",
+    "type": "player",
+    "sticker_number": 6,
+    "album_page": null
+  },
+  {
+    "code": "TUR-6",
+    "label": "ÇAĞLAR SÖYÜNCÜ",
+    "section": "TURKEY",
+    "type": "player",
+    "sticker_number": 6,
+    "album_page": null
+  },
+  {
+    "code": "NED-6",
+    "label": "DENZEL DUMFRIES",
+    "section": "NETHERLANDS",
+    "type": "player",
+    "sticker_number": 6,
+    "album_page": null
+  },
+  {
+    "code": "EGY-6",
+    "label": "KHALED SOBHI",
+    "section": "EGYPT",
+    "type": "player",
+    "sticker_number": 6,
+    "album_page": null
+  },
+  {
+    "code": "KSA-6",
+    "label": "JEHAD THIKRI",
+    "section": "SAUDI ARABIA",
+    "type": "player",
+    "sticker_number": 6,
+    "album_page": null
+  },
+  {
+    "code": "NOR-6",
+    "label": "MARCUS HOLMGREN PEDERSEN",
+    "section": "NORWAY",
+    "type": "player",
+    "sticker_number": 6,
+    "album_page": null
+  },
+  {
+    "code": "POR-6",
+    "label": "DIOGO DALOT",
+    "section": "PORTUGAL",
+    "type": "player",
+    "sticker_number": 6,
+    "album_page": null
+  },
+  {
+    "code": "CRO-6",
+    "label": "LUKA VUŠKOVIĆ",
+    "section": "CROATIA",
+    "type": "player",
+    "sticker_number": 6,
+    "album_page": null
+  },
+  {
+    "code": "MEX-6",
+    "label": "JESÚS GALLARDO",
+    "section": "MEXICO",
+    "type": "player",
+    "sticker_number": 6,
+    "album_page": null
+  },
+  {
+    "code": "MAR-6",
+    "label": "NAYEF AGUERD",
+    "section": "MOROCCO",
+    "type": "player",
+    "sticker_number": 6,
+    "album_page": null
+  },
+  {
+    "code": "AUS-6",
+    "label": "JORDAN BOS",
+    "section": "AUSTRALIA",
+    "type": "player",
+    "sticker_number": 6,
+    "album_page": null
+  },
+  {
+    "code": "ECU-6",
+    "label": "WILLIAN PACHO",
+    "section": "ECUADOR",
+    "type": "player",
+    "sticker_number": 6,
+    "album_page": null
+  },
+  {
+    "code": "BEL-6",
+    "label": "BRADON MECHELE",
+    "section": "BELGIUM",
+    "type": "player",
+    "sticker_number": 6,
+    "album_page": null
+  },
+  {
+    "code": "CPV-6",
+    "label": "STEVEN MOREIRA",
+    "section": "CAPE VERDE",
+    "type": "player",
+    "sticker_number": 6,
+    "album_page": null
+  },
+  {
+    "code": "IRQ-6",
+    "label": "MERCHAS DOSKI",
+    "section": "IRAQ",
+    "type": "player",
+    "sticker_number": 6,
+    "album_page": null
+  },
+  {
+    "code": "JOR-6",
+    "label": "ABDULLAH NASIB",
+    "section": "JORDAN",
+    "type": "player",
+    "sticker_number": 6,
+    "album_page": null
+  },
+  {
+    "code": "ENG-6",
+    "label": "TRENT ALEXANDER-ARNOLD",
+    "section": "ENGLAND",
+    "type": "player",
+    "sticker_number": 6,
+    "album_page": null
+  },
+  {
+    "code": "RSA-6",
+    "label": "KHULISO MUDAU",
+    "section": "SOUTH AFRICA",
+    "type": "player",
+    "sticker_number": 6,
+    "album_page": null
+  },
+  {
+    "code": "BRA-6",
+    "label": "GABRIEL MAGALHÃES",
+    "section": "BRAZIL",
+    "type": "player",
+    "sticker_number": 6,
+    "album_page": null
+  },
+  {
+    "code": "PAR-6",
+    "label": "JUAN JOSÉ CÁCERES",
+    "section": "PARAGUAY",
+    "type": "player",
+    "sticker_number": 6,
+    "album_page": null
+  },
+  {
+    "code": "CIV-6",
+    "label": "EVAN NDICKA",
+    "section": "IVORY COAST",
+    "type": "player",
+    "sticker_number": 6,
+    "album_page": null
+  },
+  {
+    "code": "TUN-6",
+    "label": "YASSINE MERIAH",
+    "section": "TUNISIA",
+    "type": "player",
+    "sticker_number": 6,
+    "album_page": null
+  },
+  {
+    "code": "ESP-6",
+    "label": "PEDRO PORRO",
+    "section": "SPAIN",
+    "type": "player",
+    "sticker_number": 6,
+    "album_page": null
+  },
+  {
+    "code": "SEN-6",
+    "label": "ISMAIL JAKOBS",
+    "section": "SENEGAL",
+    "type": "player",
+    "sticker_number": 6,
+    "album_page": null
+  },
+  {
+    "code": "AUT-6",
+    "label": "PHILIPP LIENHART",
+    "section": "AUSTRIA",
+    "type": "player",
+    "sticker_number": 6,
+    "album_page": null
+  },
+  {
+    "code": "COL-6",
+    "label": "DANIEL MUÑOZ",
+    "section": "COLOMBIA",
+    "type": "player",
+    "sticker_number": 6,
+    "album_page": null
+  },
+  {
+    "code": "KOR-7",
+    "label": "HANBEOM LEE",
+    "section": "KOREA REPUBLIC",
+    "type": "player",
+    "sticker_number": 7,
+    "album_page": null
+  },
+  {
+    "code": "CAN-7",
+    "label": "DEREK CORNELIUS",
+    "section": "CANADA",
+    "type": "player",
+    "sticker_number": 7,
+    "album_page": null
+  },
+  {
+    "code": "QAT-7",
+    "label": "PEDRO MIGUEL",
+    "section": "QATAR",
+    "type": "player",
+    "sticker_number": 7,
+    "album_page": null
+  },
+  {
+    "code": "SCO-7",
+    "label": "SCOTT MCKENNA",
+    "section": "SCOTLAND",
+    "type": "player",
+    "sticker_number": 7,
+    "album_page": null
+  },
+  {
+    "code": "GER-7",
+    "label": "WALDEMAR ANTON",
+    "section": "GERMANY",
+    "type": "player",
+    "sticker_number": 7,
+    "album_page": null
+  },
+  {
+    "code": "JPN-7",
+    "label": "TSUYOSHI WATANABE",
+    "section": "JAPAN",
+    "type": "player",
+    "sticker_number": 7,
+    "album_page": null
+  },
+  {
+    "code": "IRN-7",
+    "label": "RAMIN REZAEIAN",
+    "section": "IRAN",
+    "type": "player",
+    "sticker_number": 7,
+    "album_page": null
+  },
+  {
+    "code": "URU-7",
+    "label": "MATHIAS OLIVERA",
+    "section": "URUGUAY",
+    "type": "player",
+    "sticker_number": 7,
+    "album_page": null
+  },
+  {
+    "code": "ARG-7",
+    "label": "LEONARDO BALERDI",
+    "section": "ARGENTINA",
+    "type": "player",
+    "sticker_number": 7,
+    "album_page": null
+  },
+  {
+    "code": "COD-7",
+    "label": "JORIS KAYEMBE",
+    "section": "CONGO DR",
+    "type": "player",
+    "sticker_number": 7,
+    "album_page": null
+  },
+  {
+    "code": "GHA-7",
+    "label": "GIDEON MENSAH",
+    "section": "GHANA",
+    "type": "player",
+    "sticker_number": 7,
+    "album_page": null
+  },
+  {
+    "code": "CZE-7",
+    "label": "TOMÁŠ HOLEŠ",
+    "section": "CZECHIA",
+    "type": "player",
+    "sticker_number": 7,
+    "album_page": null
+  },
+  {
+    "code": "SUI-7",
+    "label": "AURÈLE AMENDA",
+    "section": "SWITZERLAND",
+    "type": "player",
+    "sticker_number": 7,
+    "album_page": null
+  },
+  {
+    "code": "USA-7",
+    "label": "ANTONEE ROBINSON",
+    "section": "USA",
+    "type": "player",
+    "sticker_number": 7,
+    "album_page": null
+  },
+  {
+    "code": "CUW-7",
+    "label": "ROSHON VAN EIJMA",
+    "section": "CURACAO",
+    "type": "player",
+    "sticker_number": 7,
+    "album_page": null
+  },
+  {
+    "code": "SWE-7",
+    "label": "GUSTAF LAGERBIELKE",
+    "section": "SWEDEN",
+    "type": "player",
+    "sticker_number": 7,
+    "album_page": null
+  },
+  {
+    "code": "NZL-7",
+    "label": "TYLER BINDON",
+    "section": "NEW ZEALAND",
+    "type": "player",
+    "sticker_number": 7,
+    "album_page": null
+  },
+  {
+    "code": "FRA-7",
+    "label": "DAYOT UPAMECANO",
+    "section": "FRANCE",
+    "type": "player",
+    "sticker_number": 7,
+    "album_page": null
+  },
+  {
+    "code": "ALG-7",
+    "label": "AÏSSA MANDI",
+    "section": "ALGERIA",
+    "type": "player",
+    "sticker_number": 7,
+    "album_page": null
+  },
+  {
+    "code": "UZB-7",
+    "label": "RUSTAM ASHURMATOV",
+    "section": "UZBEKISTAN",
+    "type": "player",
+    "sticker_number": 7,
+    "album_page": null
+  },
+  {
+    "code": "PAN-7",
+    "label": "ERIC DAVIES",
+    "section": "PANAMA",
+    "type": "player",
+    "sticker_number": 7,
+    "album_page": null
+  },
+  {
+    "code": "BIH-7",
+    "label": "NIKOLA KATIĆ",
+    "section": "BOSNIA-HERZEGOVINA",
+    "type": "player",
+    "sticker_number": 7,
+    "album_page": null
+  },
+  {
+    "code": "HAI-7",
+    "label": "DUKE LACROIX",
+    "section": "HAITI",
+    "type": "player",
+    "sticker_number": 7,
+    "album_page": null
+  },
+  {
+    "code": "TUR-7",
+    "label": "MERIH DEMIRAL",
+    "section": "TURKEY",
+    "type": "player",
+    "sticker_number": 7,
+    "album_page": null
+  },
+  {
+    "code": "NED-7",
+    "label": "NATHAN AKÉ",
+    "section": "NETHERLANDS",
+    "type": "player",
+    "sticker_number": 7,
+    "album_page": null
+  },
+  {
+    "code": "EGY-7",
+    "label": "RAMY RABIA",
+    "section": "EGYPT",
+    "type": "player",
+    "sticker_number": 7,
+    "album_page": null
+  },
+  {
+    "code": "KSA-7",
+    "label": "MOTEB ALHARBI",
+    "section": "SAUDI ARABIA",
+    "type": "player",
+    "sticker_number": 7,
+    "album_page": null
+  },
+  {
+    "code": "NOR-7",
+    "label": "DAVID MØLLER WOLFE",
+    "section": "NORWAY",
+    "type": "player",
+    "sticker_number": 7,
+    "album_page": null
+  },
+  {
+    "code": "POR-7",
+    "label": "NUNO MENDES",
+    "section": "PORTUGAL",
+    "type": "player",
+    "sticker_number": 7,
+    "album_page": null
+  },
+  {
+    "code": "CRO-7",
+    "label": "JOSIP ŠUTALO",
+    "section": "CROATIA",
+    "type": "player",
+    "sticker_number": 7,
+    "album_page": null
+  },
+  {
+    "code": "MEX-7",
+    "label": "ISRAEL REYES",
+    "section": "MEXICO",
+    "type": "player",
+    "sticker_number": 7,
+    "album_page": null
+  },
+  {
+    "code": "MAR-7",
+    "label": "ROMAIN SAÏSS",
+    "section": "MOROCCO",
+    "type": "player",
+    "sticker_number": 7,
+    "album_page": null
+  },
+  {
+    "code": "AUS-7",
+    "label": "AZIZ BEHICH",
+    "section": "AUSTRALIA",
+    "type": "player",
+    "sticker_number": 7,
+    "album_page": null
+  },
+  {
+    "code": "ECU-7",
+    "label": "ÁNGELO PRECIADO",
+    "section": "ECUADOR",
+    "type": "player",
+    "sticker_number": 7,
+    "album_page": null
+  },
+  {
+    "code": "BEL-7",
+    "label": "MAXIM DE CUYPER",
+    "section": "BELGIUM",
+    "type": "player",
+    "sticker_number": 7,
+    "album_page": null
+  },
+  {
+    "code": "CPV-7",
+    "label": "WAGNER PINA",
+    "section": "CAPE VERDE",
+    "type": "player",
+    "sticker_number": 7,
+    "album_page": null
+  },
+  {
+    "code": "IRQ-7",
+    "label": "ZAID TAHSEEN",
+    "section": "IRAQ",
+    "type": "player",
+    "sticker_number": 7,
+    "album_page": null
+  },
+  {
+    "code": "JOR-7",
+    "label": "SALEEM OBAID",
+    "section": "JORDAN",
+    "type": "player",
+    "sticker_number": 7,
+    "album_page": null
+  },
+  {
+    "code": "ENG-7",
+    "label": "REECE JAMES",
+    "section": "ENGLAND",
+    "type": "player",
+    "sticker_number": 7,
+    "album_page": null
+  },
+  {
+    "code": "RSA-7",
+    "label": "KHULUMANI NDAMANE",
+    "section": "SOUTH AFRICA",
+    "type": "player",
+    "sticker_number": 7,
+    "album_page": null
+  },
+  {
+    "code": "BRA-7",
+    "label": "DANILO",
+    "section": "BRAZIL",
+    "type": "player",
+    "sticker_number": 7,
+    "album_page": null
+  },
+  {
+    "code": "PAR-7",
+    "label": "OMAR ALDERETE",
+    "section": "PARAGUAY",
+    "type": "player",
+    "sticker_number": 7,
+    "album_page": null
+  },
+  {
+    "code": "CIV-7",
+    "label": "WILLY BOLY",
+    "section": "IVORY COAST",
+    "type": "player",
+    "sticker_number": 7,
+    "album_page": null
+  },
+  {
+    "code": "TUN-7",
+    "label": "ALI ABDI",
+    "section": "TUNISIA",
+    "type": "player",
+    "sticker_number": 7,
+    "album_page": null
+  },
+  {
+    "code": "ESP-7",
+    "label": "DANI CARVAJAL",
+    "section": "SPAIN",
+    "type": "player",
+    "sticker_number": 7,
+    "album_page": null
+  },
+  {
+    "code": "SEN-7",
+    "label": "EL HADJI MALICK DIOUF",
+    "section": "SENEGAL",
+    "type": "player",
+    "sticker_number": 7,
+    "album_page": null
+  },
+  {
+    "code": "AUT-7",
+    "label": "STEFAN BOSCH",
+    "section": "AUSTRIA",
+    "type": "player",
+    "sticker_number": 7,
+    "album_page": null
+  },
+  {
+    "code": "COL-7",
+    "label": "JOHAN MOJICA",
+    "section": "COLOMBIA",
+    "type": "player",
+    "sticker_number": 7,
+    "album_page": null
+  },
+  {
+    "code": "KOR-8",
+    "label": "TAESEOK LEE",
+    "section": "KOREA REPUBLIC",
+    "type": "player",
+    "sticker_number": 8,
+    "album_page": null
+  },
+  {
+    "code": "CAN-8",
+    "label": "MOÏSE BOMBITO",
+    "section": "CANADA",
+    "type": "player",
+    "sticker_number": 8,
+    "album_page": null
+  },
+  {
+    "code": "QAT-8",
+    "label": "TAREK SALMAN",
+    "section": "QATAR",
+    "type": "player",
+    "sticker_number": 8,
+    "album_page": null
+  },
+  {
+    "code": "SCO-8",
+    "label": "JOHN SOUTTAR",
+    "section": "SCOTLAND",
+    "type": "player",
+    "sticker_number": 8,
+    "album_page": null
+  },
+  {
+    "code": "GER-8",
+    "label": "RIDLE BAKU",
+    "section": "GERMANY",
+    "type": "player",
+    "sticker_number": 8,
+    "album_page": null
+  },
+  {
+    "code": "JPN-8",
+    "label": "KAISHU SANO",
+    "section": "JAPAN",
+    "type": "player",
+    "sticker_number": 8,
+    "album_page": null
+  },
+  {
+    "code": "IRN-8",
+    "label": "HOSSEIN KANAANI",
+    "section": "IRAN",
+    "type": "player",
+    "sticker_number": 8,
+    "album_page": null
+  },
+  {
+    "code": "URU-8",
+    "label": "GUILLERMO VARELA",
+    "section": "URUGUAY",
+    "type": "player",
+    "sticker_number": 8,
+    "album_page": null
+  },
+  {
+    "code": "ARG-8",
+    "label": "ENZO FERNÁNDEZ",
+    "section": "ARGENTINA",
+    "type": "player",
+    "sticker_number": 8,
+    "album_page": null
+  },
+  {
+    "code": "COD-8",
+    "label": "CHARLES PICKEL",
+    "section": "CONGO DR",
+    "type": "player",
+    "sticker_number": 8,
+    "album_page": null
+  },
+  {
+    "code": "GHA-8",
+    "label": "CALEB YIRENKYI",
+    "section": "GHANA",
+    "type": "player",
+    "sticker_number": 8,
+    "album_page": null
+  },
+  {
+    "code": "CZE-8",
+    "label": "DAVID ZIMA",
+    "section": "CZECHIA",
+    "type": "player",
+    "sticker_number": 8,
+    "album_page": null
+  },
+  {
+    "code": "SUI-8",
+    "label": "SILVAN WIDMER",
+    "section": "SWITZERLAND",
+    "type": "player",
+    "sticker_number": 8,
+    "album_page": null
+  },
+  {
+    "code": "USA-8",
+    "label": "TYLER ADAMS",
+    "section": "USA",
+    "type": "player",
+    "sticker_number": 8,
+    "album_page": null
+  },
+  {
+    "code": "CUW-8",
+    "label": "SHURANDY SAMBO",
+    "section": "CURACAO",
+    "type": "player",
+    "sticker_number": 8,
+    "album_page": null
+  },
+  {
+    "code": "SWE-8",
+    "label": "LUCAS BERGVALL",
+    "section": "SWEDEN",
+    "type": "player",
+    "sticker_number": 8,
+    "album_page": null
+  },
+  {
+    "code": "NZL-8",
+    "label": "FRANCIS DE VRIES",
+    "section": "NEW ZEALAND",
+    "type": "player",
+    "sticker_number": 8,
+    "album_page": null
+  },
+  {
+    "code": "FRA-8",
+    "label": "LUCAS DIGNE",
+    "section": "FRANCE",
+    "type": "player",
+    "sticker_number": 8,
+    "album_page": null
+  },
+  {
+    "code": "ALG-8",
+    "label": "ISMAÉL BENNACER",
+    "section": "ALGERIA",
+    "type": "player",
+    "sticker_number": 8,
+    "album_page": null
+  },
+  {
+    "code": "UZB-8",
+    "label": "KHOJIAKBAR ALIJONOV",
+    "section": "UZBEKISTAN",
+    "type": "player",
+    "sticker_number": 8,
+    "album_page": null
+  },
+  {
+    "code": "PAN-8",
+    "label": "JOSÉ CÓRDOBA",
+    "section": "PANAMA",
+    "type": "player",
+    "sticker_number": 8,
+    "album_page": null
+  },
+  {
+    "code": "BIH-8",
+    "label": "AMIR HADŽIAHMETOVIĆ",
+    "section": "BOSNIA-HERZEGOVINA",
+    "type": "player",
+    "sticker_number": 8,
+    "album_page": null
+  },
+  {
+    "code": "HAI-8",
+    "label": "GARVEN METUSALA",
+    "section": "HAITI",
+    "type": "player",
+    "sticker_number": 8,
+    "album_page": null
+  },
+  {
+    "code": "TUR-8",
+    "label": "FERDI KADIOĞLU",
+    "section": "TURKEY",
+    "type": "player",
+    "sticker_number": 8,
+    "album_page": null
+  },
+  {
+    "code": "NED-8",
+    "label": "JEREMIE FRIMPONG",
+    "section": "NETHERLANDS",
+    "type": "player",
+    "sticker_number": 8,
+    "album_page": null
+  },
+  {
+    "code": "EGY-8",
+    "label": "HOSSAM ABDELMAGUID",
+    "section": "EGYPT",
+    "type": "player",
+    "sticker_number": 8,
+    "album_page": null
+  },
+  {
+    "code": "KSA-8",
+    "label": "HASSAN ALTAMBAKTI",
+    "section": "SAUDI ARABIA",
+    "type": "player",
+    "sticker_number": 8,
+    "album_page": null
+  },
+  {
+    "code": "NOR-8",
+    "label": "TORBJØRN HEGGEM",
+    "section": "NORWAY",
+    "type": "player",
+    "sticker_number": 8,
+    "album_page": null
+  },
+  {
+    "code": "POR-8",
+    "label": "GONÇALO INÁCIO",
+    "section": "PORTUGAL",
+    "type": "player",
+    "sticker_number": 8,
+    "album_page": null
+  },
+  {
+    "code": "CRO-8",
+    "label": "KRISTIJAN JAKIĆ",
+    "section": "CROATIA",
+    "type": "player",
+    "sticker_number": 8,
+    "album_page": null
+  },
+  {
+    "code": "MEX-8",
+    "label": "DIEGO LAINEZ",
+    "section": "MEXICO",
+    "type": "player",
+    "sticker_number": 8,
+    "album_page": null
+  },
+  {
+    "code": "MAR-8",
+    "label": "JAWAD EL YAMIQ",
+    "section": "MOROCCO",
+    "type": "player",
+    "sticker_number": 8,
+    "album_page": null
+  },
+  {
+    "code": "AUS-8",
+    "label": "CAMERON BURGESS",
+    "section": "AUSTRALIA",
+    "type": "player",
+    "sticker_number": 8,
+    "album_page": null
+  },
+  {
+    "code": "ECU-8",
+    "label": "JOEL ORDÓÑEZ",
+    "section": "ECUADOR",
+    "type": "player",
+    "sticker_number": 8,
+    "album_page": null
+  },
+  {
+    "code": "BEL-8",
+    "label": "THOMAS MEUNIER",
+    "section": "BELGIUM",
+    "type": "player",
+    "sticker_number": 8,
+    "album_page": null
+  },
+  {
+    "code": "CPV-8",
+    "label": "JOÃO PAULO",
+    "section": "CAPE VERDE",
+    "type": "player",
+    "sticker_number": 8,
+    "album_page": null
+  },
+  {
+    "code": "IRQ-8",
+    "label": "MANAF YOUNIS",
+    "section": "IRAQ",
+    "type": "player",
+    "sticker_number": 8,
+    "album_page": null
+  },
+  {
+    "code": "JOR-8",
+    "label": "MOHAMMAD ABUALNADI",
+    "section": "JORDAN",
+    "type": "player",
+    "sticker_number": 8,
+    "album_page": null
+  },
+  {
+    "code": "ENG-8",
+    "label": "DAN BURN",
+    "section": "ENGLAND",
+    "type": "player",
+    "sticker_number": 8,
+    "album_page": null
+  },
+  {
+    "code": "RSA-8",
+    "label": "SIYABONGA NGEZANA",
+    "section": "SOUTH AFRICA",
+    "type": "player",
+    "sticker_number": 8,
+    "album_page": null
+  },
+  {
+    "code": "BRA-8",
+    "label": "WESLEY",
+    "section": "BRAZIL",
+    "type": "player",
+    "sticker_number": 8,
+    "album_page": null
+  },
+  {
+    "code": "PAR-8",
+    "label": "JÚNIOR ALONSO",
+    "section": "PARAGUAY",
+    "type": "player",
+    "sticker_number": 8,
+    "album_page": null
+  },
+  {
+    "code": "CIV-8",
+    "label": "EMMANUEL AGBADOU",
+    "section": "IVORY COAST",
+    "type": "player",
+    "sticker_number": 8,
+    "album_page": null
+  },
+  {
+    "code": "TUN-8",
+    "label": "DYLAN BRONN",
+    "section": "TUNISIA",
+    "type": "player",
+    "sticker_number": 8,
+    "album_page": null
+  },
+  {
+    "code": "ESP-8",
+    "label": "MARC CUCURELLA",
+    "section": "SPAIN",
+    "type": "player",
+    "sticker_number": 8,
+    "album_page": null
+  },
+  {
+    "code": "SEN-8",
+    "label": "KALIDOU KOULIBALY",
+    "section": "SENEGAL",
+    "type": "player",
+    "sticker_number": 8,
+    "album_page": null
+  },
+  {
+    "code": "AUT-8",
+    "label": "PHILLIPP MWENE",
+    "section": "AUSTRIA",
+    "type": "player",
+    "sticker_number": 8,
+    "album_page": null
+  },
+  {
+    "code": "COL-8",
+    "label": "JHON LUCUMÍ",
+    "section": "COLOMBIA",
+    "type": "player",
+    "sticker_number": 8,
+    "album_page": null
+  },
+  {
+    "code": "KOR-9",
+    "label": "MYUNGJAE LEE",
+    "section": "KOREA REPUBLIC",
+    "type": "player",
+    "sticker_number": 9,
+    "album_page": null
+  },
+  {
+    "code": "CAN-9",
+    "label": "KAMAL MILLER",
+    "section": "CANADA",
+    "type": "player",
+    "sticker_number": 9,
+    "album_page": null
+  },
+  {
+    "code": "QAT-9",
+    "label": "MOHAMMED MANNAI",
+    "section": "QATAR",
+    "type": "player",
+    "sticker_number": 9,
+    "album_page": null
+  },
+  {
+    "code": "SCO-9",
+    "label": "ANTHONY RALSTON",
+    "section": "SCOTLAND",
+    "type": "player",
+    "sticker_number": 9,
+    "album_page": null
+  },
+  {
+    "code": "GER-9",
+    "label": "MAXIMILIAN MITTELSTADT",
+    "section": "GERMANY",
+    "type": "player",
+    "sticker_number": 9,
+    "album_page": null
+  },
+  {
+    "code": "JPN-9",
+    "label": "YUKI SOMA",
+    "section": "JAPAN",
+    "type": "player",
+    "sticker_number": 9,
+    "album_page": null
+  },
+  {
+    "code": "IRN-9",
+    "label": "SADEGH MOHARRAMI",
+    "section": "IRAN",
+    "type": "player",
+    "sticker_number": 9,
+    "album_page": null
+  },
+  {
+    "code": "URU-9",
+    "label": "NHITAM NÁNDEZ",
+    "section": "URUGUAY",
+    "type": "player",
+    "sticker_number": 9,
+    "album_page": null
+  },
+  {
+    "code": "ARG-9",
+    "label": "ALEXIS MAC ALLISTER",
+    "section": "ARGENTINA",
+    "type": "player",
+    "sticker_number": 9,
+    "album_page": null
+  },
+  {
+    "code": "COD-9",
+    "label": "NGAL'AYEL MUKAU",
+    "section": "CONGO DR",
+    "type": "player",
+    "sticker_number": 9,
+    "album_page": null
+  },
+  {
+    "code": "GHA-9",
+    "label": "ABDUL ISSAHAKU FATAWU",
+    "section": "GHANA",
+    "type": "player",
+    "sticker_number": 9,
+    "album_page": null
+  },
+  {
+    "code": "CZE-9",
+    "label": "MICHAL SADÍLEK",
+    "section": "CZECHIA",
+    "type": "player",
+    "sticker_number": 9,
+    "album_page": null
+  },
+  {
+    "code": "SUI-9",
+    "label": "GRANIT XHAKA",
+    "section": "SWITZERLAND",
+    "type": "player",
+    "sticker_number": 9,
+    "album_page": null
+  },
+  {
+    "code": "USA-9",
+    "label": "TANNER TESSMANN",
+    "section": "USA",
+    "type": "player",
+    "sticker_number": 9,
+    "album_page": null
+  },
+  {
+    "code": "CUW-9",
+    "label": "LIVANO COMENENCIA",
+    "section": "CURACAO",
+    "type": "player",
+    "sticker_number": 9,
+    "album_page": null
+  },
+  {
+    "code": "SWE-9",
+    "label": "HUGO LARSSON",
+    "section": "SWEDEN",
+    "type": "player",
+    "sticker_number": 9,
+    "album_page": null
+  },
+  {
+    "code": "NZL-9",
+    "label": "FINN SURMAN",
+    "section": "NEW ZEALAND",
+    "type": "player",
+    "sticker_number": 9,
+    "album_page": null
+  },
+  {
+    "code": "FRA-9",
+    "label": "AURÉLIEN TCHOUAMÉNI",
+    "section": "FRANCE",
+    "type": "player",
+    "sticker_number": 9,
+    "album_page": null
+  },
+  {
+    "code": "ALG-9",
+    "label": "HOUSSEM AOUAR",
+    "section": "ALGERIA",
+    "type": "player",
+    "sticker_number": 9,
+    "album_page": null
+  },
+  {
+    "code": "UZB-9",
+    "label": "ABDUKODIR KHUSANOV",
+    "section": "UZBEKISTAN",
+    "type": "player",
+    "sticker_number": 9,
+    "album_page": null
+  },
+  {
+    "code": "PAN-9",
+    "label": "CÉSAR BLACKMAN",
+    "section": "PANAMA",
+    "type": "player",
+    "sticker_number": 9,
+    "album_page": null
+  },
+  {
+    "code": "BIH-9",
+    "label": "BENJAMIN TAHIROVIĆ",
+    "section": "BOSNIA-HERZEGOVINA",
+    "type": "player",
+    "sticker_number": 9,
+    "album_page": null
+  },
+  {
+    "code": "HAI-9",
+    "label": "HANNES DELCROIX",
+    "section": "HAITI",
+    "type": "player",
+    "sticker_number": 9,
+    "album_page": null
+  },
+  {
+    "code": "TUR-9",
+    "label": "KAAN AYHAN",
+    "section": "TURKEY",
+    "type": "player",
+    "sticker_number": 9,
+    "album_page": null
+  },
+  {
+    "code": "NED-9",
+    "label": "JAN PAUL VAN HECKE",
+    "section": "NETHERLANDS",
+    "type": "player",
+    "sticker_number": 9,
+    "album_page": null
+  },
+  {
+    "code": "EGY-9",
+    "label": "AHMES FATOUH",
+    "section": "EGYPT",
+    "type": "player",
+    "sticker_number": 9,
+    "album_page": null
+  },
+  {
+    "code": "KSA-9",
+    "label": "MUSAB ALJUWAYR",
+    "section": "SAUDI ARABIA",
+    "type": "player",
+    "sticker_number": 9,
+    "album_page": null
+  },
+  {
+    "code": "NOR-9",
+    "label": "MORTEN THORSBY",
+    "section": "NORWAY",
+    "type": "player",
+    "sticker_number": 9,
+    "album_page": null
+  },
+  {
+    "code": "POR-9",
+    "label": "BERNADO SILVA",
+    "section": "PORTUGAL",
+    "type": "player",
+    "sticker_number": 9,
+    "album_page": null
+  },
+  {
+    "code": "CRO-9",
+    "label": "LUKA MODRIĆ",
+    "section": "CROATIA",
+    "type": "player",
+    "sticker_number": 9,
+    "album_page": null
+  },
+  {
+    "code": "MEX-9",
+    "label": "CARLOS RODRÍGUEZ",
+    "section": "MEXICO",
+    "type": "player",
+    "sticker_number": 9,
+    "album_page": null
+  },
+  {
+    "code": "MAR-9",
+    "label": "ADAM MASINA",
+    "section": "MOROCCO",
+    "type": "player",
+    "sticker_number": 9,
+    "album_page": null
+  },
+  {
+    "code": "AUS-9",
+    "label": "LEWIS MILLER",
+    "section": "AUSTRALIA",
+    "type": "player",
+    "sticker_number": 9,
+    "album_page": null
+  },
+  {
+    "code": "ECU-9",
+    "label": "MOISÉS CAICEDO",
+    "section": "ECUADOR",
+    "type": "player",
+    "sticker_number": 9,
+    "album_page": null
+  },
+  {
+    "code": "BEL-9",
+    "label": "YOURI TIELEMAN",
+    "section": "BELGIUM",
+    "type": "player",
+    "sticker_number": 9,
+    "album_page": null
+  },
+  {
+    "code": "CPV-9",
+    "label": "YANNICK SEMEDO",
+    "section": "CAPE VERDE",
+    "type": "player",
+    "sticker_number": 9,
+    "album_page": null
+  },
+  {
+    "code": "IRQ-9",
+    "label": "ZIDANE IQBAL",
+    "section": "IRAQ",
+    "type": "player",
+    "sticker_number": 9,
+    "album_page": null
+  },
+  {
+    "code": "JOR-9",
+    "label": "IBRAHIM SAADEH",
+    "section": "JORDAN",
+    "type": "player",
+    "sticker_number": 9,
+    "album_page": null
+  },
+  {
+    "code": "ENG-9",
+    "label": "JORDAN HENDERSON",
+    "section": "ENGLAND",
+    "type": "player",
+    "sticker_number": 9,
+    "album_page": null
+  },
+  {
+    "code": "RSA-9",
+    "label": "KHULISO MUDAU",
+    "section": "SOUTH AFRICA",
+    "type": "player",
+    "sticker_number": 9,
+    "album_page": null
+  },
+  {
+    "code": "BRA-9",
+    "label": "LUCAS PAQUETÁ",
+    "section": "BRAZIL",
+    "type": "player",
+    "sticker_number": 9,
+    "album_page": null
+  },
+  {
+    "code": "PAR-9",
+    "label": "MATHÍAS VILLASANTI",
+    "section": "PARAGUAY",
+    "type": "player",
+    "sticker_number": 9,
+    "album_page": null
+  },
+  {
+    "code": "CIV-9",
+    "label": "OUSMANE DIOMANDE",
+    "section": "IVORY COAST",
+    "type": "player",
+    "sticker_number": 9,
+    "album_page": null
+  },
+  {
+    "code": "TUN-9",
+    "label": "ELLYES SKHIRI",
+    "section": "TUNISIA",
+    "type": "player",
+    "sticker_number": 9,
+    "album_page": null
+  },
+  {
+    "code": "ESP-9",
+    "label": "MARTÍN ZUBIMENDI",
+    "section": "SPAIN",
+    "type": "player",
+    "sticker_number": 9,
+    "album_page": null
+  },
+  {
+    "code": "SEN-9",
+    "label": "IDRISSA GANA GUEYE",
+    "section": "SENEGAL",
+    "type": "player",
+    "sticker_number": 9,
+    "album_page": null
+  },
+  {
+    "code": "AUT-9",
+    "label": "ALEXANDER PRASS",
+    "section": "AUSTRIA",
+    "type": "player",
+    "sticker_number": 9,
+    "album_page": null
+  },
+  {
+    "code": "COL-9",
+    "label": "SANTIAGO ARIAS",
+    "section": "COLOMBIA",
+    "type": "player",
+    "sticker_number": 9,
+    "album_page": null
+  },
+  {
+    "code": "CC-1",
+    "label": "LAMINE YAMAL",
+    "section": "COCA COLA",
+    "type": "player",
+    "sticker_number": 1,
+    "album_page": null
+  },
+  {
+    "code": "CC-10",
+    "label": "LAUTARO MARTÍNEZ",
+    "section": "COCA COLA",
+    "type": "player",
+    "sticker_number": 10,
+    "album_page": null
+  },
+  {
+    "code": "CC-11",
+    "label": "HARRY KANE",
+    "section": "COCA COLA",
+    "type": "player",
+    "sticker_number": 11,
+    "album_page": null
+  },
+  {
+    "code": "CC-12",
+    "label": "ANTONEE ROBINSON",
+    "section": "COCA COLA",
+    "type": "player",
+    "sticker_number": 12,
+    "album_page": null
+  },
+  {
+    "code": "CC-2",
+    "label": "JOSHUA KIMMICH",
+    "section": "COCA COLA",
+    "type": "player",
+    "sticker_number": 2,
+    "album_page": null
+  },
+  {
+    "code": "CC-3",
+    "label": "EDUARDO CAMAVINGA",
+    "section": "COCA COLA",
+    "type": "player",
+    "sticker_number": 3,
+    "album_page": null
+  },
+  {
+    "code": "CC-4",
+    "label": "JOŠKO GVARDIOL",
+    "section": "COCA COLA",
+    "type": "player",
+    "sticker_number": 4,
+    "album_page": null
+  },
+  {
+    "code": "CC-5",
+    "label": "FEDERICO VALVERDE",
+    "section": "COCA COLA",
+    "type": "player",
+    "sticker_number": 5,
+    "album_page": null
+  },
+  {
+    "code": "CC-6",
+    "label": "VIRGIL VAN DIJK",
+    "section": "COCA COLA",
+    "type": "player",
+    "sticker_number": 6,
+    "album_page": null
+  },
+  {
+    "code": "CC-7",
+    "label": "ALPHONSO DAVIES",
+    "section": "COCA COLA",
+    "type": "player",
+    "sticker_number": 7,
+    "album_page": null
+  },
+  {
+    "code": "CC-8",
+    "label": "RAÚL JIMÉNEZ",
+    "section": "COCA COLA",
+    "type": "player",
+    "sticker_number": 8,
+    "album_page": null
+  },
+  {
+    "code": "CC-9",
+    "label": "WILLIAM SALIBA",
+    "section": "COCA COLA",
+    "type": "player",
+    "sticker_number": 9,
+    "album_page": null
+  },
+  {
+    "code": "FWC-1",
+    "label": "WC LOGO",
+    "section": "FIFA WORLD CUP",
+    "type": "intro",
+    "sticker_number": 1,
+    "album_page": null
+  },
+  {
+    "code": "FWC-10",
+    "label": "URUGUAY 1950",
+    "section": "WORLD CUP HISTORY",
+    "type": "history",
+    "sticker_number": 10,
+    "album_page": null
+  },
+  {
+    "code": "FWC-11",
+    "label": "GERMANY 1964",
+    "section": "WORLD CUP HISTORY",
+    "type": "history",
+    "sticker_number": 11,
+    "album_page": null
+  },
+  {
+    "code": "FWC-12",
+    "label": "BRAZIL 1962",
+    "section": "WORLD CUP HISTORY",
+    "type": "history",
+    "sticker_number": 12,
+    "album_page": null
+  },
+  {
+    "code": "FWC-13",
+    "label": "GERMANY 1974",
+    "section": "WORLD CUP HISTORY",
+    "type": "history",
+    "sticker_number": 13,
+    "album_page": null
+  },
+  {
+    "code": "FWC-14",
+    "label": "ARGENTINA 1986",
+    "section": "WORLD CUP HISTORY",
+    "type": "history",
+    "sticker_number": 14,
+    "album_page": null
+  },
+  {
+    "code": "FWC-15",
+    "label": "BRAZIL 1994",
+    "section": "WORLD CUP HISTORY",
+    "type": "history",
+    "sticker_number": 15,
+    "album_page": null
+  },
+  {
+    "code": "FWC-16",
+    "label": "BRAZIL 2002",
+    "section": "WORLD CUP HISTORY",
+    "type": "history",
+    "sticker_number": 16,
+    "album_page": null
+  },
+  {
+    "code": "FWC-17",
+    "label": "ITALY 2006",
+    "section": "WORLD CUP HISTORY",
+    "type": "history",
+    "sticker_number": 17,
+    "album_page": null
+  },
+  {
+    "code": "FWC-18",
+    "label": "GERMANY 2014",
+    "section": "WORLD CUP HISTORY",
+    "type": "history",
+    "sticker_number": 18,
+    "album_page": null
+  },
+  {
+    "code": "FWC-19",
+    "label": "ARGENTINA 2022",
+    "section": "WORLD CUP HISTORY",
+    "type": "history",
+    "sticker_number": 19,
+    "album_page": null
+  },
+  {
+    "code": "FWC-2",
+    "label": "WC LOGO",
+    "section": "FIFA WORLD CUP",
+    "type": "intro",
+    "sticker_number": 2,
+    "album_page": null
+  },
+  {
+    "code": "FWC-3",
+    "label": "OFFICIAL MASCOTS",
+    "section": "FIFA WORLD CUP",
+    "type": "intro",
+    "sticker_number": 3,
+    "album_page": null
+  },
+  {
+    "code": "FWC-4",
+    "label": "OFFICIAL SLOGAN",
+    "section": "FIFA WORLD CUP",
+    "type": "intro",
+    "sticker_number": 4,
+    "album_page": null
+  },
+  {
+    "code": "FWC-5",
+    "label": "OFFICIAL BALL",
+    "section": "FIFA WORLD CUP",
+    "type": "intro",
+    "sticker_number": 5,
+    "album_page": null
+  },
+  {
+    "code": "FWC-6",
+    "label": "CANADA - HOST COUNTRY EMBLEM",
+    "section": "FIFA WORLD CUP",
+    "type": "intro",
+    "sticker_number": 6,
+    "album_page": null
+  },
+  {
+    "code": "FWC-7",
+    "label": "MEXICO - HOST COUNTRY EMBLEM",
+    "section": "FIFA WORLD CUP",
+    "type": "intro",
+    "sticker_number": 7,
+    "album_page": null
+  },
+  {
+    "code": "FWC-8",
+    "label": "USA - HOST COUNTRY EMBLEM",
+    "section": "FIFA WORLD CUP",
+    "type": "intro",
+    "sticker_number": 8,
+    "album_page": null
+  },
+  {
+    "code": "FWC-9",
+    "label": "ITALY 1934",
+    "section": "WORLD CUP HISTORY",
+    "type": "history",
+    "sticker_number": 9,
+    "album_page": null
+  }
+]
