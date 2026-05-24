@@ -5,7 +5,7 @@
     "section": "PANINI",
     "type": "intro",
     "sticker_number": 0,
-    "album_page": null
+    "album_page": 0
   },
   {
     "code": "KOR-1",
@@ -7693,7 +7693,7 @@
     "section": "COCA COLA",
     "type": "player",
     "sticker_number": 1,
-    "album_page": null
+    "album_page": 0
   },
   {
     "code": "CC-10",
@@ -7701,7 +7701,7 @@
     "section": "COCA COLA",
     "type": "player",
     "sticker_number": 10,
-    "album_page": null
+    "album_page": 0
   },
   {
     "code": "CC-11",
@@ -7709,7 +7709,7 @@
     "section": "COCA COLA",
     "type": "player",
     "sticker_number": 11,
-    "album_page": null
+    "album_page": 0
   },
   {
     "code": "CC-12",
@@ -7717,7 +7717,7 @@
     "section": "COCA COLA",
     "type": "player",
     "sticker_number": 12,
-    "album_page": null
+    "album_page": 0
   },
   {
     "code": "CC-2",
@@ -7725,7 +7725,7 @@
     "section": "COCA COLA",
     "type": "player",
     "sticker_number": 2,
-    "album_page": null
+    "album_page": 0
   },
   {
     "code": "CC-3",
@@ -7733,7 +7733,7 @@
     "section": "COCA COLA",
     "type": "player",
     "sticker_number": 3,
-    "album_page": null
+    "album_page": 0
   },
   {
     "code": "CC-4",
@@ -7741,7 +7741,7 @@
     "section": "COCA COLA",
     "type": "player",
     "sticker_number": 4,
-    "album_page": null
+    "album_page": 0
   },
   {
     "code": "CC-5",
@@ -7749,7 +7749,7 @@
     "section": "COCA COLA",
     "type": "player",
     "sticker_number": 5,
-    "album_page": null
+    "album_page": 0
   },
   {
     "code": "CC-6",
@@ -7757,7 +7757,7 @@
     "section": "COCA COLA",
     "type": "player",
     "sticker_number": 6,
-    "album_page": null
+    "album_page": 0
   },
   {
     "code": "CC-7",
@@ -7765,7 +7765,7 @@
     "section": "COCA COLA",
     "type": "player",
     "sticker_number": 7,
-    "album_page": null
+    "album_page": 0
   },
   {
     "code": "CC-8",
@@ -7773,7 +7773,7 @@
     "section": "COCA COLA",
     "type": "player",
     "sticker_number": 8,
-    "album_page": null
+    "album_page": 0
   },
   {
     "code": "CC-9",
@@ -7781,7 +7781,7 @@
     "section": "COCA COLA",
     "type": "player",
     "sticker_number": 9,
-    "album_page": null
+    "album_page": 0
   },
   {
     "code": "FWC-1",
@@ -7789,7 +7789,7 @@
     "section": "FIFA WORLD CUP",
     "type": "intro",
     "sticker_number": 1,
-    "album_page": null
+    "album_page": 0
   },
   {
     "code": "FWC-10",
@@ -7797,7 +7797,7 @@
     "section": "WORLD CUP HISTORY",
     "type": "history",
     "sticker_number": 10,
-    "album_page": null
+    "album_page": 0
   },
   {
     "code": "FWC-11",
@@ -7805,7 +7805,7 @@
     "section": "WORLD CUP HISTORY",
     "type": "history",
     "sticker_number": 11,
-    "album_page": null
+    "album_page": 0
   },
   {
     "code": "FWC-12",
@@ -7813,7 +7813,7 @@
     "section": "WORLD CUP HISTORY",
     "type": "history",
     "sticker_number": 12,
-    "album_page": null
+    "album_page": 0
   },
   {
     "code": "FWC-13",
@@ -7821,7 +7821,7 @@
     "section": "WORLD CUP HISTORY",
     "type": "history",
     "sticker_number": 13,
-    "album_page": null
+    "album_page": 0
   },
   {
     "code": "FWC-14",
@@ -7829,7 +7829,7 @@
     "section": "WORLD CUP HISTORY",
     "type": "history",
     "sticker_number": 14,
-    "album_page": null
+    "album_page": 0
   },
   {
     "code": "FWC-15",
@@ -7837,7 +7837,7 @@
     "section": "WORLD CUP HISTORY",
     "type": "history",
     "sticker_number": 15,
-    "album_page": null
+    "album_page": 0
   },
   {
     "code": "FWC-16",
@@ -7845,7 +7845,7 @@
     "section": "WORLD CUP HISTORY",
     "type": "history",
     "sticker_number": 16,
-    "album_page": null
+    "album_page": 0
   },
   {
     "code": "FWC-17",
@@ -7853,7 +7853,7 @@
     "section": "WORLD CUP HISTORY",
     "type": "history",
     "sticker_number": 17,
-    "album_page": null
+    "album_page": 0
   },
   {
     "code": "FWC-18",
@@ -7861,7 +7861,7 @@
     "section": "WORLD CUP HISTORY",
     "type": "history",
     "sticker_number": 18,
-    "album_page": null
+    "album_page": 0
   },
   {
     "code": "FWC-19",
@@ -7869,7 +7869,7 @@
     "section": "WORLD CUP HISTORY",
     "type": "history",
     "sticker_number": 19,
-    "album_page": null
+    "album_page": 0
   },
   {
     "code": "FWC-2",
@@ -7877,7 +7877,7 @@
     "section": "FIFA WORLD CUP",
     "type": "intro",
     "sticker_number": 2,
-    "album_page": null
+    "album_page": 0
   },
   {
     "code": "FWC-3",
@@ -7885,7 +7885,7 @@
     "section": "FIFA WORLD CUP",
     "type": "intro",
     "sticker_number": 3,
-    "album_page": null
+    "album_page": 0
   },
   {
     "code": "FWC-4",
@@ -7893,7 +7893,7 @@
     "section": "FIFA WORLD CUP",
     "type": "intro",
     "sticker_number": 4,
-    "album_page": null
+    "album_page": 0
   },
   {
     "code": "FWC-5",
@@ -7901,7 +7901,7 @@
     "section": "FIFA WORLD CUP",
     "type": "intro",
     "sticker_number": 5,
-    "album_page": null
+    "album_page": 0
   },
   {
     "code": "FWC-6",
@@ -7909,7 +7909,7 @@
     "section": "FIFA WORLD CUP",
     "type": "intro",
     "sticker_number": 6,
-    "album_page": null
+    "album_page": 0
   },
   {
     "code": "FWC-7",
@@ -7917,7 +7917,7 @@
     "section": "FIFA WORLD CUP",
     "type": "intro",
     "sticker_number": 7,
-    "album_page": null
+    "album_page": 0
   },
   {
     "code": "FWC-8",
@@ -7925,7 +7925,7 @@
     "section": "FIFA WORLD CUP",
     "type": "intro",
     "sticker_number": 8,
-    "album_page": null
+    "album_page": 0
   },
   {
     "code": "FWC-9",
@@ -7933,6 +7933,6 @@
     "section": "WORLD CUP HISTORY",
     "type": "history",
     "sticker_number": 9,
-    "album_page": null
+    "album_page": 0
   }
 ]
